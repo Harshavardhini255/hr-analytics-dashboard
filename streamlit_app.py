@@ -1,9 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go
-from plotly.subplots import make_subplots
-import numpy as np
 
 st.set_page_config(page_title="HR Analytics Dashboard", layout="wide")
 
@@ -13,11 +10,9 @@ DATA_DIR = "data"
 def load_data():
     emp = pd.read_csv(f"{DATA_DIR}/employees.csv")
     perf = pd.read_csv(f"{DATA_DIR}/performance_reviews.csv")
-    attendance = pd.read_csv(f"{DATA_DIR}/attendance.csv")
-    training = pd.read_csv(f"{DATA_DIR}/training.csv")
-    return emp, perf, attendance, training
+    return emp, perf
 
-emp, perf, attendance, training = load_data()
+emp, perf = load_data()
 
 emp['hire_year'] = pd.to_datetime(emp['hire_date'], errors='coerce').dt.year
 emp['salary_band'] = pd.cut(emp['salary'],
