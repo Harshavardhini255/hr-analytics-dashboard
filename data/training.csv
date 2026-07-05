@@ -1,0 +1,942 @@
+employee_id,training_name,training_category,start_date,end_date,duration_days,cost,completion_status,pre_training_score,post_training_score
+1,Data Analysis,Technical,2025-12-11,2025-12-12,1,371.16,Completed,62.1,73.79
+1,Safety Training,Compliance,2026-06-20,2026-06-23,3,1316.87,Dropped,60.39,85.87
+1,Communication Skills,Soft Skills,2026-05-07,2026-05-08,1,818.2,Completed,67.37,73.59
+2,Data Analysis,Technical,2025-08-03,2025-08-04,1,693.94,Completed,49.0,54.44
+2,Technical Skills,Technical,2026-03-31,2026-04-04,4,334.0,Completed,49.39,69.85
+4,Project Management,Management,2026-01-04,2026-01-05,1,668.89,In Progress,64.67,79.93
+4,Leadership Workshop,Leadership,2025-10-16,2025-10-20,4,1982.77,Completed,60.54,79.97
+4,Sales Techniques,Functional,2025-10-10,2025-10-14,4,516.95,Dropped,63.77,97.56
+6,Data Analysis,Technical,2026-04-25,2026-04-30,5,928.36,Completed,43.86,62.2
+6,Leadership Workshop,Leadership,2025-08-26,2025-08-28,2,672.28,Completed,56.25,90.04
+6,Safety Training,Compliance,2025-12-19,2025-12-23,4,1892.43,Dropped,50.72,75.35
+7,Technical Skills,Technical,2025-07-18,2025-07-21,3,471.68,Completed,52.88,63.43
+7,Leadership Workshop,Leadership,2026-03-04,2026-03-07,3,1378.04,In Progress,36.54,57.51
+7,Project Management,Management,2025-11-28,2025-12-02,4,1019.14,In Progress,45.73,73.07
+8,Project Management,Management,2025-12-28,2025-12-31,3,760.01,Completed,61.74,82.22
+8,Data Analysis,Technical,2026-03-04,2026-03-08,4,896.07,In Progress,64.1,80.98
+9,Project Management,Management,2026-01-20,2026-01-23,3,1459.04,Completed,34.71,56.66
+13,Project Management,Management,2026-06-25,2026-06-30,5,650.5,Dropped,46.18,66.52
+13,Sales Techniques,Functional,2025-09-27,2025-09-28,1,1358.49,Completed,62.14,94.86
+14,Technical Skills,Technical,2025-11-30,2025-12-01,1,1020.77,Completed,50.19,63.41
+14,Safety Training,Compliance,2025-08-25,2025-08-26,1,1890.21,Completed,48.67,81.14
+14,Communication Skills,Soft Skills,2025-12-29,2026-01-02,4,1154.98,In Progress,64.34,96.51
+16,Communication Skills,Soft Skills,2025-10-09,2025-10-11,2,900.74,Dropped,49.99,63.18
+16,Data Analysis,Technical,2025-10-04,2025-10-06,2,1919.83,Dropped,58.35,65.12
+16,Technical Skills,Technical,2026-01-09,2026-01-14,5,402.22,Dropped,54.96,85.13
+17,Leadership Workshop,Leadership,2026-06-02,2026-06-07,5,388.48,Completed,36.51,52.64
+17,Data Analysis,Technical,2025-12-08,2025-12-11,3,734.31,Completed,67.17,86.52
+17,Diversity & Inclusion,Soft Skills,2025-10-02,2025-10-03,1,938.82,Completed,65.68,87.27
+18,Project Management,Management,2025-09-20,2025-09-25,5,681.13,In Progress,40.06,66.99
+18,Communication Skills,Soft Skills,2026-06-20,2026-06-23,3,1864.31,Completed,38.69,45.65
+18,Sales Techniques,Functional,2026-01-29,2026-01-31,2,1117.69,In Progress,59.88,68.82
+18,Leadership Workshop,Leadership,2026-05-07,2026-05-12,5,1536.98,Completed,63.89,88.56
+19,Diversity & Inclusion,Soft Skills,2025-12-12,2025-12-13,1,1313.97,Completed,32.48,66.52
+21,Leadership Workshop,Leadership,2025-08-01,2025-08-02,1,1251.27,Dropped,34.78,55.13
+21,Project Management,Management,2025-09-13,2025-09-15,2,1061.84,Completed,57.97,70.73
+21,Communication Skills,Soft Skills,2026-02-06,2026-02-11,5,1440.72,Completed,59.99,75.25
+22,Technical Skills,Technical,2026-04-21,2026-04-23,2,1357.88,Completed,32.04,64.49
+22,Project Management,Management,2025-08-31,2025-09-02,2,366.44,Completed,58.63,88.36
+23,Safety Training,Compliance,2025-08-09,2025-08-11,2,252.99,Completed,61.6,75.2
+24,Leadership Workshop,Leadership,2026-03-23,2026-03-27,4,220.23,Completed,54.87,63.89
+24,Diversity & Inclusion,Soft Skills,2026-02-26,2026-02-28,2,650.24,Dropped,56.18,82.22
+25,Leadership Workshop,Leadership,2026-01-02,2026-01-03,1,1604.25,Dropped,41.15,55.89
+25,Sales Techniques,Functional,2026-02-08,2026-02-11,3,1082.77,Completed,32.11,66.4
+25,Project Management,Management,2026-01-11,2026-01-16,5,1569.98,Completed,68.65,91.53
+28,Diversity & Inclusion,Soft Skills,2025-07-26,2025-07-31,5,980.49,Completed,44.17,63.89
+29,Leadership Workshop,Leadership,2025-11-26,2025-11-28,2,1410.2,Dropped,45.95,68.01
+29,Diversity & Inclusion,Soft Skills,2025-12-04,2025-12-07,3,1930.51,Completed,53.08,62.57
+29,Sales Techniques,Functional,2025-11-20,2025-11-24,4,355.64,Completed,34.63,64.52
+31,Leadership Workshop,Leadership,2026-01-05,2026-01-10,5,1994.28,In Progress,58.75,75.81
+31,Technical Skills,Technical,2025-10-06,2025-10-07,1,1255.5,Completed,61.03,90.08
+31,Diversity & Inclusion,Soft Skills,2025-11-15,2025-11-20,5,928.35,Completed,60.67,74.91
+31,Sales Techniques,Functional,2026-05-02,2026-05-06,4,1598.79,Completed,33.28,67.9
+32,Data Analysis,Technical,2025-07-23,2025-07-26,3,910.79,Completed,46.47,78.07
+32,Safety Training,Compliance,2026-02-25,2026-02-26,1,1983.45,Completed,33.46,56.63
+33,Communication Skills,Soft Skills,2025-08-10,2025-08-11,1,1892.1,Dropped,69.23,82.83
+33,Data Analysis,Technical,2026-03-29,2026-04-01,3,405.32,Dropped,47.49,52.63
+33,Technical Skills,Technical,2026-02-09,2026-02-10,1,1838.98,Completed,67.44,74.18
+34,Safety Training,Compliance,2026-06-29,2026-07-02,3,1793.31,Completed,67.67,83.88
+34,Sales Techniques,Functional,2025-09-08,2025-09-12,4,1207.94,Dropped,32.5,62.75
+35,Technical Skills,Technical,2025-10-17,2025-10-18,1,793.21,Completed,46.5,62.45
+35,Diversity & Inclusion,Soft Skills,2025-11-02,2025-11-03,1,1888.69,Completed,65.58,83.93
+36,Leadership Workshop,Leadership,2025-07-08,2025-07-11,3,407.25,Completed,65.96,99.97
+36,Data Analysis,Technical,2026-01-27,2026-01-29,2,418.52,Completed,51.76,66.79
+36,Sales Techniques,Functional,2025-11-15,2025-11-18,3,1958.97,In Progress,38.33,57.72
+39,Safety Training,Compliance,2026-02-13,2026-02-18,5,1861.84,Dropped,35.84,45.24
+40,Sales Techniques,Functional,2026-02-05,2026-02-08,3,396.31,Completed,41.99,53.98
+40,Project Management,Management,2026-05-29,2026-05-30,1,971.59,Completed,32.44,58.38
+40,Data Analysis,Technical,2025-08-09,2025-08-11,2,1185.55,Completed,31.13,41.57
+42,Project Management,Management,2026-03-02,2026-03-05,3,1932.51,In Progress,41.49,55.71
+46,Sales Techniques,Functional,2025-12-04,2025-12-08,4,344.14,In Progress,54.49,75.83
+47,Leadership Workshop,Leadership,2025-09-10,2025-09-12,2,1541.35,Completed,61.37,75.56
+47,Safety Training,Compliance,2025-10-05,2025-10-06,1,1328.4,Completed,50.26,59.53
+48,Project Management,Management,2026-02-13,2026-02-14,1,412.12,Dropped,44.9,53.38
+48,Diversity & Inclusion,Soft Skills,2026-03-07,2026-03-10,3,841.94,Completed,66.42,100.0
+48,Sales Techniques,Functional,2025-11-20,2025-11-23,3,1285.52,Completed,49.01,76.0
+49,Safety Training,Compliance,2025-12-08,2025-12-10,2,1851.86,In Progress,42.05,49.99
+49,Sales Techniques,Functional,2026-04-15,2026-04-18,3,238.16,Completed,43.17,50.36
+49,Communication Skills,Soft Skills,2025-12-03,2025-12-06,3,1102.19,Completed,37.99,56.03
+50,Data Analysis,Technical,2025-09-21,2025-09-22,1,1160.16,In Progress,53.06,68.99
+50,Communication Skills,Soft Skills,2025-11-09,2025-11-13,4,456.65,Dropped,37.79,47.56
+50,Safety Training,Compliance,2025-07-19,2025-07-22,3,1395.37,Completed,54.61,78.13
+50,Project Management,Management,2026-02-18,2026-02-22,4,1846.81,Completed,58.7,87.14
+52,Project Management,Management,2025-12-27,2026-01-01,5,661.21,Completed,60.91,81.85
+52,Leadership Workshop,Leadership,2026-01-30,2026-02-01,2,689.75,Dropped,44.21,49.45
+53,Sales Techniques,Functional,2025-10-19,2025-10-20,1,488.07,Completed,59.27,79.13
+53,Safety Training,Compliance,2026-02-04,2026-02-09,5,972.69,Completed,46.38,72.89
+53,Diversity & Inclusion,Soft Skills,2025-11-26,2025-11-29,3,1652.11,In Progress,43.61,63.44
+54,Communication Skills,Soft Skills,2025-09-01,2025-09-06,5,964.94,Completed,31.11,47.41
+54,Diversity & Inclusion,Soft Skills,2025-08-18,2025-08-19,1,1130.76,Completed,54.97,63.02
+54,Leadership Workshop,Leadership,2025-12-21,2025-12-25,4,1670.68,Dropped,37.12,45.92
+55,Project Management,Management,2026-02-12,2026-02-15,3,1487.05,Completed,60.16,74.57
+55,Sales Techniques,Functional,2025-10-08,2025-10-11,3,345.91,Completed,43.84,51.31
+55,Communication Skills,Soft Skills,2026-05-20,2026-05-22,2,743.61,Completed,41.8,55.76
+57,Diversity & Inclusion,Soft Skills,2025-12-22,2025-12-24,2,1052.57,Completed,34.81,54.92
+58,Safety Training,Compliance,2026-05-08,2026-05-12,4,1043.87,In Progress,60.71,66.44
+59,Leadership Workshop,Leadership,2025-12-12,2025-12-16,4,1004.06,Completed,30.84,47.4
+61,Diversity & Inclusion,Soft Skills,2025-09-09,2025-09-13,4,521.97,Completed,49.57,73.99
+62,Leadership Workshop,Leadership,2025-09-19,2025-09-24,5,964.5,Completed,65.28,94.94
+62,Data Analysis,Technical,2025-09-24,2025-09-29,5,336.21,In Progress,49.54,57.16
+62,Communication Skills,Soft Skills,2025-10-30,2025-10-31,1,1781.21,Completed,30.55,39.19
+63,Project Management,Management,2025-10-11,2025-10-14,3,911.97,Completed,38.47,51.8
+63,Diversity & Inclusion,Soft Skills,2025-10-03,2025-10-08,5,1811.09,In Progress,42.72,51.19
+64,Leadership Workshop,Leadership,2026-01-30,2026-02-04,5,328.78,Completed,42.76,54.98
+66,Technical Skills,Technical,2025-09-07,2025-09-10,3,1383.94,Completed,50.19,80.4
+67,Communication Skills,Soft Skills,2025-09-04,2025-09-07,3,428.3,Completed,68.12,89.61
+67,Leadership Workshop,Leadership,2025-12-10,2025-12-14,4,1813.73,Dropped,48.4,73.56
+67,Safety Training,Compliance,2025-11-14,2025-11-18,4,517.77,Dropped,65.92,74.64
+68,Diversity & Inclusion,Soft Skills,2025-08-07,2025-08-08,1,1802.97,Dropped,60.72,82.64
+68,Technical Skills,Technical,2026-02-25,2026-03-02,5,1132.0,Completed,52.16,77.47
+69,Safety Training,Compliance,2026-02-08,2026-02-13,5,455.63,In Progress,54.5,81.86
+69,Leadership Workshop,Leadership,2026-06-13,2026-06-17,4,289.63,Dropped,67.3,76.46
+70,Data Analysis,Technical,2025-08-16,2025-08-18,2,1796.8,Completed,61.52,78.84
+70,Leadership Workshop,Leadership,2025-10-31,2025-11-01,1,1381.91,Completed,42.12,58.41
+70,Project Management,Management,2025-07-13,2025-07-18,5,307.41,Completed,64.4,88.87
+71,Leadership Workshop,Leadership,2026-04-26,2026-04-28,2,1118.8,Completed,67.95,76.11
+74,Communication Skills,Soft Skills,2025-12-21,2025-12-24,3,1440.02,Dropped,50.1,68.73
+74,Diversity & Inclusion,Soft Skills,2026-05-01,2026-05-04,3,480.69,In Progress,51.81,69.62
+74,Sales Techniques,Functional,2025-10-21,2025-10-25,4,461.87,In Progress,68.14,90.21
+75,Communication Skills,Soft Skills,2025-11-01,2025-11-03,2,1362.51,Completed,34.12,66.89
+75,Safety Training,Compliance,2026-01-27,2026-01-31,4,1157.81,Dropped,49.93,78.99
+75,Sales Techniques,Functional,2026-05-30,2026-06-04,5,1456.73,Dropped,57.67,63.62
+79,Data Analysis,Technical,2026-05-08,2026-05-13,5,696.31,Completed,63.31,94.89
+79,Leadership Workshop,Leadership,2026-04-29,2026-05-03,4,669.27,Completed,54.39,78.69
+80,Technical Skills,Technical,2025-10-21,2025-10-26,5,1166.61,Completed,45.49,77.0
+81,Safety Training,Compliance,2026-03-09,2026-03-13,4,1532.28,In Progress,33.83,61.84
+82,Sales Techniques,Functional,2026-03-10,2026-03-11,1,463.27,Completed,51.13,58.25
+82,Communication Skills,Soft Skills,2026-06-11,2026-06-16,5,1047.21,Completed,56.22,64.34
+82,Technical Skills,Technical,2026-02-27,2026-03-01,2,1496.53,In Progress,33.36,41.67
+82,Data Analysis,Technical,2025-12-07,2025-12-12,5,750.66,Completed,43.16,66.92
+83,Communication Skills,Soft Skills,2026-05-20,2026-05-23,3,1233.35,Completed,41.41,65.88
+83,Sales Techniques,Functional,2025-12-23,2025-12-28,5,874.26,Dropped,50.82,65.14
+83,Data Analysis,Technical,2026-02-06,2026-02-11,5,696.41,Completed,64.54,79.55
+83,Technical Skills,Technical,2026-02-28,2026-03-04,4,550.88,Completed,55.76,67.72
+84,Diversity & Inclusion,Soft Skills,2026-02-01,2026-02-02,1,1264.89,Completed,53.41,88.24
+84,Project Management,Management,2026-04-15,2026-04-19,4,496.33,Dropped,58.2,88.34
+86,Safety Training,Compliance,2026-03-30,2026-04-03,4,1606.29,Completed,51.52,58.27
+87,Sales Techniques,Functional,2026-05-02,2026-05-03,1,1322.76,Completed,56.05,62.36
+87,Data Analysis,Technical,2025-08-17,2025-08-20,3,1335.56,Dropped,65.94,100.0
+88,Communication Skills,Soft Skills,2026-03-11,2026-03-16,5,325.45,Completed,58.68,90.77
+88,Leadership Workshop,Leadership,2025-12-07,2025-12-11,4,1777.19,Dropped,55.61,73.15
+88,Project Management,Management,2025-10-05,2025-10-09,4,515.88,Dropped,40.02,66.27
+88,Technical Skills,Technical,2026-04-12,2026-04-16,4,1292.24,Completed,66.65,88.04
+89,Communication Skills,Soft Skills,2026-01-18,2026-01-19,1,1155.68,Dropped,51.42,77.95
+90,Technical Skills,Technical,2026-05-06,2026-05-08,2,1972.0,Completed,32.85,49.74
+90,Project Management,Management,2025-08-28,2025-08-31,3,1613.78,Completed,50.06,83.62
+90,Communication Skills,Soft Skills,2026-03-22,2026-03-23,1,364.51,Completed,37.24,56.23
+91,Leadership Workshop,Leadership,2026-04-10,2026-04-14,4,1429.48,Completed,42.55,57.19
+91,Diversity & Inclusion,Soft Skills,2025-08-28,2025-08-31,3,1626.68,Completed,34.01,55.87
+94,Diversity & Inclusion,Soft Skills,2025-07-27,2025-08-01,5,625.92,Completed,45.61,58.15
+95,Technical Skills,Technical,2025-07-20,2025-07-22,2,1693.66,Dropped,62.5,87.95
+95,Data Analysis,Technical,2026-03-09,2026-03-13,4,1780.19,Completed,35.49,54.92
+95,Diversity & Inclusion,Soft Skills,2026-04-22,2026-04-24,2,305.7,In Progress,58.91,90.13
+97,Sales Techniques,Functional,2025-09-28,2025-10-02,4,1198.0,Completed,64.82,98.14
+97,Project Management,Management,2026-03-19,2026-03-23,4,1209.84,Completed,42.67,69.2
+99,Diversity & Inclusion,Soft Skills,2025-08-11,2025-08-16,5,507.48,Completed,61.14,74.25
+100,Leadership Workshop,Leadership,2026-04-27,2026-05-02,5,878.71,Completed,50.9,74.98
+102,Communication Skills,Soft Skills,2025-11-06,2025-11-10,4,1160.94,Completed,63.97,74.3
+102,Data Analysis,Technical,2025-09-18,2025-09-19,1,1719.32,Dropped,60.69,69.28
+102,Technical Skills,Technical,2025-07-09,2025-07-11,2,762.08,Completed,52.68,57.74
+102,Project Management,Management,2025-08-19,2025-08-24,5,1156.18,Completed,47.24,64.46
+104,Leadership Workshop,Leadership,2026-01-24,2026-01-25,1,1504.65,Completed,49.39,72.69
+104,Data Analysis,Technical,2026-01-18,2026-01-19,1,455.37,Dropped,67.92,89.84
+104,Technical Skills,Technical,2025-11-17,2025-11-19,2,1792.87,Completed,40.24,58.61
+104,Sales Techniques,Functional,2025-08-18,2025-08-20,2,337.78,Completed,52.13,65.13
+105,Technical Skills,Technical,2026-02-15,2026-02-17,2,1483.21,In Progress,53.8,65.55
+105,Safety Training,Compliance,2025-12-22,2025-12-23,1,1867.68,Completed,39.11,55.92
+105,Sales Techniques,Functional,2025-11-30,2025-12-05,5,450.56,Completed,39.93,58.67
+107,Diversity & Inclusion,Soft Skills,2026-06-07,2026-06-10,3,1377.58,Completed,54.09,64.84
+107,Data Analysis,Technical,2025-11-29,2025-12-01,2,649.14,Completed,30.33,51.1
+110,Project Management,Management,2025-07-27,2025-07-29,2,638.05,Completed,67.05,96.97
+110,Communication Skills,Soft Skills,2026-06-07,2026-06-09,2,808.08,In Progress,69.87,80.86
+110,Diversity & Inclusion,Soft Skills,2026-06-19,2026-06-22,3,1200.12,Dropped,32.89,44.33
+110,Safety Training,Compliance,2025-09-21,2025-09-26,5,1242.1,Completed,46.4,58.16
+111,Leadership Workshop,Leadership,2026-02-22,2026-02-24,2,1086.83,Completed,36.97,54.49
+112,Data Analysis,Technical,2025-11-01,2025-11-05,4,1228.29,Completed,65.94,89.06
+112,Communication Skills,Soft Skills,2025-07-28,2025-08-01,4,1724.96,Completed,68.45,79.72
+113,Leadership Workshop,Leadership,2025-08-01,2025-08-04,3,1818.98,Dropped,66.0,98.0
+114,Sales Techniques,Functional,2026-03-20,2026-03-23,3,1247.63,Completed,30.61,37.63
+114,Project Management,Management,2025-11-19,2025-11-21,2,687.52,Completed,57.92,83.21
+114,Technical Skills,Technical,2025-08-08,2025-08-11,3,1974.43,Completed,44.81,71.46
+115,Project Management,Management,2025-08-13,2025-08-18,5,1812.09,Dropped,68.48,97.73
+115,Data Analysis,Technical,2026-01-25,2026-01-27,2,1619.96,In Progress,30.31,53.81
+115,Sales Techniques,Functional,2025-11-12,2025-11-13,1,656.86,Dropped,62.33,86.04
+115,Leadership Workshop,Leadership,2026-01-16,2026-01-19,3,1798.01,In Progress,52.36,79.67
+116,Project Management,Management,2025-12-01,2025-12-03,2,1155.77,Completed,37.92,56.59
+117,Safety Training,Compliance,2025-09-02,2025-09-05,3,1727.3,Completed,69.79,83.3
+118,Communication Skills,Soft Skills,2025-07-20,2025-07-25,5,1503.09,Completed,45.97,61.18
+118,Leadership Workshop,Leadership,2026-04-16,2026-04-17,1,1810.17,In Progress,39.85,69.88
+118,Data Analysis,Technical,2026-04-06,2026-04-07,1,1873.18,Completed,45.23,52.48
+119,Project Management,Management,2025-08-15,2025-08-20,5,693.72,Completed,59.57,71.39
+119,Data Analysis,Technical,2026-06-06,2026-06-07,1,1573.08,Completed,32.5,56.53
+119,Leadership Workshop,Leadership,2026-05-21,2026-05-26,5,414.26,Dropped,54.77,62.96
+119,Communication Skills,Soft Skills,2026-04-13,2026-04-18,5,1621.62,Completed,57.79,62.85
+120,Technical Skills,Technical,2026-01-22,2026-01-25,3,839.94,In Progress,65.67,88.69
+120,Data Analysis,Technical,2025-11-01,2025-11-04,3,831.47,Completed,63.98,74.71
+121,Diversity & Inclusion,Soft Skills,2026-04-11,2026-04-12,1,686.2,Dropped,56.56,83.55
+122,Sales Techniques,Functional,2025-07-21,2025-07-26,5,1944.91,Dropped,61.95,78.56
+123,Diversity & Inclusion,Soft Skills,2025-07-28,2025-07-31,3,1906.33,Completed,34.43,60.53
+123,Technical Skills,Technical,2026-01-29,2026-02-02,4,1987.28,Completed,52.64,61.83
+124,Diversity & Inclusion,Soft Skills,2026-03-08,2026-03-13,5,353.28,Completed,48.91,62.28
+125,Data Analysis,Technical,2025-08-22,2025-08-23,1,411.83,Dropped,41.19,63.49
+125,Diversity & Inclusion,Soft Skills,2026-05-02,2026-05-04,2,702.49,In Progress,54.27,72.82
+126,Safety Training,Compliance,2026-03-23,2026-03-26,3,1200.36,Dropped,45.29,55.23
+127,Communication Skills,Soft Skills,2026-02-01,2026-02-06,5,546.68,Completed,62.63,80.05
+128,Technical Skills,Technical,2025-12-04,2025-12-05,1,917.55,In Progress,49.72,61.16
+128,Diversity & Inclusion,Soft Skills,2026-05-11,2026-05-16,5,1398.22,In Progress,43.45,50.78
+129,Diversity & Inclusion,Soft Skills,2025-10-31,2025-11-04,4,1882.27,Completed,39.79,73.86
+129,Leadership Workshop,Leadership,2026-05-06,2026-05-09,3,405.59,In Progress,47.49,67.77
+129,Data Analysis,Technical,2026-04-09,2026-04-11,2,550.09,In Progress,49.23,58.03
+130,Technical Skills,Technical,2026-03-18,2026-03-23,5,750.89,Completed,67.48,100.0
+130,Sales Techniques,Functional,2026-01-18,2026-01-23,5,1566.73,Completed,44.4,75.39
+133,Communication Skills,Soft Skills,2025-09-16,2025-09-21,5,809.73,In Progress,58.72,84.68
+133,Technical Skills,Technical,2026-02-20,2026-02-23,3,1769.33,Completed,57.09,80.02
+133,Sales Techniques,Functional,2025-09-09,2025-09-13,4,1748.57,In Progress,63.41,89.66
+133,Data Analysis,Technical,2026-03-27,2026-03-29,2,882.94,Dropped,56.14,73.76
+134,Sales Techniques,Functional,2026-02-24,2026-02-25,1,349.44,Completed,48.97,75.29
+134,Diversity & Inclusion,Soft Skills,2026-06-20,2026-06-23,3,1131.33,Completed,48.93,78.2
+134,Technical Skills,Technical,2026-03-19,2026-03-21,2,1588.9,Dropped,44.51,69.94
+134,Communication Skills,Soft Skills,2025-11-09,2025-11-13,4,1975.82,Completed,32.46,50.3
+135,Communication Skills,Soft Skills,2026-06-26,2026-07-01,5,499.46,In Progress,54.33,87.75
+135,Technical Skills,Technical,2026-03-05,2026-03-06,1,787.85,In Progress,42.97,75.65
+135,Sales Techniques,Functional,2025-12-04,2025-12-09,5,743.03,In Progress,43.94,69.45
+135,Safety Training,Compliance,2025-07-06,2025-07-08,2,219.43,In Progress,55.36,61.02
+136,Leadership Workshop,Leadership,2025-11-10,2025-11-14,4,444.68,Dropped,30.22,42.13
+136,Diversity & Inclusion,Soft Skills,2026-06-28,2026-07-02,4,1949.98,In Progress,30.6,41.22
+136,Communication Skills,Soft Skills,2026-02-18,2026-02-19,1,1207.5,Completed,45.62,66.33
+137,Leadership Workshop,Leadership,2026-04-13,2026-04-14,1,1710.19,Dropped,57.61,63.55
+137,Technical Skills,Technical,2026-02-08,2026-02-12,4,1116.78,Completed,64.38,72.1
+137,Project Management,Management,2026-02-15,2026-02-19,4,530.7,Completed,42.86,66.02
+137,Diversity & Inclusion,Soft Skills,2026-06-03,2026-06-04,1,1266.22,In Progress,42.51,69.5
+138,Diversity & Inclusion,Soft Skills,2026-05-08,2026-05-11,3,1524.87,Completed,57.43,71.96
+140,Leadership Workshop,Leadership,2026-07-02,2026-07-05,3,1153.42,Completed,40.34,46.51
+141,Leadership Workshop,Leadership,2026-03-11,2026-03-12,1,744.51,Completed,42.9,65.57
+141,Communication Skills,Soft Skills,2026-07-05,2026-07-07,2,330.05,Completed,68.48,86.57
+141,Safety Training,Compliance,2026-06-01,2026-06-03,2,1933.2,Completed,57.24,65.2
+141,Project Management,Management,2026-02-17,2026-02-22,5,747.37,Dropped,41.93,70.38
+142,Project Management,Management,2026-01-26,2026-01-27,1,999.98,Completed,67.62,97.56
+142,Leadership Workshop,Leadership,2026-01-21,2026-01-23,2,1506.24,Completed,50.64,76.49
+143,Project Management,Management,2026-06-04,2026-06-07,3,528.2,Completed,54.78,67.39
+143,Diversity & Inclusion,Soft Skills,2026-03-19,2026-03-24,5,498.9,Completed,57.69,76.1
+144,Technical Skills,Technical,2025-12-21,2025-12-24,3,433.97,Dropped,56.94,90.05
+144,Project Management,Management,2026-04-09,2026-04-13,4,585.86,Completed,50.29,77.89
+144,Diversity & Inclusion,Soft Skills,2025-12-15,2025-12-17,2,728.99,Completed,39.71,47.5
+144,Safety Training,Compliance,2026-03-03,2026-03-05,2,1529.01,Dropped,56.85,66.95
+146,Leadership Workshop,Leadership,2025-11-22,2025-11-24,2,689.94,Completed,69.61,100.0
+146,Diversity & Inclusion,Soft Skills,2026-03-17,2026-03-21,4,1320.59,Completed,64.03,92.53
+146,Safety Training,Compliance,2025-11-17,2025-11-22,5,1197.62,Completed,68.69,86.64
+146,Technical Skills,Technical,2026-05-25,2026-05-29,4,1189.5,In Progress,52.94,62.22
+148,Diversity & Inclusion,Soft Skills,2025-08-10,2025-08-15,5,1819.52,In Progress,37.23,64.38
+148,Communication Skills,Soft Skills,2026-01-29,2026-02-03,5,1812.24,Completed,69.11,80.74
+148,Leadership Workshop,Leadership,2025-09-21,2025-09-23,2,1697.81,In Progress,38.56,64.83
+148,Safety Training,Compliance,2026-05-13,2026-05-17,4,500.62,Completed,50.37,72.41
+149,Technical Skills,Technical,2026-06-29,2026-07-02,3,1253.59,Dropped,38.49,54.33
+149,Diversity & Inclusion,Soft Skills,2025-11-01,2025-11-02,1,1815.48,In Progress,39.58,59.89
+149,Project Management,Management,2026-06-29,2026-07-02,3,1795.46,Dropped,49.35,58.83
+149,Safety Training,Compliance,2026-02-24,2026-02-26,2,1317.7,Completed,59.34,74.13
+150,Sales Techniques,Functional,2025-11-29,2025-12-03,4,444.28,Completed,60.1,91.3
+151,Project Management,Management,2025-12-01,2025-12-02,1,1142.17,Completed,51.5,57.61
+151,Sales Techniques,Functional,2026-04-17,2026-04-21,4,619.25,Completed,69.54,77.84
+151,Technical Skills,Technical,2026-03-18,2026-03-23,5,1347.6,Completed,44.82,71.28
+152,Project Management,Management,2026-04-02,2026-04-07,5,809.41,Completed,35.14,50.24
+153,Project Management,Management,2026-04-11,2026-04-14,3,1811.0,Completed,58.02,78.09
+154,Diversity & Inclusion,Soft Skills,2025-08-05,2025-08-06,1,389.8,In Progress,69.91,96.95
+154,Technical Skills,Technical,2025-11-20,2025-11-24,4,1308.47,In Progress,37.58,53.1
+155,Leadership Workshop,Leadership,2025-12-12,2025-12-13,1,497.8,In Progress,69.68,75.67
+155,Safety Training,Compliance,2026-05-07,2026-05-12,5,1719.32,Completed,32.12,62.06
+155,Technical Skills,Technical,2025-10-01,2025-10-06,5,1108.02,In Progress,50.86,69.75
+155,Diversity & Inclusion,Soft Skills,2025-11-22,2025-11-24,2,343.75,Dropped,64.87,91.78
+156,Safety Training,Compliance,2026-03-02,2026-03-07,5,1498.78,Completed,54.25,85.93
+156,Data Analysis,Technical,2026-05-30,2026-06-04,5,455.69,In Progress,51.14,84.17
+156,Project Management,Management,2026-03-05,2026-03-08,3,720.94,Completed,31.86,38.08
+156,Technical Skills,Technical,2026-05-21,2026-05-22,1,630.12,Dropped,61.37,94.3
+157,Technical Skills,Technical,2025-11-08,2025-11-09,1,579.39,Dropped,67.01,75.2
+157,Data Analysis,Technical,2025-08-15,2025-08-19,4,1181.8,Completed,59.25,74.42
+157,Safety Training,Compliance,2026-03-06,2026-03-11,5,535.38,Completed,36.39,44.12
+157,Sales Techniques,Functional,2026-03-04,2026-03-07,3,935.18,Completed,47.88,77.42
+158,Project Management,Management,2025-09-03,2025-09-08,5,619.4,In Progress,53.89,72.85
+159,Sales Techniques,Functional,2025-12-26,2025-12-29,3,1870.98,Dropped,36.16,70.82
+159,Diversity & Inclusion,Soft Skills,2026-03-12,2026-03-16,4,1364.65,Dropped,69.46,97.55
+159,Project Management,Management,2026-02-19,2026-02-23,4,368.71,Completed,40.69,52.22
+159,Data Analysis,Technical,2025-07-05,2025-07-08,3,993.32,Dropped,61.19,90.55
+160,Sales Techniques,Functional,2025-09-16,2025-09-18,2,338.07,Completed,37.92,56.49
+160,Technical Skills,Technical,2025-08-06,2025-08-08,2,1893.68,Completed,31.56,40.01
+161,Technical Skills,Technical,2026-02-10,2026-02-11,1,871.46,Completed,57.88,79.08
+161,Diversity & Inclusion,Soft Skills,2026-06-08,2026-06-09,1,1162.04,Completed,59.89,74.11
+161,Sales Techniques,Functional,2026-05-12,2026-05-17,5,212.69,In Progress,58.48,83.92
+162,Technical Skills,Technical,2025-11-16,2025-11-20,4,442.9,Completed,52.93,82.01
+162,Diversity & Inclusion,Soft Skills,2026-06-11,2026-06-12,1,1202.96,In Progress,37.18,69.75
+163,Safety Training,Compliance,2025-11-23,2025-11-25,2,1778.2,In Progress,31.74,50.9
+163,Leadership Workshop,Leadership,2025-10-27,2025-10-31,4,1982.71,Completed,36.31,58.56
+163,Technical Skills,Technical,2025-08-13,2025-08-18,5,310.12,Dropped,39.22,61.38
+163,Communication Skills,Soft Skills,2026-02-17,2026-02-20,3,1425.5,Dropped,68.84,75.42
+164,Project Management,Management,2025-07-18,2025-07-20,2,1763.06,Completed,48.23,60.03
+164,Diversity & Inclusion,Soft Skills,2025-07-25,2025-07-29,4,1341.29,Completed,62.79,83.08
+164,Sales Techniques,Functional,2026-02-09,2026-02-12,3,615.14,Dropped,30.25,60.76
+166,Diversity & Inclusion,Soft Skills,2026-01-26,2026-01-27,1,1193.32,In Progress,61.45,91.0
+166,Technical Skills,Technical,2026-03-18,2026-03-23,5,682.4,Completed,62.49,70.09
+166,Sales Techniques,Functional,2026-02-17,2026-02-20,3,262.78,Dropped,63.78,85.28
+166,Data Analysis,Technical,2026-06-21,2026-06-23,2,507.33,Completed,40.31,68.94
+167,Sales Techniques,Functional,2025-11-26,2025-11-27,1,1006.98,Dropped,33.53,56.68
+169,Sales Techniques,Functional,2025-08-02,2025-08-03,1,403.73,Dropped,66.32,97.21
+169,Communication Skills,Soft Skills,2026-03-04,2026-03-08,4,1686.39,Completed,53.66,76.27
+170,Communication Skills,Soft Skills,2026-05-27,2026-06-01,5,1465.04,Completed,49.98,74.03
+170,Project Management,Management,2026-04-19,2026-04-24,5,205.09,Dropped,54.87,70.18
+170,Leadership Workshop,Leadership,2025-07-12,2025-07-17,5,1974.57,In Progress,46.02,56.14
+170,Data Analysis,Technical,2025-10-13,2025-10-15,2,400.23,Dropped,63.86,86.78
+172,Safety Training,Compliance,2025-07-26,2025-07-28,2,1622.69,Completed,33.12,63.23
+172,Diversity & Inclusion,Soft Skills,2026-05-08,2026-05-12,4,854.45,In Progress,54.36,75.2
+172,Sales Techniques,Functional,2025-09-26,2025-09-27,1,966.99,Dropped,62.99,70.59
+172,Communication Skills,Soft Skills,2026-07-01,2026-07-05,4,1068.2,Completed,62.28,80.69
+173,Communication Skills,Soft Skills,2025-08-26,2025-08-28,2,762.37,In Progress,30.72,40.98
+173,Technical Skills,Technical,2026-05-31,2026-06-05,5,1737.65,Completed,45.93,63.34
+174,Safety Training,Compliance,2025-08-17,2025-08-18,1,815.03,Dropped,65.81,79.5
+174,Technical Skills,Technical,2026-05-11,2026-05-16,5,1452.66,Dropped,34.74,55.08
+174,Data Analysis,Technical,2026-05-25,2026-05-30,5,1054.94,Completed,63.82,78.22
+174,Diversity & Inclusion,Soft Skills,2025-08-22,2025-08-24,2,427.53,In Progress,31.68,60.37
+175,Technical Skills,Technical,2026-05-28,2026-06-02,5,977.99,Completed,39.6,50.2
+175,Diversity & Inclusion,Soft Skills,2026-03-15,2026-03-17,2,1272.74,In Progress,49.88,57.38
+175,Leadership Workshop,Leadership,2026-01-11,2026-01-16,5,728.2,Dropped,41.69,51.04
+178,Technical Skills,Technical,2026-01-26,2026-01-27,1,550.39,Completed,59.06,79.14
+178,Project Management,Management,2025-12-15,2025-12-19,4,840.72,Completed,45.05,53.91
+178,Leadership Workshop,Leadership,2026-04-11,2026-04-15,4,573.24,Dropped,40.37,53.05
+179,Diversity & Inclusion,Soft Skills,2025-08-12,2025-08-14,2,668.71,Dropped,69.31,85.27
+179,Data Analysis,Technical,2025-07-22,2025-07-27,5,1133.08,Completed,49.59,80.34
+180,Leadership Workshop,Leadership,2026-01-10,2026-01-14,4,1044.33,Completed,58.78,81.85
+180,Data Analysis,Technical,2025-11-26,2025-12-01,5,1481.26,Dropped,51.11,75.64
+180,Sales Techniques,Functional,2026-02-03,2026-02-06,3,231.3,In Progress,59.81,68.34
+181,Leadership Workshop,Leadership,2026-02-13,2026-02-17,4,687.63,In Progress,34.55,58.94
+181,Diversity & Inclusion,Soft Skills,2025-12-08,2025-12-10,2,726.95,Completed,42.99,53.97
+181,Communication Skills,Soft Skills,2025-12-24,2025-12-26,2,1926.06,In Progress,30.88,45.54
+182,Leadership Workshop,Leadership,2025-10-05,2025-10-06,1,929.63,Completed,63.38,87.67
+182,Sales Techniques,Functional,2026-05-16,2026-05-17,1,1439.72,Completed,41.09,59.22
+182,Project Management,Management,2025-07-26,2025-07-29,3,908.25,Completed,35.7,55.19
+183,Sales Techniques,Functional,2026-06-20,2026-06-21,1,420.36,Dropped,46.37,54.71
+184,Diversity & Inclusion,Soft Skills,2025-08-04,2025-08-06,2,1473.98,Completed,64.92,81.4
+187,Technical Skills,Technical,2025-10-29,2025-11-01,3,265.32,Completed,40.9,53.89
+187,Diversity & Inclusion,Soft Skills,2025-07-21,2025-07-23,2,1831.49,Completed,35.6,55.98
+187,Communication Skills,Soft Skills,2025-09-08,2025-09-11,3,1178.41,Completed,46.63,72.25
+189,Technical Skills,Technical,2025-08-14,2025-08-15,1,1628.96,Completed,62.44,91.67
+189,Leadership Workshop,Leadership,2026-02-03,2026-02-07,4,407.4,Completed,49.31,69.98
+190,Project Management,Management,2026-06-20,2026-06-22,2,822.14,Completed,56.27,65.94
+190,Safety Training,Compliance,2025-11-24,2025-11-27,3,414.43,Completed,44.75,75.5
+191,Data Analysis,Technical,2026-06-10,2026-06-11,1,680.12,Completed,69.68,78.71
+192,Technical Skills,Technical,2026-01-26,2026-01-28,2,1208.41,Completed,50.04,59.19
+192,Diversity & Inclusion,Soft Skills,2026-06-12,2026-06-14,2,868.57,Completed,41.7,69.02
+195,Diversity & Inclusion,Soft Skills,2026-01-24,2026-01-29,5,1359.43,Dropped,40.08,61.17
+196,Sales Techniques,Functional,2026-04-13,2026-04-15,2,1121.04,Completed,67.95,94.57
+196,Technical Skills,Technical,2025-12-18,2025-12-21,3,853.77,In Progress,39.62,58.99
+197,Project Management,Management,2026-02-14,2026-02-16,2,438.11,Completed,39.23,73.99
+198,Diversity & Inclusion,Soft Skills,2025-09-03,2025-09-04,1,1150.59,Dropped,63.96,70.45
+198,Project Management,Management,2025-08-21,2025-08-23,2,709.61,Completed,36.67,44.4
+200,Diversity & Inclusion,Soft Skills,2026-03-23,2026-03-25,2,1756.71,Dropped,50.95,57.76
+200,Safety Training,Compliance,2025-08-10,2025-08-15,5,1767.3,Completed,58.63,81.86
+201,Safety Training,Compliance,2025-08-14,2025-08-18,4,220.31,Dropped,63.48,84.39
+201,Project Management,Management,2026-01-25,2026-01-26,1,1324.92,Dropped,47.55,70.53
+202,Data Analysis,Technical,2026-01-11,2026-01-16,5,1373.74,In Progress,37.08,48.79
+202,Safety Training,Compliance,2026-03-16,2026-03-18,2,1068.87,Completed,62.49,67.77
+203,Safety Training,Compliance,2026-02-08,2026-02-11,3,1458.22,Completed,37.5,68.73
+203,Sales Techniques,Functional,2026-02-15,2026-02-19,4,490.87,Dropped,49.13,61.11
+204,Safety Training,Compliance,2025-09-17,2025-09-18,1,619.06,Dropped,68.45,79.61
+204,Technical Skills,Technical,2025-11-18,2025-11-22,4,1206.78,Completed,53.31,85.41
+204,Project Management,Management,2026-05-22,2026-05-27,5,1431.55,Completed,60.13,76.17
+205,Data Analysis,Technical,2026-03-02,2026-03-04,2,1636.74,In Progress,30.62,51.29
+205,Leadership Workshop,Leadership,2025-12-23,2025-12-25,2,747.27,Completed,39.66,54.8
+205,Technical Skills,Technical,2025-10-28,2025-10-30,2,875.81,Completed,56.99,68.4
+207,Sales Techniques,Functional,2026-03-08,2026-03-13,5,246.5,Completed,38.98,68.01
+207,Project Management,Management,2025-10-11,2025-10-12,1,1355.04,Completed,62.29,84.65
+207,Diversity & Inclusion,Soft Skills,2026-04-28,2026-04-29,1,868.52,Completed,36.83,65.02
+208,Sales Techniques,Functional,2025-09-06,2025-09-09,3,1261.31,In Progress,45.27,55.79
+208,Project Management,Management,2026-01-27,2026-01-31,4,403.75,Completed,55.47,71.37
+208,Data Analysis,Technical,2025-09-21,2025-09-24,3,1950.86,Dropped,41.8,62.49
+208,Technical Skills,Technical,2025-09-04,2025-09-05,1,972.73,In Progress,60.65,77.94
+210,Sales Techniques,Functional,2026-01-11,2026-01-12,1,1081.22,Dropped,57.42,91.88
+210,Technical Skills,Technical,2026-02-13,2026-02-16,3,496.7,Dropped,54.31,80.45
+210,Data Analysis,Technical,2025-11-22,2025-11-24,2,314.95,Completed,67.63,73.46
+211,Technical Skills,Technical,2026-04-27,2026-05-01,4,520.78,Completed,66.82,88.92
+211,Project Management,Management,2025-09-21,2025-09-26,5,1107.51,Completed,65.91,93.25
+211,Leadership Workshop,Leadership,2025-11-02,2025-11-04,2,1815.61,In Progress,48.75,73.83
+211,Diversity & Inclusion,Soft Skills,2025-11-26,2025-11-29,3,227.13,Completed,37.44,46.96
+212,Technical Skills,Technical,2026-05-28,2026-05-30,2,1699.22,Completed,54.12,75.96
+212,Project Management,Management,2026-06-11,2026-06-15,4,639.97,Completed,55.07,76.04
+212,Data Analysis,Technical,2025-11-18,2025-11-21,3,1155.74,In Progress,67.74,88.26
+212,Safety Training,Compliance,2026-04-03,2026-04-05,2,1699.06,Completed,40.92,59.87
+213,Sales Techniques,Functional,2025-08-28,2025-08-30,2,436.98,Completed,59.36,81.43
+213,Project Management,Management,2026-03-25,2026-03-28,3,1611.63,Dropped,36.84,45.93
+214,Communication Skills,Soft Skills,2026-06-24,2026-06-29,5,355.93,Completed,62.2,94.03
+214,Leadership Workshop,Leadership,2025-10-12,2025-10-17,5,816.34,Completed,62.6,69.9
+214,Data Analysis,Technical,2026-01-13,2026-01-17,4,1036.6,Completed,47.92,57.81
+216,Technical Skills,Technical,2026-02-27,2026-03-01,2,259.67,Completed,60.04,93.17
+216,Communication Skills,Soft Skills,2025-10-03,2025-10-07,4,1470.33,Dropped,61.77,86.97
+216,Data Analysis,Technical,2025-07-19,2025-07-20,1,618.74,Completed,57.44,84.58
+217,Sales Techniques,Functional,2026-04-13,2026-04-14,1,589.61,In Progress,58.84,70.51
+218,Safety Training,Compliance,2025-10-11,2025-10-12,1,1799.83,Completed,56.08,72.72
+218,Sales Techniques,Functional,2025-07-06,2025-07-08,2,1641.81,Completed,57.66,83.23
+219,Diversity & Inclusion,Soft Skills,2026-06-01,2026-06-03,2,1094.1,Dropped,40.23,45.25
+219,Communication Skills,Soft Skills,2025-08-10,2025-08-13,3,1709.69,Completed,65.99,88.64
+219,Safety Training,Compliance,2026-06-25,2026-06-27,2,1702.51,In Progress,60.63,74.07
+219,Data Analysis,Technical,2026-01-06,2026-01-10,4,1765.96,Completed,47.81,81.52
+220,Communication Skills,Soft Skills,2026-06-29,2026-07-04,5,1473.95,Completed,51.85,68.71
+220,Diversity & Inclusion,Soft Skills,2026-03-31,2026-04-05,5,1899.62,Completed,33.16,55.83
+221,Communication Skills,Soft Skills,2026-05-09,2026-05-13,4,729.97,Completed,57.65,86.38
+221,Sales Techniques,Functional,2025-09-23,2025-09-25,2,1148.22,Completed,39.59,53.12
+223,Safety Training,Compliance,2025-09-13,2025-09-15,2,1270.06,Dropped,52.4,79.11
+223,Leadership Workshop,Leadership,2026-06-03,2026-06-05,2,1008.1,In Progress,58.75,70.52
+223,Data Analysis,Technical,2026-05-26,2026-05-29,3,1613.08,In Progress,30.95,60.98
+223,Project Management,Management,2026-04-05,2026-04-06,1,729.31,In Progress,48.33,62.88
+224,Safety Training,Compliance,2026-05-02,2026-05-05,3,1181.17,Completed,38.29,56.94
+225,Sales Techniques,Functional,2026-06-11,2026-06-14,3,233.72,In Progress,67.1,84.55
+225,Diversity & Inclusion,Soft Skills,2026-02-02,2026-02-06,4,1819.54,Completed,53.86,61.78
+225,Project Management,Management,2025-09-25,2025-09-30,5,1760.96,Completed,45.1,69.76
+225,Safety Training,Compliance,2026-06-10,2026-06-14,4,1498.29,Completed,41.92,69.41
+226,Data Analysis,Technical,2025-08-19,2025-08-24,5,898.38,Completed,44.75,52.39
+230,Diversity & Inclusion,Soft Skills,2026-02-04,2026-02-05,1,1854.59,Dropped,42.02,58.04
+230,Safety Training,Compliance,2025-11-10,2025-11-15,5,600.62,Completed,61.84,88.55
+231,Safety Training,Compliance,2026-04-28,2026-05-03,5,439.63,Completed,63.61,80.06
+232,Sales Techniques,Functional,2025-12-16,2025-12-21,5,1813.38,Completed,41.79,72.03
+233,Communication Skills,Soft Skills,2025-10-26,2025-10-29,3,1376.32,Completed,65.38,86.78
+233,Sales Techniques,Functional,2026-07-04,2026-07-07,3,1636.56,Completed,67.33,100.0
+234,Communication Skills,Soft Skills,2025-12-07,2025-12-12,5,1346.06,Completed,34.18,67.31
+234,Safety Training,Compliance,2025-12-22,2025-12-23,1,1499.92,Completed,56.61,62.53
+234,Sales Techniques,Functional,2026-06-17,2026-06-19,2,547.86,Completed,47.92,69.02
+234,Technical Skills,Technical,2026-03-29,2026-04-03,5,1308.34,Dropped,58.2,85.91
+235,Communication Skills,Soft Skills,2025-09-29,2025-10-01,2,1921.48,Completed,36.95,52.57
+235,Sales Techniques,Functional,2026-06-12,2026-06-17,5,1110.63,Completed,35.56,57.09
+235,Data Analysis,Technical,2025-09-03,2025-09-07,4,1537.22,In Progress,45.59,69.97
+236,Diversity & Inclusion,Soft Skills,2026-05-10,2026-05-12,2,648.94,Dropped,50.55,71.28
+236,Technical Skills,Technical,2025-10-12,2025-10-17,5,1435.84,Completed,38.02,50.93
+236,Project Management,Management,2025-09-12,2025-09-13,1,384.08,Completed,68.03,91.94
+237,Diversity & Inclusion,Soft Skills,2025-11-22,2025-11-26,4,701.2,In Progress,66.72,83.9
+237,Data Analysis,Technical,2025-09-30,2025-10-02,2,1124.06,Dropped,62.39,83.13
+237,Project Management,Management,2026-07-04,2026-07-09,5,1683.46,Completed,45.98,71.95
+237,Technical Skills,Technical,2026-01-16,2026-01-21,5,1167.72,Completed,55.37,68.49
+239,Leadership Workshop,Leadership,2025-08-28,2025-08-29,1,817.23,Completed,66.43,73.02
+239,Safety Training,Compliance,2025-08-14,2025-08-15,1,1090.73,Completed,65.58,85.59
+239,Diversity & Inclusion,Soft Skills,2025-09-08,2025-09-13,5,1460.59,In Progress,67.75,98.38
+240,Sales Techniques,Functional,2025-09-20,2025-09-25,5,693.58,In Progress,55.66,65.57
+240,Technical Skills,Technical,2026-06-25,2026-06-27,2,302.8,Completed,46.77,60.63
+242,Data Analysis,Technical,2025-07-20,2025-07-21,1,501.85,In Progress,40.75,48.77
+242,Leadership Workshop,Leadership,2025-11-20,2025-11-23,3,1894.58,Completed,31.86,47.13
+242,Project Management,Management,2026-01-12,2026-01-16,4,728.97,Completed,57.32,66.43
+243,Project Management,Management,2026-06-10,2026-06-15,5,1981.8,Completed,69.22,100.0
+243,Data Analysis,Technical,2026-04-21,2026-04-23,2,835.09,Completed,49.61,70.02
+245,Diversity & Inclusion,Soft Skills,2026-05-23,2026-05-24,1,1537.22,Completed,69.26,87.08
+247,Sales Techniques,Functional,2025-10-13,2025-10-15,2,1029.09,Completed,33.88,55.79
+247,Safety Training,Compliance,2025-09-02,2025-09-05,3,409.2,Dropped,34.9,41.8
+248,Safety Training,Compliance,2026-04-14,2026-04-17,3,1560.96,Dropped,55.01,77.41
+248,Project Management,Management,2025-12-20,2025-12-25,5,1414.89,In Progress,60.55,94.78
+248,Sales Techniques,Functional,2025-08-18,2025-08-23,5,565.48,Completed,61.16,80.03
+249,Safety Training,Compliance,2026-06-07,2026-06-08,1,322.48,In Progress,55.49,68.95
+249,Data Analysis,Technical,2025-11-06,2025-11-10,4,1769.13,In Progress,69.27,89.83
+250,Diversity & Inclusion,Soft Skills,2026-06-16,2026-06-20,4,711.24,In Progress,47.83,55.35
+250,Communication Skills,Soft Skills,2025-10-31,2025-11-04,4,789.87,Completed,69.41,94.06
+250,Safety Training,Compliance,2025-08-20,2025-08-21,1,254.82,In Progress,40.41,48.16
+250,Project Management,Management,2026-04-06,2026-04-11,5,1865.37,Completed,50.64,56.79
+252,Communication Skills,Soft Skills,2025-10-13,2025-10-15,2,1971.43,Dropped,58.92,77.12
+252,Technical Skills,Technical,2025-09-11,2025-09-12,1,395.28,In Progress,34.97,50.45
+253,Technical Skills,Technical,2026-02-03,2026-02-04,1,1784.46,Dropped,59.58,67.21
+253,Sales Techniques,Functional,2025-11-20,2025-11-25,5,910.17,Completed,49.6,68.55
+253,Data Analysis,Technical,2025-07-23,2025-07-26,3,1408.89,Completed,69.71,99.87
+253,Diversity & Inclusion,Soft Skills,2025-10-19,2025-10-24,5,1388.1,Completed,65.17,93.32
+254,Data Analysis,Technical,2025-07-31,2025-08-02,2,563.9,Completed,44.17,51.78
+254,Safety Training,Compliance,2025-08-17,2025-08-21,4,473.58,Dropped,36.58,48.02
+254,Communication Skills,Soft Skills,2025-09-01,2025-09-02,1,1380.57,Completed,39.51,44.6
+256,Diversity & Inclusion,Soft Skills,2026-06-02,2026-06-03,1,961.29,Completed,52.39,59.29
+256,Communication Skills,Soft Skills,2025-08-27,2025-08-31,4,905.56,In Progress,52.73,82.87
+256,Data Analysis,Technical,2026-05-07,2026-05-08,1,1517.49,In Progress,54.42,61.94
+257,Diversity & Inclusion,Soft Skills,2025-10-24,2025-10-26,2,1268.07,Completed,40.51,59.25
+258,Leadership Workshop,Leadership,2026-03-31,2026-04-03,3,468.26,In Progress,30.75,36.56
+258,Data Analysis,Technical,2025-08-26,2025-08-28,2,1249.98,Completed,54.07,68.72
+258,Diversity & Inclusion,Soft Skills,2025-12-28,2025-12-31,3,1317.85,In Progress,42.13,71.54
+258,Sales Techniques,Functional,2026-02-28,2026-03-04,4,1927.32,In Progress,34.69,65.54
+259,Technical Skills,Technical,2025-11-25,2025-11-29,4,1470.94,Completed,50.19,61.93
+259,Sales Techniques,Functional,2026-01-28,2026-01-31,3,1505.36,Completed,37.36,53.58
+259,Communication Skills,Soft Skills,2025-09-01,2025-09-03,2,1683.05,Dropped,34.24,40.32
+260,Communication Skills,Soft Skills,2025-12-14,2025-12-16,2,632.21,Dropped,60.77,90.62
+261,Communication Skills,Soft Skills,2026-05-14,2026-05-18,4,1369.65,Completed,63.92,82.48
+263,Communication Skills,Soft Skills,2026-02-23,2026-02-27,4,1616.63,Completed,51.3,72.8
+263,Leadership Workshop,Leadership,2026-06-14,2026-06-17,3,1921.68,Completed,66.15,88.46
+265,Leadership Workshop,Leadership,2025-08-09,2025-08-13,4,905.69,Dropped,38.09,66.34
+265,Technical Skills,Technical,2025-11-14,2025-11-19,5,656.56,Completed,41.33,49.05
+265,Diversity & Inclusion,Soft Skills,2025-10-22,2025-10-23,1,417.97,Dropped,64.23,83.17
+265,Sales Techniques,Functional,2025-07-16,2025-07-19,3,343.87,Dropped,50.35,69.71
+266,Safety Training,Compliance,2026-04-02,2026-04-05,3,1611.66,Dropped,46.84,80.37
+266,Leadership Workshop,Leadership,2025-10-03,2025-10-06,3,1180.61,Dropped,57.93,75.49
+268,Technical Skills,Technical,2025-12-25,2025-12-27,2,1466.41,Dropped,59.6,70.37
+268,Leadership Workshop,Leadership,2025-10-14,2025-10-15,1,1989.89,In Progress,31.16,56.71
+271,Data Analysis,Technical,2025-08-30,2025-09-03,4,579.59,Dropped,46.1,76.41
+273,Diversity & Inclusion,Soft Skills,2025-12-01,2025-12-02,1,1671.18,Completed,43.42,51.36
+273,Project Management,Management,2026-03-23,2026-03-26,3,744.51,In Progress,54.66,81.59
+274,Project Management,Management,2026-05-15,2026-05-16,1,274.07,Completed,69.11,85.04
+274,Safety Training,Compliance,2025-07-25,2025-07-26,1,1260.98,Dropped,43.08,51.78
+274,Diversity & Inclusion,Soft Skills,2026-04-20,2026-04-25,5,1226.95,Completed,38.94,71.14
+274,Data Analysis,Technical,2025-09-17,2025-09-19,2,739.28,Dropped,50.96,80.99
+275,Diversity & Inclusion,Soft Skills,2025-10-24,2025-10-28,4,821.89,Dropped,68.53,79.4
+275,Data Analysis,Technical,2025-11-19,2025-11-21,2,1748.01,Dropped,66.24,89.37
+276,Sales Techniques,Functional,2026-05-29,2026-06-01,3,1328.88,Completed,46.42,75.94
+276,Project Management,Management,2025-11-23,2025-11-24,1,1294.36,In Progress,48.61,65.51
+277,Sales Techniques,Functional,2025-12-11,2025-12-12,1,1370.12,Dropped,54.6,78.43
+277,Communication Skills,Soft Skills,2026-06-02,2026-06-04,2,439.63,Completed,48.54,78.28
+277,Safety Training,Compliance,2025-09-16,2025-09-21,5,337.33,In Progress,42.5,70.03
+277,Project Management,Management,2025-12-13,2025-12-15,2,651.98,Dropped,31.42,39.71
+278,Communication Skills,Soft Skills,2026-06-30,2026-07-05,5,256.87,In Progress,50.04,85.0
+280,Technical Skills,Technical,2025-07-25,2025-07-28,3,1102.19,Dropped,46.27,72.02
+280,Project Management,Management,2025-12-15,2025-12-18,3,581.75,Completed,45.81,62.58
+280,Communication Skills,Soft Skills,2025-08-04,2025-08-08,4,289.54,Completed,66.89,83.36
+281,Safety Training,Compliance,2026-02-03,2026-02-05,2,839.72,Completed,67.19,79.08
+281,Sales Techniques,Functional,2026-03-24,2026-03-29,5,856.78,Completed,44.78,63.26
+281,Leadership Workshop,Leadership,2025-09-25,2025-09-27,2,971.34,Completed,38.26,55.36
+282,Technical Skills,Technical,2025-08-18,2025-08-22,4,1348.75,In Progress,53.47,77.16
+284,Data Analysis,Technical,2025-08-06,2025-08-10,4,1566.06,Completed,66.8,82.96
+284,Communication Skills,Soft Skills,2025-10-10,2025-10-15,5,938.39,Dropped,62.21,89.78
+285,Project Management,Management,2025-07-06,2025-07-07,1,1150.56,Completed,37.31,50.29
+285,Safety Training,Compliance,2025-09-17,2025-09-20,3,634.11,Completed,63.35,69.79
+285,Technical Skills,Technical,2026-06-15,2026-06-17,2,1425.02,In Progress,54.21,63.44
+286,Technical Skills,Technical,2026-05-21,2026-05-26,5,1984.6,Dropped,43.38,69.37
+286,Leadership Workshop,Leadership,2025-07-15,2025-07-19,4,312.5,Completed,38.78,46.41
+286,Data Analysis,Technical,2026-05-16,2026-05-19,3,1587.32,In Progress,51.82,80.81
+286,Sales Techniques,Functional,2026-03-06,2026-03-08,2,864.49,Completed,61.44,95.61
+287,Safety Training,Compliance,2026-04-21,2026-04-24,3,1593.43,In Progress,36.86,68.86
+287,Project Management,Management,2025-12-24,2025-12-25,1,1394.39,Dropped,40.51,60.09
+288,Data Analysis,Technical,2026-07-05,2026-07-07,2,842.87,Completed,51.87,75.69
+289,Sales Techniques,Functional,2025-08-31,2025-09-04,4,756.95,Dropped,53.38,58.89
+290,Leadership Workshop,Leadership,2025-12-17,2025-12-20,3,870.42,Dropped,44.88,52.14
+290,Data Analysis,Technical,2025-07-14,2025-07-15,1,1243.14,Completed,44.89,50.51
+291,Technical Skills,Technical,2026-07-01,2026-07-05,4,1616.45,Completed,39.96,70.13
+292,Project Management,Management,2026-02-18,2026-02-22,4,260.33,Completed,58.95,80.22
+292,Data Analysis,Technical,2025-11-27,2025-11-30,3,1153.35,Dropped,35.15,48.05
+292,Communication Skills,Soft Skills,2025-07-08,2025-07-09,1,1023.54,Dropped,34.15,45.81
+293,Diversity & Inclusion,Soft Skills,2026-03-04,2026-03-06,2,1660.88,Dropped,64.06,77.57
+293,Project Management,Management,2025-10-19,2025-10-22,3,507.21,Dropped,31.06,52.72
+293,Sales Techniques,Functional,2025-08-20,2025-08-24,4,1680.25,Dropped,41.13,63.56
+293,Technical Skills,Technical,2026-03-28,2026-03-31,3,1587.59,Completed,33.24,63.88
+294,Sales Techniques,Functional,2025-09-05,2025-09-09,4,1724.8,Completed,47.02,64.07
+295,Communication Skills,Soft Skills,2025-08-28,2025-09-01,4,605.37,In Progress,36.13,64.02
+295,Technical Skills,Technical,2025-10-15,2025-10-16,1,832.11,Dropped,46.41,59.05
+295,Safety Training,Compliance,2025-08-19,2025-08-23,4,1987.93,Dropped,31.91,40.43
+296,Diversity & Inclusion,Soft Skills,2026-04-30,2026-05-02,2,479.48,In Progress,50.4,62.61
+296,Safety Training,Compliance,2026-01-01,2026-01-02,1,356.93,In Progress,45.74,67.98
+296,Project Management,Management,2025-08-12,2025-08-13,1,1583.19,Completed,48.69,73.95
+297,Diversity & Inclusion,Soft Skills,2026-05-06,2026-05-08,2,1099.61,Completed,61.91,83.14
+297,Safety Training,Compliance,2026-05-16,2026-05-20,4,473.71,Completed,40.44,71.19
+297,Data Analysis,Technical,2026-03-18,2026-03-21,3,1506.37,Completed,35.49,60.67
+298,Leadership Workshop,Leadership,2026-03-14,2026-03-19,5,1633.27,Completed,50.95,66.62
+299,Technical Skills,Technical,2025-11-29,2025-11-30,1,1791.39,Completed,50.89,84.15
+299,Project Management,Management,2025-07-24,2025-07-29,5,1463.53,Completed,52.1,72.2
+300,Sales Techniques,Functional,2026-06-25,2026-06-29,4,1838.1,Dropped,59.59,80.59
+300,Safety Training,Compliance,2026-05-09,2026-05-14,5,533.9,Completed,45.92,66.08
+301,Safety Training,Compliance,2026-03-05,2026-03-09,4,1161.78,Completed,34.19,61.2
+301,Sales Techniques,Functional,2026-03-15,2026-03-18,3,1378.44,In Progress,53.61,70.29
+301,Technical Skills,Technical,2026-02-23,2026-02-24,1,1449.08,Completed,37.13,43.88
+302,Communication Skills,Soft Skills,2025-09-27,2025-10-01,4,1339.72,Dropped,47.19,66.12
+303,Diversity & Inclusion,Soft Skills,2025-10-15,2025-10-20,5,1655.18,Completed,58.88,69.15
+304,Data Analysis,Technical,2026-02-07,2026-02-09,2,1925.21,Completed,30.94,52.23
+304,Sales Techniques,Functional,2025-11-24,2025-11-29,5,879.61,Completed,34.87,69.34
+304,Technical Skills,Technical,2026-03-04,2026-03-07,3,369.53,Completed,52.11,69.7
+305,Safety Training,Compliance,2025-12-14,2025-12-18,4,1940.44,In Progress,50.84,80.99
+306,Sales Techniques,Functional,2026-04-21,2026-04-23,2,1648.55,Completed,64.56,76.15
+306,Communication Skills,Soft Skills,2025-12-08,2025-12-10,2,1217.09,Completed,39.78,55.69
+306,Technical Skills,Technical,2025-07-18,2025-07-22,4,1227.48,Dropped,36.27,50.23
+307,Data Analysis,Technical,2026-05-12,2026-05-17,5,1031.83,Completed,50.51,57.27
+307,Safety Training,Compliance,2026-04-03,2026-04-07,4,203.54,Completed,45.37,66.62
+307,Project Management,Management,2025-12-07,2025-12-11,4,1589.03,Dropped,57.41,68.84
+307,Technical Skills,Technical,2026-07-03,2026-07-04,1,1891.52,Completed,52.45,74.83
+308,Technical Skills,Technical,2026-04-10,2026-04-13,3,561.11,Dropped,65.96,74.5
+308,Diversity & Inclusion,Soft Skills,2025-08-08,2025-08-11,3,1144.41,In Progress,59.97,93.59
+308,Data Analysis,Technical,2025-12-13,2025-12-14,1,379.5,Completed,58.2,80.61
+308,Communication Skills,Soft Skills,2025-11-23,2025-11-25,2,1279.39,In Progress,43.92,50.73
+311,Diversity & Inclusion,Soft Skills,2025-09-15,2025-09-18,3,1594.3,Dropped,49.38,83.45
+311,Technical Skills,Technical,2026-05-19,2026-05-20,1,683.12,In Progress,51.78,57.56
+312,Sales Techniques,Functional,2025-12-01,2025-12-02,1,1786.93,Completed,51.19,66.79
+312,Project Management,Management,2025-07-14,2025-07-18,4,375.43,Dropped,40.37,45.81
+312,Diversity & Inclusion,Soft Skills,2025-10-03,2025-10-08,5,1317.15,Completed,50.72,70.56
+312,Leadership Workshop,Leadership,2025-07-13,2025-07-15,2,864.7,Dropped,60.94,95.72
+314,Sales Techniques,Functional,2026-03-14,2026-03-19,5,1271.0,Completed,33.31,56.65
+314,Project Management,Management,2026-03-17,2026-03-22,5,949.41,In Progress,44.72,49.74
+315,Communication Skills,Soft Skills,2025-12-03,2025-12-07,4,1321.57,In Progress,46.23,62.26
+317,Communication Skills,Soft Skills,2025-11-04,2025-11-09,5,1298.92,Completed,39.84,53.45
+317,Diversity & Inclusion,Soft Skills,2026-05-29,2026-05-31,2,902.45,Dropped,54.72,80.25
+317,Leadership Workshop,Leadership,2025-09-16,2025-09-19,3,1940.08,Completed,31.62,54.08
+318,Diversity & Inclusion,Soft Skills,2026-05-19,2026-05-23,4,877.68,In Progress,56.92,72.38
+319,Diversity & Inclusion,Soft Skills,2025-12-26,2025-12-28,2,1667.65,Dropped,68.6,100.0
+319,Leadership Workshop,Leadership,2026-04-10,2026-04-14,4,442.95,Dropped,45.81,71.37
+320,Technical Skills,Technical,2025-10-01,2025-10-06,5,937.85,Completed,44.68,55.36
+320,Sales Techniques,Functional,2026-01-09,2026-01-14,5,706.25,Completed,40.42,70.26
+321,Communication Skills,Soft Skills,2025-08-05,2025-08-07,2,1159.61,In Progress,33.98,53.73
+322,Leadership Workshop,Leadership,2026-05-22,2026-05-24,2,217.32,Dropped,34.06,54.36
+323,Sales Techniques,Functional,2026-05-27,2026-06-01,5,1514.79,Completed,41.54,73.82
+323,Safety Training,Compliance,2025-07-21,2025-07-23,2,371.16,Dropped,66.95,85.05
+323,Diversity & Inclusion,Soft Skills,2025-12-27,2026-01-01,5,937.85,Dropped,46.02,60.96
+324,Data Analysis,Technical,2026-05-26,2026-05-28,2,1784.33,In Progress,45.41,53.44
+324,Leadership Workshop,Leadership,2026-03-05,2026-03-06,1,306.21,Dropped,32.73,46.62
+324,Communication Skills,Soft Skills,2026-01-14,2026-01-17,3,783.81,In Progress,49.5,68.48
+324,Sales Techniques,Functional,2025-12-09,2025-12-11,2,415.29,Completed,59.67,89.2
+326,Project Management,Management,2026-06-22,2026-06-24,2,534.36,Completed,58.06,88.42
+327,Communication Skills,Soft Skills,2025-11-17,2025-11-21,4,889.84,Completed,53.18,74.26
+327,Technical Skills,Technical,2025-12-28,2025-12-30,2,1406.35,Dropped,66.81,97.32
+328,Diversity & Inclusion,Soft Skills,2025-07-25,2025-07-30,5,773.78,Completed,30.56,43.92
+329,Communication Skills,Soft Skills,2025-11-07,2025-11-12,5,541.69,Completed,64.88,75.95
+329,Sales Techniques,Functional,2026-07-05,2026-07-10,5,585.49,Completed,47.93,63.41
+329,Data Analysis,Technical,2026-03-04,2026-03-06,2,1859.48,Dropped,60.74,88.05
+329,Technical Skills,Technical,2025-12-13,2025-12-15,2,1489.54,In Progress,52.78,63.18
+330,Data Analysis,Technical,2025-07-17,2025-07-22,5,1382.52,Dropped,64.51,89.68
+330,Diversity & Inclusion,Soft Skills,2025-08-07,2025-08-12,5,1870.06,Dropped,58.74,74.43
+330,Project Management,Management,2026-06-01,2026-06-06,5,406.34,Completed,56.87,77.97
+331,Diversity & Inclusion,Soft Skills,2025-09-07,2025-09-11,4,804.84,Dropped,69.75,88.16
+331,Communication Skills,Soft Skills,2025-07-23,2025-07-27,4,597.32,In Progress,30.8,49.28
+332,Data Analysis,Technical,2025-09-27,2025-10-02,5,843.79,Completed,48.78,80.48
+334,Project Management,Management,2025-07-15,2025-07-17,2,1793.98,Completed,51.44,71.49
+334,Sales Techniques,Functional,2026-03-05,2026-03-06,1,1999.88,In Progress,44.16,75.49
+334,Leadership Workshop,Leadership,2026-02-18,2026-02-22,4,1186.43,Completed,67.3,77.1
+336,Diversity & Inclusion,Soft Skills,2026-03-25,2026-03-27,2,1938.16,Completed,47.72,54.73
+336,Technical Skills,Technical,2025-11-29,2025-12-02,3,1756.27,In Progress,59.93,67.63
+336,Communication Skills,Soft Skills,2026-02-11,2026-02-16,5,316.14,Completed,42.58,71.48
+336,Leadership Workshop,Leadership,2025-09-26,2025-09-27,1,928.16,Completed,51.02,75.02
+338,Communication Skills,Soft Skills,2025-11-27,2025-12-02,5,1969.36,Completed,35.47,55.66
+339,Sales Techniques,Functional,2025-10-30,2025-11-04,5,653.37,Completed,50.13,67.91
+340,Communication Skills,Soft Skills,2026-05-14,2026-05-15,1,1548.44,Completed,38.41,49.56
+341,Communication Skills,Soft Skills,2025-09-29,2025-10-03,4,647.8,Dropped,36.22,51.34
+341,Technical Skills,Technical,2026-03-08,2026-03-13,5,524.2,Dropped,42.11,61.84
+341,Project Management,Management,2025-09-26,2025-09-28,2,1810.42,Completed,34.06,68.76
+343,Project Management,Management,2025-08-14,2025-08-15,1,1132.97,Completed,68.09,73.97
+344,Sales Techniques,Functional,2026-06-02,2026-06-06,4,516.98,Completed,69.61,92.62
+344,Leadership Workshop,Leadership,2025-12-01,2025-12-05,4,1817.53,In Progress,46.11,80.89
+344,Project Management,Management,2025-09-22,2025-09-26,4,1070.16,In Progress,61.53,76.55
+344,Communication Skills,Soft Skills,2025-10-05,2025-10-08,3,870.48,Completed,68.44,83.0
+345,Sales Techniques,Functional,2025-10-31,2025-11-01,1,229.27,Dropped,40.98,67.63
+345,Leadership Workshop,Leadership,2026-07-05,2026-07-10,5,1424.03,In Progress,41.13,75.91
+345,Safety Training,Compliance,2025-11-30,2025-12-01,1,1888.91,Completed,50.05,76.78
+345,Diversity & Inclusion,Soft Skills,2026-05-22,2026-05-24,2,981.03,Completed,61.73,75.35
+346,Project Management,Management,2026-06-26,2026-06-29,3,390.8,Dropped,60.3,77.32
+346,Diversity & Inclusion,Soft Skills,2026-05-19,2026-05-22,3,867.76,Completed,67.44,90.56
+346,Leadership Workshop,Leadership,2025-08-08,2025-08-10,2,623.45,Completed,52.57,78.73
+346,Safety Training,Compliance,2025-09-28,2025-09-30,2,380.36,Completed,66.03,76.87
+348,Leadership Workshop,Leadership,2026-03-02,2026-03-07,5,923.71,Dropped,59.5,78.7
+348,Technical Skills,Technical,2025-10-25,2025-10-28,3,414.72,Completed,65.89,83.93
+348,Diversity & Inclusion,Soft Skills,2026-03-11,2026-03-14,3,1234.32,Completed,38.78,70.58
+349,Communication Skills,Soft Skills,2026-05-04,2026-05-07,3,1837.65,Completed,38.69,62.89
+349,Sales Techniques,Functional,2026-03-30,2026-04-02,3,876.86,Completed,47.36,52.68
+350,Project Management,Management,2025-08-10,2025-08-11,1,1236.48,Completed,63.99,78.6
+350,Diversity & Inclusion,Soft Skills,2025-11-23,2025-11-24,1,1753.52,Completed,65.62,88.53
+351,Project Management,Management,2026-03-08,2026-03-12,4,1200.96,Completed,36.33,55.51
+351,Data Analysis,Technical,2026-03-30,2026-04-02,3,1468.53,Completed,62.26,74.71
+351,Technical Skills,Technical,2026-04-03,2026-04-05,2,1453.48,Completed,39.36,44.47
+351,Sales Techniques,Functional,2025-11-14,2025-11-18,4,717.7,In Progress,53.1,74.27
+352,Diversity & Inclusion,Soft Skills,2025-07-30,2025-08-01,2,1969.53,In Progress,55.45,67.07
+352,Communication Skills,Soft Skills,2025-09-24,2025-09-26,2,582.3,In Progress,51.85,82.34
+353,Leadership Workshop,Leadership,2026-05-17,2026-05-22,5,473.44,In Progress,60.99,73.84
+353,Project Management,Management,2025-11-20,2025-11-22,2,916.96,In Progress,55.13,78.5
+354,Safety Training,Compliance,2025-08-25,2025-08-29,4,286.09,In Progress,30.46,41.77
+355,Safety Training,Compliance,2026-01-31,2026-02-05,5,1687.17,Completed,67.61,96.56
+355,Leadership Workshop,Leadership,2025-08-14,2025-08-17,3,1920.76,Completed,56.35,67.88
+355,Diversity & Inclusion,Soft Skills,2025-07-16,2025-07-17,1,794.8,Completed,53.77,62.96
+355,Technical Skills,Technical,2026-02-10,2026-02-15,5,848.27,In Progress,59.62,74.05
+356,Sales Techniques,Functional,2025-07-12,2025-07-16,4,1048.56,Dropped,63.72,75.93
+356,Technical Skills,Technical,2026-02-20,2026-02-24,4,1172.82,Completed,46.85,76.34
+356,Leadership Workshop,Leadership,2026-03-29,2026-04-03,5,1115.52,In Progress,57.73,81.25
+357,Diversity & Inclusion,Soft Skills,2026-05-23,2026-05-25,2,441.05,Completed,41.32,58.78
+357,Communication Skills,Soft Skills,2026-01-15,2026-01-16,1,1821.84,Completed,53.93,74.49
+358,Technical Skills,Technical,2026-07-02,2026-07-06,4,785.23,Completed,65.23,78.79
+359,Safety Training,Compliance,2025-08-01,2025-08-04,3,1514.31,Completed,53.26,79.33
+359,Leadership Workshop,Leadership,2026-02-22,2026-02-26,4,1756.86,In Progress,55.34,67.29
+360,Data Analysis,Technical,2025-08-26,2025-08-29,3,1620.23,In Progress,48.46,74.34
+361,Diversity & Inclusion,Soft Skills,2026-03-23,2026-03-28,5,412.85,Completed,34.09,50.22
+361,Sales Techniques,Functional,2026-06-09,2026-06-12,3,1369.58,Completed,46.07,57.83
+361,Project Management,Management,2026-03-12,2026-03-14,2,1974.73,In Progress,62.71,96.95
+361,Leadership Workshop,Leadership,2025-10-11,2025-10-15,4,436.78,Dropped,31.72,59.82
+362,Communication Skills,Soft Skills,2026-05-19,2026-05-23,4,1251.8,Dropped,53.6,79.16
+362,Safety Training,Compliance,2025-12-05,2025-12-10,5,668.29,Dropped,35.04,40.64
+362,Technical Skills,Technical,2025-11-24,2025-11-26,2,1582.66,Completed,53.24,84.12
+362,Sales Techniques,Functional,2026-02-20,2026-02-21,1,870.36,Completed,35.65,56.15
+363,Diversity & Inclusion,Soft Skills,2025-07-18,2025-07-19,1,1925.6,Dropped,33.41,51.9
+363,Leadership Workshop,Leadership,2025-11-10,2025-11-15,5,911.75,Completed,34.72,58.81
+363,Project Management,Management,2025-08-13,2025-08-18,5,1078.76,Completed,53.18,64.19
+363,Technical Skills,Technical,2026-02-06,2026-02-08,2,911.95,Completed,51.61,60.53
+364,Technical Skills,Technical,2026-05-09,2026-05-11,2,228.57,In Progress,68.92,93.06
+364,Project Management,Management,2025-12-15,2025-12-17,2,1041.32,Completed,69.39,99.7
+364,Communication Skills,Soft Skills,2026-02-04,2026-02-08,4,306.21,Completed,48.91,77.59
+364,Data Analysis,Technical,2026-01-23,2026-01-27,4,252.08,Completed,37.04,68.24
+366,Safety Training,Compliance,2025-10-14,2025-10-17,3,1050.36,In Progress,39.75,64.88
+366,Diversity & Inclusion,Soft Skills,2026-05-11,2026-05-14,3,1140.65,Dropped,62.34,79.39
+366,Sales Techniques,Functional,2026-04-14,2026-04-15,1,1613.05,In Progress,50.28,68.04
+366,Communication Skills,Soft Skills,2025-08-08,2025-08-10,2,854.18,Completed,44.45,70.0
+367,Data Analysis,Technical,2025-09-24,2025-09-25,1,1386.6,Completed,30.15,52.93
+367,Safety Training,Compliance,2025-11-13,2025-11-14,1,1034.3,Completed,62.05,73.93
+367,Communication Skills,Soft Skills,2025-11-20,2025-11-21,1,1357.62,Completed,39.95,47.5
+367,Technical Skills,Technical,2025-08-27,2025-08-28,1,633.0,Completed,34.62,44.45
+368,Leadership Workshop,Leadership,2025-08-22,2025-08-24,2,1562.6,Completed,39.51,48.62
+368,Data Analysis,Technical,2025-11-29,2025-11-30,1,1151.62,Completed,35.32,66.65
+368,Sales Techniques,Functional,2026-05-18,2026-05-19,1,1087.95,Completed,35.0,62.42
+369,Safety Training,Compliance,2026-03-22,2026-03-27,5,1676.88,Completed,64.34,96.74
+369,Technical Skills,Technical,2025-08-01,2025-08-03,2,1814.38,Dropped,48.27,82.24
+370,Technical Skills,Technical,2026-04-24,2026-04-28,4,1186.79,Completed,40.79,53.92
+370,Data Analysis,Technical,2025-10-30,2025-11-02,3,1312.07,Dropped,45.11,67.01
+371,Data Analysis,Technical,2026-06-12,2026-06-16,4,1702.18,In Progress,41.27,53.32
+371,Safety Training,Compliance,2025-11-20,2025-11-24,4,1591.68,Completed,67.52,97.01
+372,Technical Skills,Technical,2026-06-28,2026-07-03,5,1474.64,Completed,64.55,91.72
+372,Data Analysis,Technical,2026-03-04,2026-03-05,1,1871.49,In Progress,30.96,53.45
+372,Leadership Workshop,Leadership,2026-02-28,2026-03-05,5,932.15,Completed,52.09,86.3
+372,Safety Training,Compliance,2026-07-05,2026-07-08,3,1442.45,In Progress,57.54,86.51
+375,Safety Training,Compliance,2026-03-10,2026-03-11,1,747.56,Dropped,42.83,70.7
+375,Technical Skills,Technical,2025-07-15,2025-07-16,1,1096.48,Completed,45.8,56.63
+375,Diversity & Inclusion,Soft Skills,2025-07-15,2025-07-19,4,1003.41,In Progress,36.87,52.49
+375,Project Management,Management,2026-03-20,2026-03-23,3,596.64,Dropped,54.67,74.44
+376,Communication Skills,Soft Skills,2025-09-02,2025-09-07,5,1403.11,Completed,50.36,80.93
+376,Project Management,Management,2026-05-06,2026-05-10,4,543.41,Completed,59.67,67.24
+376,Leadership Workshop,Leadership,2025-10-04,2025-10-08,4,766.82,Dropped,66.3,77.39
+377,Diversity & Inclusion,Soft Skills,2026-01-12,2026-01-14,2,993.4,Completed,34.34,47.6
+377,Leadership Workshop,Leadership,2026-03-07,2026-03-08,1,209.08,Completed,61.17,68.92
+377,Sales Techniques,Functional,2026-03-02,2026-03-05,3,271.1,In Progress,32.68,45.44
+378,Safety Training,Compliance,2026-05-28,2026-06-01,4,513.95,Completed,41.65,57.9
+379,Safety Training,Compliance,2025-10-15,2025-10-19,4,680.12,Dropped,43.6,54.27
+379,Communication Skills,Soft Skills,2026-03-27,2026-03-29,2,1283.8,Completed,44.65,60.22
+379,Project Management,Management,2025-10-07,2025-10-09,2,1336.87,Completed,63.15,94.45
+379,Diversity & Inclusion,Soft Skills,2025-09-02,2025-09-05,3,360.37,Completed,56.55,66.39
+380,Leadership Workshop,Leadership,2026-03-31,2026-04-03,3,1505.68,Dropped,61.36,73.5
+380,Communication Skills,Soft Skills,2025-07-05,2025-07-09,4,1311.13,Dropped,69.82,93.76
+380,Data Analysis,Technical,2026-02-16,2026-02-19,3,401.0,Completed,59.83,78.3
+381,Diversity & Inclusion,Soft Skills,2025-09-09,2025-09-14,5,537.91,Completed,63.88,78.45
+382,Safety Training,Compliance,2025-09-12,2025-09-16,4,1498.91,Completed,40.97,45.99
+382,Leadership Workshop,Leadership,2026-06-04,2026-06-05,1,1715.9,Completed,58.47,86.74
+382,Technical Skills,Technical,2025-07-17,2025-07-18,1,716.12,Completed,60.58,66.43
+382,Communication Skills,Soft Skills,2025-08-16,2025-08-20,4,1417.38,Completed,51.91,84.53
+383,Safety Training,Compliance,2025-08-02,2025-08-04,2,543.6,Dropped,66.65,98.29
+383,Technical Skills,Technical,2026-03-14,2026-03-18,4,1369.67,Completed,36.54,65.36
+387,Data Analysis,Technical,2025-11-03,2025-11-07,4,459.19,Completed,36.59,65.49
+387,Safety Training,Compliance,2025-10-04,2025-10-08,4,1603.71,Completed,51.03,77.48
+388,Data Analysis,Technical,2026-05-28,2026-06-02,5,704.4,Completed,41.49,67.19
+388,Leadership Workshop,Leadership,2026-01-05,2026-01-09,4,1769.9,Completed,45.87,76.98
+388,Communication Skills,Soft Skills,2026-06-01,2026-06-05,4,1574.57,In Progress,33.08,39.63
+389,Leadership Workshop,Leadership,2026-07-01,2026-07-03,2,1021.99,Completed,62.28,80.5
+389,Technical Skills,Technical,2025-08-20,2025-08-22,2,320.6,Completed,55.95,65.1
+389,Communication Skills,Soft Skills,2026-05-13,2026-05-14,1,711.37,Completed,47.02,62.35
+390,Diversity & Inclusion,Soft Skills,2025-07-12,2025-07-16,4,1851.3,Dropped,56.48,74.41
+390,Safety Training,Compliance,2025-08-13,2025-08-17,4,1509.21,In Progress,65.05,77.61
+391,Leadership Workshop,Leadership,2025-09-29,2025-10-02,3,753.51,Dropped,49.67,78.33
+391,Safety Training,Compliance,2025-08-10,2025-08-12,2,1956.81,Completed,50.08,60.36
+391,Sales Techniques,Functional,2026-05-24,2026-05-27,3,1867.01,Completed,66.33,88.76
+392,Safety Training,Compliance,2026-01-09,2026-01-12,3,1894.04,Completed,47.61,70.62
+393,Leadership Workshop,Leadership,2025-07-31,2025-08-03,3,1716.73,In Progress,36.91,48.53
+393,Technical Skills,Technical,2026-02-17,2026-02-21,4,1186.09,Dropped,30.25,51.92
+394,Sales Techniques,Functional,2025-09-11,2025-09-13,2,1634.72,Completed,30.03,43.74
+394,Technical Skills,Technical,2025-09-30,2025-10-05,5,1018.85,Completed,59.17,91.37
+394,Diversity & Inclusion,Soft Skills,2026-04-06,2026-04-08,2,1359.26,In Progress,48.99,82.19
+394,Communication Skills,Soft Skills,2025-08-29,2025-08-31,2,941.37,In Progress,65.8,79.1
+395,Data Analysis,Technical,2026-06-06,2026-06-10,4,1083.06,In Progress,40.08,52.6
+395,Leadership Workshop,Leadership,2026-06-20,2026-06-21,1,1283.44,Completed,41.89,63.47
+397,Data Analysis,Technical,2025-11-01,2025-11-02,1,1499.85,Completed,55.21,77.51
+397,Safety Training,Compliance,2025-12-03,2025-12-06,3,939.64,In Progress,62.75,91.98
+397,Project Management,Management,2025-11-13,2025-11-17,4,1054.65,Completed,58.25,71.34
+398,Safety Training,Compliance,2025-09-05,2025-09-07,2,813.22,Completed,37.35,67.51
+398,Sales Techniques,Functional,2026-05-02,2026-05-07,5,388.95,Completed,66.8,85.92
+399,Diversity & Inclusion,Soft Skills,2026-03-20,2026-03-22,2,970.55,Completed,57.48,70.35
+399,Technical Skills,Technical,2025-09-27,2025-09-30,3,1854.19,Completed,35.18,45.79
+400,Communication Skills,Soft Skills,2026-03-19,2026-03-22,3,1247.49,Completed,45.31,78.24
+400,Project Management,Management,2026-01-19,2026-01-22,3,562.7,Completed,32.58,53.68
+400,Technical Skills,Technical,2026-03-06,2026-03-09,3,1477.8,Dropped,56.42,73.42
+400,Data Analysis,Technical,2026-04-18,2026-04-22,4,1833.49,Completed,34.4,51.43
+401,Diversity & Inclusion,Soft Skills,2026-06-02,2026-06-06,4,506.53,In Progress,40.56,52.87
+401,Technical Skills,Technical,2026-06-26,2026-06-27,1,824.01,Completed,48.03,56.87
+401,Communication Skills,Soft Skills,2025-08-07,2025-08-09,2,666.71,In Progress,49.03,68.14
+401,Project Management,Management,2026-04-24,2026-04-27,3,1805.97,In Progress,61.41,88.69
+402,Communication Skills,Soft Skills,2025-11-15,2025-11-17,2,1312.7,Completed,46.83,58.09
+403,Communication Skills,Soft Skills,2026-02-13,2026-02-17,4,1918.76,Completed,61.86,70.64
+403,Sales Techniques,Functional,2026-05-16,2026-05-17,1,652.64,Completed,49.76,80.49
+404,Leadership Workshop,Leadership,2026-03-25,2026-03-26,1,348.51,Completed,31.83,65.55
+404,Data Analysis,Technical,2025-11-23,2025-11-24,1,976.3,Dropped,35.4,64.91
+405,Leadership Workshop,Leadership,2026-01-05,2026-01-07,2,1795.58,In Progress,31.0,42.36
+405,Safety Training,Compliance,2025-07-29,2025-08-03,5,504.64,Completed,69.45,94.78
+405,Communication Skills,Soft Skills,2025-09-07,2025-09-12,5,1999.49,Dropped,65.59,98.67
+407,Data Analysis,Technical,2025-11-30,2025-12-05,5,527.35,Completed,63.6,90.55
+407,Safety Training,Compliance,2026-01-23,2026-01-27,4,1636.57,Completed,63.31,72.67
+407,Communication Skills,Soft Skills,2026-04-16,2026-04-18,2,797.18,Dropped,45.78,61.26
+407,Sales Techniques,Functional,2026-07-05,2026-07-06,1,1552.51,Dropped,32.99,38.94
+408,Project Management,Management,2026-02-12,2026-02-13,1,1651.82,In Progress,54.76,82.69
+408,Safety Training,Compliance,2025-11-27,2025-11-30,3,1995.69,Completed,68.86,76.4
+408,Communication Skills,Soft Skills,2026-02-26,2026-02-27,1,370.71,In Progress,48.22,78.2
+408,Data Analysis,Technical,2026-05-02,2026-05-05,3,401.84,Completed,65.63,79.34
+409,Technical Skills,Technical,2026-03-05,2026-03-09,4,1611.49,Completed,34.39,62.47
+409,Project Management,Management,2025-08-06,2025-08-11,5,856.29,Completed,51.42,76.2
+409,Sales Techniques,Functional,2026-02-22,2026-02-26,4,1326.47,Completed,36.45,56.02
+410,Data Analysis,Technical,2026-05-23,2026-05-26,3,419.51,Completed,36.59,59.89
+410,Sales Techniques,Functional,2026-01-22,2026-01-25,3,1375.73,Dropped,66.65,96.31
+410,Diversity & Inclusion,Soft Skills,2026-06-18,2026-06-19,1,1446.02,Dropped,31.02,39.25
+410,Safety Training,Compliance,2025-08-18,2025-08-22,4,993.37,Dropped,60.31,69.8
+411,Diversity & Inclusion,Soft Skills,2025-11-30,2025-12-03,3,1281.42,Completed,52.04,64.51
+411,Communication Skills,Soft Skills,2026-03-09,2026-03-10,1,909.92,Dropped,42.16,60.98
+411,Sales Techniques,Functional,2025-09-11,2025-09-14,3,628.98,Completed,42.0,52.67
+412,Safety Training,Compliance,2026-04-28,2026-04-29,1,885.87,Completed,64.62,97.15
+413,Technical Skills,Technical,2025-12-18,2025-12-23,5,1016.47,Completed,67.71,99.68
+415,Sales Techniques,Functional,2025-08-05,2025-08-07,2,454.58,Completed,50.51,72.71
+415,Diversity & Inclusion,Soft Skills,2026-05-22,2026-05-24,2,1227.22,Completed,62.22,77.68
+416,Diversity & Inclusion,Soft Skills,2025-12-27,2025-12-29,2,1509.43,In Progress,32.87,53.83
+416,Communication Skills,Soft Skills,2026-01-13,2026-01-18,5,1101.25,Completed,38.54,61.1
+417,Sales Techniques,Functional,2025-12-30,2026-01-04,5,1621.14,In Progress,41.92,53.61
+417,Technical Skills,Technical,2026-05-22,2026-05-27,5,490.38,Completed,66.56,84.59
+417,Leadership Workshop,Leadership,2026-01-29,2026-02-01,3,660.17,Completed,56.76,68.32
+418,Diversity & Inclusion,Soft Skills,2026-03-10,2026-03-13,3,431.93,In Progress,57.67,66.75
+418,Leadership Workshop,Leadership,2026-03-03,2026-03-06,3,1128.58,Completed,39.96,57.65
+418,Safety Training,Compliance,2025-08-30,2025-08-31,1,1162.32,Completed,43.6,68.38
+419,Diversity & Inclusion,Soft Skills,2026-05-18,2026-05-22,4,1598.33,Completed,62.83,75.47
+419,Data Analysis,Technical,2026-07-01,2026-07-03,2,1829.18,In Progress,42.08,72.14
+419,Safety Training,Compliance,2025-07-11,2025-07-13,2,679.05,In Progress,38.79,64.6
+419,Project Management,Management,2025-08-04,2025-08-05,1,1671.11,Dropped,41.83,75.64
+420,Safety Training,Compliance,2026-06-12,2026-06-14,2,293.55,In Progress,30.79,64.82
+421,Diversity & Inclusion,Soft Skills,2025-09-06,2025-09-10,4,1599.67,Completed,49.93,56.97
+421,Safety Training,Compliance,2026-01-07,2026-01-11,4,1690.29,Completed,47.97,72.46
+421,Project Management,Management,2025-10-29,2025-10-30,1,730.16,In Progress,65.5,91.87
+421,Leadership Workshop,Leadership,2025-07-31,2025-08-01,1,890.79,In Progress,35.05,47.45
+422,Sales Techniques,Functional,2025-11-25,2025-11-26,1,1609.31,In Progress,51.04,67.04
+423,Sales Techniques,Functional,2025-12-10,2025-12-13,3,739.68,Completed,34.61,58.85
+424,Leadership Workshop,Leadership,2025-11-25,2025-11-26,1,1303.59,Completed,58.65,93.37
+424,Technical Skills,Technical,2026-04-16,2026-04-18,2,321.4,Completed,65.38,95.08
+425,Data Analysis,Technical,2025-10-19,2025-10-20,1,907.33,In Progress,35.38,50.73
+426,Sales Techniques,Functional,2025-07-14,2025-07-16,2,298.62,Dropped,43.15,51.93
+426,Project Management,Management,2026-04-17,2026-04-19,2,1664.9,In Progress,66.17,78.01
+427,Communication Skills,Soft Skills,2026-05-07,2026-05-10,3,1169.85,Completed,35.02,56.07
+427,Sales Techniques,Functional,2025-08-03,2025-08-08,5,847.26,In Progress,58.31,67.46
+428,Technical Skills,Technical,2026-02-02,2026-02-05,3,1638.28,In Progress,44.18,55.58
+429,Sales Techniques,Functional,2025-07-26,2025-07-31,5,338.86,Dropped,45.2,78.45
+429,Safety Training,Compliance,2026-04-14,2026-04-15,1,1447.8,Completed,37.91,61.9
+430,Leadership Workshop,Leadership,2026-03-24,2026-03-25,1,1297.21,Completed,52.5,60.89
+430,Sales Techniques,Functional,2025-11-24,2025-11-26,2,1938.94,Dropped,61.89,76.14
+430,Project Management,Management,2025-11-07,2025-11-10,3,822.96,Completed,60.98,75.07
+430,Safety Training,Compliance,2026-02-12,2026-02-17,5,699.37,Completed,36.32,57.76
+431,Sales Techniques,Functional,2025-11-26,2025-11-28,2,1346.45,In Progress,47.51,70.52
+431,Technical Skills,Technical,2026-04-08,2026-04-13,5,1637.99,Completed,48.95,80.76
+431,Safety Training,Compliance,2025-07-08,2025-07-11,3,1044.3,Completed,58.98,93.16
+431,Diversity & Inclusion,Soft Skills,2026-01-15,2026-01-18,3,1971.78,Completed,63.46,96.72
+434,Communication Skills,Soft Skills,2026-06-28,2026-07-01,3,340.4,Completed,68.91,87.3
+434,Safety Training,Compliance,2025-10-29,2025-10-31,2,1208.14,Completed,45.53,67.14
+434,Project Management,Management,2026-02-18,2026-02-22,4,534.51,Completed,30.62,44.86
+435,Diversity & Inclusion,Soft Skills,2025-08-17,2025-08-20,3,1193.67,In Progress,52.65,74.29
+435,Communication Skills,Soft Skills,2025-12-19,2025-12-20,1,1998.46,Completed,48.56,74.45
+435,Data Analysis,Technical,2025-08-25,2025-08-29,4,514.71,In Progress,51.33,64.84
+435,Safety Training,Compliance,2025-09-21,2025-09-23,2,205.7,Completed,33.3,44.75
+436,Safety Training,Compliance,2026-01-24,2026-01-27,3,1999.05,In Progress,35.45,49.54
+436,Leadership Workshop,Leadership,2025-09-14,2025-09-18,4,290.94,In Progress,69.53,100.0
+438,Safety Training,Compliance,2026-01-08,2026-01-11,3,238.18,Completed,55.47,81.47
+438,Communication Skills,Soft Skills,2025-12-04,2025-12-08,4,1175.49,Completed,34.05,56.48
+438,Leadership Workshop,Leadership,2025-09-23,2025-09-28,5,987.82,Dropped,56.18,85.61
+438,Project Management,Management,2025-08-16,2025-08-20,4,1428.04,Dropped,67.97,74.59
+440,Sales Techniques,Functional,2026-03-02,2026-03-06,4,1650.41,Dropped,67.39,82.86
+440,Technical Skills,Technical,2025-09-05,2025-09-06,1,1674.54,Completed,64.76,84.07
+440,Leadership Workshop,Leadership,2025-12-19,2025-12-24,5,1473.77,Dropped,31.62,41.69
+440,Communication Skills,Soft Skills,2026-03-11,2026-03-16,5,574.19,Completed,69.11,88.92
+441,Communication Skills,Soft Skills,2025-12-15,2025-12-16,1,601.81,Completed,37.17,50.59
+441,Data Analysis,Technical,2026-03-28,2026-04-02,5,719.17,Completed,62.96,80.41
+441,Leadership Workshop,Leadership,2026-04-25,2026-04-28,3,833.16,Completed,54.11,72.22
+442,Diversity & Inclusion,Soft Skills,2025-12-14,2025-12-19,5,1403.5,Completed,30.62,36.71
+443,Leadership Workshop,Leadership,2026-02-14,2026-02-16,2,872.04,Dropped,57.04,71.2
+443,Technical Skills,Technical,2026-06-09,2026-06-12,3,607.12,Completed,35.93,41.34
+443,Diversity & Inclusion,Soft Skills,2025-09-15,2025-09-20,5,1825.91,Completed,55.1,65.25
+444,Diversity & Inclusion,Soft Skills,2025-07-29,2025-08-02,4,399.82,Dropped,44.08,76.31
+444,Sales Techniques,Functional,2025-09-29,2025-10-03,4,1835.67,In Progress,62.93,79.83
+444,Technical Skills,Technical,2026-02-13,2026-02-14,1,1478.92,In Progress,58.16,74.99
+445,Diversity & Inclusion,Soft Skills,2026-05-04,2026-05-06,2,1303.71,Dropped,50.28,81.39
+446,Leadership Workshop,Leadership,2026-02-16,2026-02-21,5,1377.95,Completed,42.88,62.5
+446,Technical Skills,Technical,2026-04-21,2026-04-24,3,1808.65,Dropped,31.55,60.86
+447,Sales Techniques,Functional,2025-10-07,2025-10-09,2,766.91,Completed,54.44,64.96
+447,Technical Skills,Technical,2026-01-10,2026-01-13,3,1040.39,In Progress,34.22,67.58
+447,Diversity & Inclusion,Soft Skills,2025-10-06,2025-10-10,4,1778.78,Completed,33.67,57.54
+447,Project Management,Management,2026-01-12,2026-01-14,2,1056.84,Completed,61.85,84.03
+449,Leadership Workshop,Leadership,2025-10-27,2025-10-30,3,877.12,In Progress,56.54,84.05
+450,Data Analysis,Technical,2025-09-02,2025-09-03,1,997.25,Completed,42.06,49.01
+451,Data Analysis,Technical,2026-05-21,2026-05-24,3,1173.99,In Progress,63.28,97.55
+451,Sales Techniques,Functional,2025-09-28,2025-10-03,5,489.2,Completed,30.78,43.56
+451,Diversity & Inclusion,Soft Skills,2025-07-26,2025-07-30,4,1243.02,Dropped,68.88,99.65
+452,Data Analysis,Technical,2025-10-17,2025-10-21,4,608.29,Completed,53.13,74.23
+452,Safety Training,Compliance,2025-12-06,2025-12-08,2,573.18,Completed,45.65,52.79
+452,Diversity & Inclusion,Soft Skills,2026-02-08,2026-02-09,1,1275.31,Completed,37.33,71.21
+454,Leadership Workshop,Leadership,2026-04-26,2026-04-30,4,635.77,Completed,32.27,57.5
+454,Technical Skills,Technical,2026-04-28,2026-04-29,1,1052.79,Completed,53.73,73.01
+455,Communication Skills,Soft Skills,2026-02-28,2026-03-01,1,969.05,In Progress,56.1,85.82
+455,Leadership Workshop,Leadership,2025-07-20,2025-07-23,3,304.87,Completed,61.41,78.82
+455,Sales Techniques,Functional,2025-07-09,2025-07-13,4,1637.68,Completed,56.98,78.16
+455,Diversity & Inclusion,Soft Skills,2026-05-21,2026-05-25,4,1238.66,Completed,32.12,56.63
+457,Data Analysis,Technical,2025-11-22,2025-11-26,4,945.87,Dropped,60.75,85.49
+458,Project Management,Management,2026-06-16,2026-06-19,3,599.88,In Progress,59.25,68.79
+458,Technical Skills,Technical,2025-10-11,2025-10-13,2,1628.4,In Progress,53.37,61.63
+458,Safety Training,Compliance,2026-02-26,2026-03-03,5,699.66,In Progress,42.68,57.57
+459,Leadership Workshop,Leadership,2025-08-07,2025-08-12,5,1320.73,Completed,67.78,73.16
+459,Communication Skills,Soft Skills,2025-10-30,2025-11-01,2,356.13,Completed,46.4,77.66
+459,Data Analysis,Technical,2026-05-08,2026-05-13,5,964.37,Completed,38.94,60.94
+460,Sales Techniques,Functional,2026-01-30,2026-02-02,3,1954.36,Completed,57.23,88.9
+462,Project Management,Management,2026-02-16,2026-02-19,3,1055.42,Completed,32.73,57.3
+462,Diversity & Inclusion,Soft Skills,2026-03-05,2026-03-10,5,1051.79,Dropped,61.45,87.27
+463,Data Analysis,Technical,2025-08-19,2025-08-24,5,823.38,In Progress,30.25,46.76
+463,Safety Training,Compliance,2025-08-07,2025-08-11,4,1733.6,Completed,64.82,90.36
+464,Technical Skills,Technical,2026-07-03,2026-07-04,1,1506.71,Completed,64.43,97.97
+464,Diversity & Inclusion,Soft Skills,2026-05-30,2026-06-01,2,510.38,Dropped,55.92,73.84
+465,Leadership Workshop,Leadership,2026-02-16,2026-02-19,3,1785.18,Completed,36.63,67.93
+466,Safety Training,Compliance,2026-02-16,2026-02-17,1,975.9,Completed,58.99,66.39
+466,Project Management,Management,2026-04-06,2026-04-08,2,473.34,Completed,49.99,60.12
+466,Sales Techniques,Functional,2026-05-04,2026-05-09,5,398.01,Dropped,49.11,69.84
+467,Technical Skills,Technical,2026-06-15,2026-06-18,3,964.99,Completed,34.1,63.57
+467,Leadership Workshop,Leadership,2026-03-08,2026-03-12,4,553.73,Completed,43.69,69.89
+467,Communication Skills,Soft Skills,2026-01-28,2026-01-30,2,1005.37,Completed,33.57,39.67
+468,Safety Training,Compliance,2025-12-15,2025-12-18,3,1664.06,In Progress,65.12,100.0
+469,Safety Training,Compliance,2025-11-28,2025-12-02,4,585.13,In Progress,48.96,60.84
+469,Data Analysis,Technical,2026-04-01,2026-04-04,3,1749.6,Completed,40.88,67.2
+469,Sales Techniques,Functional,2026-01-08,2026-01-12,4,1817.81,Completed,67.86,89.31
+475,Communication Skills,Soft Skills,2026-06-10,2026-06-15,5,1411.42,Completed,32.67,42.51
+475,Diversity & Inclusion,Soft Skills,2026-02-06,2026-02-08,2,618.24,Completed,44.01,54.7
+475,Data Analysis,Technical,2025-08-06,2025-08-07,1,1852.25,Dropped,47.55,80.41
+476,Project Management,Management,2026-03-28,2026-03-31,3,1306.92,Completed,30.28,48.85
+477,Technical Skills,Technical,2025-09-07,2025-09-08,1,1464.78,Completed,37.03,71.93
+477,Leadership Workshop,Leadership,2026-05-06,2026-05-07,1,1317.33,Completed,35.64,61.77
+478,Leadership Workshop,Leadership,2025-12-21,2025-12-22,1,1754.64,Completed,41.52,75.97
+478,Communication Skills,Soft Skills,2026-06-19,2026-06-23,4,837.53,Dropped,53.85,82.57
+480,Diversity & Inclusion,Soft Skills,2025-08-28,2025-09-01,4,1722.66,In Progress,64.15,71.24
+480,Technical Skills,Technical,2025-12-14,2025-12-15,1,1354.01,In Progress,66.3,86.65
+480,Safety Training,Compliance,2025-08-15,2025-08-17,2,1577.49,Completed,35.4,60.73
+480,Leadership Workshop,Leadership,2025-09-25,2025-09-29,4,1944.49,Dropped,55.05,87.67
+484,Project Management,Management,2025-11-07,2025-11-11,4,607.95,Completed,43.31,62.49
+485,Technical Skills,Technical,2025-07-30,2025-08-03,4,695.54,Completed,64.25,85.89
+485,Safety Training,Compliance,2026-06-27,2026-07-01,4,1244.65,Completed,40.82,67.92
+485,Leadership Workshop,Leadership,2026-04-22,2026-04-27,5,1125.98,Dropped,46.25,58.76
+486,Technical Skills,Technical,2026-02-04,2026-02-05,1,973.81,Completed,62.85,74.99
+486,Safety Training,Compliance,2025-09-01,2025-09-03,2,474.01,Completed,68.35,80.23
+487,Leadership Workshop,Leadership,2026-04-06,2026-04-10,4,827.06,Dropped,30.8,54.77
+488,Technical Skills,Technical,2026-03-14,2026-03-18,4,396.96,Completed,66.09,85.47
+488,Safety Training,Compliance,2025-10-31,2025-11-05,5,1291.73,Completed,46.15,64.97
+488,Leadership Workshop,Leadership,2025-08-19,2025-08-20,1,850.8,In Progress,30.23,62.35
+489,Safety Training,Compliance,2025-12-08,2025-12-11,3,1487.35,In Progress,57.78,87.19
+490,Communication Skills,Soft Skills,2026-03-03,2026-03-05,2,1127.53,Completed,42.43,50.51
+490,Data Analysis,Technical,2026-03-23,2026-03-24,1,1974.22,Completed,33.85,44.68
+492,Project Management,Management,2025-07-11,2025-07-16,5,294.15,In Progress,46.1,75.57
+492,Diversity & Inclusion,Soft Skills,2026-05-17,2026-05-19,2,532.66,Completed,35.49,46.31
+492,Communication Skills,Soft Skills,2026-01-29,2026-02-01,3,1817.9,Completed,40.56,73.68
+495,Sales Techniques,Functional,2026-03-30,2026-04-04,5,1687.31,Dropped,49.19,54.7
+495,Technical Skills,Technical,2025-11-21,2025-11-22,1,1191.24,Dropped,37.18,70.64
+495,Communication Skills,Soft Skills,2026-03-03,2026-03-05,2,1106.2,Completed,54.24,83.54
+495,Data Analysis,Technical,2026-03-29,2026-04-01,3,1944.32,Completed,36.58,53.31
+496,Technical Skills,Technical,2026-02-11,2026-02-15,4,1803.93,In Progress,61.38,90.95
+496,Project Management,Management,2026-01-08,2026-01-13,5,291.32,Completed,69.7,75.97
+496,Leadership Workshop,Leadership,2025-11-05,2025-11-07,2,410.07,Completed,58.31,65.07
+496,Data Analysis,Technical,2026-05-07,2026-05-09,2,1550.16,In Progress,51.94,65.52
+497,Data Analysis,Technical,2025-07-11,2025-07-14,3,1760.96,In Progress,52.37,69.46
+497,Diversity & Inclusion,Soft Skills,2026-03-03,2026-03-08,5,1903.66,Completed,40.31,60.28
+498,Sales Techniques,Functional,2025-12-11,2025-12-13,2,1073.34,Completed,58.75,64.51
+499,Leadership Workshop,Leadership,2026-06-02,2026-06-07,5,1915.29,Completed,45.03,75.73

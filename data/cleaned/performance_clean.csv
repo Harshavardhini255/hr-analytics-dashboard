@@ -1,0 +1,2326 @@
+employee_id,review_date,review_period,self_rating,manager_rating,overall_rating,goals_achieved,goals_target,feedback_summary,goals_met_pct
+2,2023-06-15,H1-2023,5,5,5,4,5,Gas indeed notice rich brother without do.,80.0
+2,2023-12-15,H2-2023,3,5,4,2,5,Mind pay son community traditional.,40.0
+2,2024-06-15,H1-2024,5,3,4,4,5,Our lose whatever hundred carry ready.,80.0
+2,2024-12-15,H2-2024,5,3,4,4,5,Daughter during report.,80.0
+2,2025-06-15,H1-2025,3,5,4,5,5,Hope east ask price early type loss on.,100.0
+3,2023-06-15,H1-2023,4,4,4,4,5,Song film television finally spend.,80.0
+3,2023-12-15,H2-2023,2,4,3,3,5,Reduce big character plant.,60.0
+3,2024-06-15,H1-2024,2,2,2,4,5,People should tell political ago green product.,80.0
+3,2024-12-15,H2-2024,3,3,3,3,5,People world team provide.,60.0
+3,2025-06-15,H1-2025,4,4,4,3,5,Heart mother practice call account east rich.,60.0
+4,2023-06-15,H1-2023,5,5,5,2,5,Car community stop plan item pattern wonder.,40.0
+4,2023-12-15,H2-2023,5,4,4,2,5,Sit gas recently very alone ground front.,40.0
+4,2024-06-15,H1-2024,5,4,4,2,5,Who box nor.,40.0
+4,2024-12-15,H2-2024,4,4,4,2,5,Deep sit hit animal note clearly.,40.0
+4,2025-06-15,H1-2025,4,4,4,3,5,Later main seem easy always director model.,60.0
+5,2023-06-15,H1-2023,3,4,4,3,5,Good ground candidate who begin.,60.0
+5,2023-12-15,H2-2023,3,2,2,5,5,Information say mother indeed.,100.0
+5,2024-06-15,H1-2024,2,2,2,5,5,Ten plan he movie.,100.0
+5,2024-12-15,H2-2024,3,4,4,3,5,Dark majority state number indeed myself.,60.0
+5,2025-06-15,H1-2025,3,3,3,2,5,Development wear other culture very store growth.,40.0
+6,2023-06-15,H1-2023,5,4,4,4,5,Treat firm easy large.,80.0
+6,2023-12-15,H2-2023,5,5,5,3,5,Security education least.,60.0
+6,2024-06-15,H1-2024,5,5,5,2,5,Machine check again region teacher say him.,40.0
+6,2024-12-15,H2-2024,4,5,4,3,5,Report example thousand.,60.0
+6,2025-06-15,H1-2025,4,5,4,2,5,Reality stock old still human part natural.,40.0
+7,2023-06-15,H1-2023,1,1,1,3,5,A study resource recognize operation.,60.0
+7,2023-12-15,H2-2023,3,2,2,5,5,Sit during hope cause own grow.,100.0
+7,2024-06-15,H1-2024,2,1,2,5,5,About key very clear.,100.0
+7,2024-12-15,H2-2024,2,1,2,2,5,Beat happen for bill window.,40.0
+7,2025-06-15,H1-2025,3,3,3,2,5,Outside result police fire able method.,40.0
+8,2023-06-15,H1-2023,5,4,4,2,5,Deal fine region reason political.,40.0
+8,2023-12-15,H2-2023,5,5,5,2,5,Section station price tend international if.,40.0
+8,2024-06-15,H1-2024,4,5,4,5,5,Evidence nor spend language.,100.0
+8,2024-12-15,H2-2024,4,4,4,2,5,During explain fight every power until.,40.0
+8,2025-06-15,H1-2025,4,3,4,3,5,Figure right together offer collection seat air model.,60.0
+9,2023-06-15,H1-2023,5,4,4,4,5,Do watch resource full.,80.0
+9,2023-12-15,H2-2023,5,3,4,5,5,Today full they.,100.0
+9,2024-06-15,H1-2024,5,4,4,2,5,Billion view parent.,40.0
+9,2024-12-15,H2-2024,5,5,5,4,5,Keep bank section western weight.,80.0
+9,2025-06-15,H1-2025,4,4,4,4,5,They newspaper get use author.,80.0
+10,2023-06-15,H1-2023,3,3,3,2,5,Morning believe rather generation particularly.,40.0
+10,2023-12-15,H2-2023,2,2,2,4,5,Ground Democrat dark describe sister decide weight.,80.0
+10,2024-06-15,H1-2024,2,4,3,5,5,Late base political rest six.,100.0
+10,2024-12-15,H2-2024,2,4,3,2,5,View matter industry direction project nature late material.,40.0
+10,2025-06-15,H1-2025,4,3,4,5,5,Old PM wait from every.,100.0
+11,2023-06-15,H1-2023,5,5,5,3,5,Suffer already walk cell moment it.,60.0
+11,2023-12-15,H2-2023,5,5,5,4,5,Democratic collection happen idea force should red.,80.0
+11,2024-06-15,H1-2024,5,5,5,5,5,Teacher already feeling southern test conference similar.,100.0
+11,2024-12-15,H2-2024,5,5,5,2,5,Bill from interesting statement interview with.,40.0
+11,2025-06-15,H1-2025,4,5,4,5,5,Push thousand health election.,100.0
+12,2023-06-15,H1-2023,5,5,5,2,5,Left thus face such hour executive.,40.0
+12,2023-12-15,H2-2023,5,5,5,3,5,Town agree successful reflect baby fact mention.,60.0
+12,2024-06-15,H1-2024,5,5,5,4,5,Watch government sing factor area.,80.0
+12,2024-12-15,H2-2024,4,5,4,2,5,Let act left then almost if community provide.,40.0
+12,2025-06-15,H1-2025,5,5,5,5,5,Guy look consider speech.,100.0
+13,2023-06-15,H1-2023,3,3,3,2,5,Over artist dinner agency whole test.,40.0
+13,2023-12-15,H2-2023,3,4,4,2,5,Head exactly size customer quickly age.,40.0
+13,2024-06-15,H1-2024,2,2,2,4,5,Life past read medical major must site decide.,80.0
+13,2024-12-15,H2-2024,4,3,4,3,5,May indicate visit expert remain.,60.0
+13,2025-06-15,H1-2025,2,4,3,3,5,Until deal also type lay.,60.0
+14,2023-06-15,H1-2023,3,5,4,5,5,Agent chair cultural feel a.,100.0
+14,2023-12-15,H2-2023,3,3,3,5,5,If bar others off.,100.0
+14,2024-06-15,H1-2024,5,4,4,5,5,Message day throw long.,100.0
+14,2024-12-15,H2-2024,5,5,5,5,5,Anything institution mother without job partner role.,100.0
+14,2025-06-15,H1-2025,3,5,4,3,5,Rather tree near any kind major city east.,60.0
+15,2023-06-15,H1-2023,4,5,4,4,5,Garden mouth instead call decide middle.,80.0
+15,2023-12-15,H2-2023,5,5,5,3,5,Enough small article bit lay alone pass happy.,60.0
+15,2024-06-15,H1-2024,5,5,5,2,5,Population national college point police sense.,40.0
+15,2024-12-15,H2-2024,5,4,4,4,5,Republican project require discover anything else.,80.0
+15,2025-06-15,H1-2025,4,5,4,5,5,Fight Mrs task Congress half cultural develop.,100.0
+16,2023-06-15,H1-2023,4,2,3,4,5,Less woman term anyone ago bar mind.,80.0
+16,2023-12-15,H2-2023,4,3,4,4,5,Happy reach third fly sign what.,80.0
+16,2024-06-15,H1-2024,2,2,2,4,5,Past late mission media.,80.0
+16,2024-12-15,H2-2024,2,2,2,3,5,Me wall we ahead wonder help.,60.0
+16,2025-06-15,H1-2025,2,3,2,3,5,The imagine authority wrong professional front we.,60.0
+17,2023-06-15,H1-2023,4,3,4,4,5,Into design political sign Democrat.,80.0
+17,2023-12-15,H2-2023,4,3,4,5,5,Board toward major simply development certain.,100.0
+17,2024-06-15,H1-2024,3,5,4,5,5,Spend option truth age.,100.0
+17,2024-12-15,H2-2024,4,3,4,3,5,Make paper recent reach great history.,60.0
+17,2025-06-15,H1-2025,5,3,4,4,5,Seven prepare entire medical.,80.0
+18,2023-06-15,H1-2023,2,3,2,5,5,Shoulder TV maybe doctor.,100.0
+18,2023-12-15,H2-2023,4,4,4,4,5,Morning democratic to part power.,80.0
+18,2024-06-15,H1-2024,4,4,4,5,5,Whatever this now picture bad against hundred.,100.0
+18,2024-12-15,H2-2024,2,3,2,3,5,Thousand note growth perhaps account assume author.,60.0
+18,2025-06-15,H1-2025,3,3,3,2,5,Now traditional left cell.,40.0
+19,2023-06-15,H1-2023,3,3,3,3,5,Just arm training bit after end pattern.,60.0
+19,2023-12-15,H2-2023,4,2,3,5,5,Assume onto fly activity.,100.0
+19,2024-06-15,H1-2024,4,2,3,3,5,Worry chance guy sound letter pull experience.,60.0
+19,2024-12-15,H2-2024,3,4,4,3,5,Develop seem Mrs dark avoid bed kind.,60.0
+19,2025-06-15,H1-2025,3,3,3,4,5,Know main process enough.,80.0
+20,2023-06-15,H1-2023,4,4,4,2,5,Ability range five water road be.,40.0
+20,2023-12-15,H2-2023,3,3,3,4,5,None issue charge wife common establish.,80.0
+20,2024-06-15,H1-2024,4,3,4,4,5,Performance last include foot face.,80.0
+20,2024-12-15,H2-2024,2,4,3,3,5,Environment man hard reveal cause term his report.,60.0
+20,2025-06-15,H1-2025,2,3,2,5,5,Very fund section according society where.,100.0
+21,2023-06-15,H1-2023,1,2,2,4,5,Whose morning point even really.,80.0
+21,2023-12-15,H2-2023,2,1,2,2,5,Whole walk cause some early base machine.,40.0
+21,2024-06-15,H1-2024,1,1,1,2,5,Conference treat receive political cell.,40.0
+21,2024-12-15,H2-2024,2,1,2,3,5,Before evidence general point get write.,60.0
+21,2025-06-15,H1-2025,2,1,2,4,5,Report role school fall run gas own.,80.0
+22,2023-06-15,H1-2023,3,4,4,4,5,Save seek fly after parent because.,80.0
+22,2023-12-15,H2-2023,3,4,4,5,5,Recent yard yeah hair.,100.0
+22,2024-06-15,H1-2024,5,4,4,4,5,Feeling eye over say while stand deal.,80.0
+22,2024-12-15,H2-2024,4,3,4,2,5,Would road song scientist describe million under.,40.0
+22,2025-06-15,H1-2025,5,3,4,2,5,Himself collection nearly behavior represent above task land.,40.0
+23,2023-06-15,H1-2023,5,4,4,3,5,Although mean care future low get.,60.0
+23,2023-12-15,H2-2023,5,5,5,5,5,Others know technology unit.,100.0
+23,2024-06-15,H1-2024,5,5,5,4,5,Push I teacher paper seat citizen watch.,80.0
+23,2024-12-15,H2-2024,5,5,5,2,5,Agree then report factor air speech.,40.0
+23,2025-06-15,H1-2025,4,3,4,4,5,Finish fine about know television those question conference.,80.0
+24,2023-06-15,H1-2023,5,5,5,3,5,Girl difference ten administration.,60.0
+24,2023-12-15,H2-2023,5,5,5,2,5,Sound lose least information western particular employee.,40.0
+24,2024-06-15,H1-2024,5,5,5,3,5,Wonder interview would through say official.,60.0
+24,2024-12-15,H2-2024,5,4,4,2,5,Our edge company key fill send.,40.0
+24,2025-06-15,H1-2025,4,5,4,3,5,Health best sound whatever glass service.,60.0
+25,2023-06-15,H1-2023,1,1,1,5,5,Fact get get issue fact us training.,100.0
+25,2023-12-15,H2-2023,1,1,1,4,5,Not risk although night receive.,80.0
+25,2024-06-15,H1-2024,1,1,1,3,5,Dinner case either nature car should available.,60.0
+25,2024-12-15,H2-2024,2,1,2,5,5,Responsibility detail send administration surface.,100.0
+25,2025-06-15,H1-2025,1,1,1,3,5,Experience professor break garden than.,60.0
+26,2023-06-15,H1-2023,5,4,4,4,5,Whatever suggest hit answer.,80.0
+26,2023-12-15,H2-2023,5,4,4,2,5,Stop able discover meet.,40.0
+26,2024-06-15,H1-2024,5,4,4,2,5,Quality more various suffer international brother professional order.,40.0
+26,2024-12-15,H2-2024,5,5,5,3,5,Wonder thank door.,60.0
+26,2025-06-15,H1-2025,5,4,4,5,5,Range huge suffer measure inside attorney likely important.,100.0
+27,2023-06-15,H1-2023,5,5,5,2,5,Apply that little then democratic.,40.0
+27,2023-12-15,H2-2023,4,5,4,4,5,View rather quickly design without democratic.,80.0
+27,2024-06-15,H1-2024,3,4,4,4,5,Example do still particularly reality mention company.,80.0
+27,2024-12-15,H2-2024,5,5,5,2,5,Case account professor them follow.,40.0
+27,2025-06-15,H1-2025,3,3,3,4,5,Partner just read unit wear prevent.,80.0
+28,2023-06-15,H1-2023,5,5,5,2,5,Might organization car share really.,40.0
+28,2023-12-15,H2-2023,5,4,4,5,5,Seven nearly sense open management spring.,100.0
+28,2024-06-15,H1-2024,3,5,4,5,5,Camera offer difference by many.,100.0
+28,2024-12-15,H2-2024,5,5,5,3,5,Term tree produce well pick center discussion.,60.0
+28,2025-06-15,H1-2025,3,5,4,4,5,Walk last size through every he.,80.0
+29,2023-06-15,H1-2023,4,4,4,5,5,Them speak attack newspaper.,100.0
+29,2023-12-15,H2-2023,2,2,2,5,5,Training entire indicate fly direction might fight.,100.0
+29,2024-06-15,H1-2024,2,4,3,2,5,Free forward item audience cup color.,40.0
+29,2024-12-15,H2-2024,4,2,3,5,5,Throw reflect modern appear just any.,100.0
+29,2025-06-15,H1-2025,2,4,3,3,5,Beyond common system raise about event.,60.0
+30,2023-06-15,H1-2023,5,4,4,3,5,Why really check lose these drop money.,60.0
+30,2023-12-15,H2-2023,5,5,5,4,5,Message region center.,80.0
+30,2024-06-15,H1-2024,3,5,4,5,5,Skin age business fast account great church.,100.0
+30,2024-12-15,H2-2024,5,5,5,2,5,Company job fight receive.,40.0
+30,2025-06-15,H1-2025,3,4,4,2,5,Wonder build successful.,40.0
+31,2023-06-15,H1-2023,4,5,4,2,5,Hotel himself young nearly where remain present.,40.0
+31,2023-12-15,H2-2023,4,5,4,4,5,Majority both natural particularly fly gas cover.,80.0
+31,2024-06-15,H1-2024,5,3,4,4,5,Watch improve husband factor garden during build.,80.0
+31,2024-12-15,H2-2024,5,4,4,5,5,Lead way opportunity make between.,100.0
+31,2025-06-15,H1-2025,4,5,4,5,5,Whatever court gun agent act establish candidate money.,100.0
+32,2023-06-15,H1-2023,2,4,3,3,5,Town form region stuff just walk.,60.0
+32,2023-12-15,H2-2023,2,4,3,3,5,Heart low glass image car nearly popular experience.,60.0
+32,2024-06-15,H1-2024,3,3,3,3,5,Window candidate issue around staff story.,60.0
+32,2024-12-15,H2-2024,2,3,2,2,5,Politics middle feeling practice class.,40.0
+32,2025-06-15,H1-2025,2,4,3,4,5,Else reduce care opportunity prove blue impact.,80.0
+33,2023-06-15,H1-2023,5,4,4,5,5,Same officer just drop say white.,100.0
+33,2023-12-15,H2-2023,4,4,4,4,5,Raise role my news.,80.0
+33,2024-06-15,H1-2024,4,4,4,5,5,Decision experience evening attack effect drive thank while.,100.0
+33,2024-12-15,H2-2024,5,4,4,3,5,Necessary of believe recognize event.,60.0
+34,2023-06-15,H1-2023,3,3,3,2,5,Feel others research card animal suggest then.,40.0
+34,2023-12-15,H2-2023,3,1,2,5,5,Never them despite wife.,100.0
+34,2024-06-15,H1-2024,2,3,2,3,5,Trade education key standard write.,60.0
+34,2024-12-15,H2-2024,2,2,2,4,5,Director bed leave window focus produce generation.,80.0
+34,2025-06-15,H1-2025,3,3,3,5,5,Shoulder knowledge food prepare.,100.0
+35,2023-06-15,H1-2023,3,4,4,2,5,Seek bring available.,40.0
+35,2023-12-15,H2-2023,5,3,4,4,5,Congress discover poor table couple step.,80.0
+35,2024-06-15,H1-2024,5,3,4,4,5,Head water wear situation share.,80.0
+35,2024-12-15,H2-2024,4,5,4,5,5,Everything despite fund.,100.0
+35,2025-06-15,H1-2025,3,4,4,2,5,Job feeling why behavior skin almost.,40.0
+36,2023-06-15,H1-2023,5,5,5,2,5,Beyond question together operation must light.,40.0
+36,2023-12-15,H2-2023,5,4,4,2,5,Certain activity public customer.,40.0
+36,2024-06-15,H1-2024,4,3,4,4,5,Various effect else participant blue others possible.,80.0
+36,2024-12-15,H2-2024,3,5,4,4,5,Within final woman change rather.,80.0
+36,2025-06-15,H1-2025,4,3,4,4,5,Box it head president wear.,80.0
+37,2023-06-15,H1-2023,2,4,3,5,5,But west me team.,100.0
+37,2023-12-15,H2-2023,2,3,2,5,5,Per least can send standard political country science.,100.0
+37,2024-06-15,H1-2024,3,2,2,3,5,Crime writer action step before successful.,60.0
+37,2024-12-15,H2-2024,2,3,2,5,5,Less instead dinner as everyone year.,100.0
+37,2025-06-15,H1-2025,2,3,2,3,5,Writer hand consider for cost others outside weight.,60.0
+38,2023-06-15,H1-2023,3,3,3,3,5,Present newspaper hotel throw finish.,60.0
+38,2023-12-15,H2-2023,1,3,2,3,5,Coach list mean particular.,60.0
+38,2024-06-15,H1-2024,1,1,1,3,5,Look little class send base behind child.,60.0
+38,2024-12-15,H2-2024,1,1,1,2,5,Mission Mrs upon hard return.,40.0
+38,2025-06-15,H1-2025,2,2,2,2,5,Involve visit law product.,40.0
+39,2023-06-15,H1-2023,5,3,4,5,5,Interview company sense military.,100.0
+39,2023-12-15,H2-2023,3,3,3,3,5,Political study difference answer street attorney.,60.0
+39,2024-06-15,H1-2024,3,4,4,5,5,Simply share range exist.,100.0
+39,2024-12-15,H2-2024,5,3,4,5,5,Attorney add wait visit.,100.0
+39,2025-06-15,H1-2025,3,4,4,4,5,Democratic television common strategy.,80.0
+40,2023-06-15,H1-2023,4,3,4,4,5,Billion ahead group product.,80.0
+40,2023-12-15,H2-2023,3,2,2,5,5,Republican effort although leader its.,100.0
+40,2024-06-15,H1-2024,4,2,3,4,5,Face interest which stuff brother experience nothing.,80.0
+40,2024-12-15,H2-2024,3,3,3,4,5,Major type room.,80.0
+40,2025-06-15,H1-2025,4,4,4,5,5,First pattern decision.,100.0
+41,2023-06-15,H1-2023,5,4,4,5,5,Approach particular it become turn north.,100.0
+41,2023-12-15,H2-2023,5,5,5,3,5,Ability American toward everything.,60.0
+41,2024-06-15,H1-2024,5,4,4,2,5,Whom open budget audience.,40.0
+41,2024-12-15,H2-2024,5,5,5,3,5,Voice end fine.,60.0
+41,2025-06-15,H1-2025,5,5,5,3,5,Care century join training protect.,60.0
+42,2023-06-15,H1-2023,2,2,2,3,5,Gas role almost factor phone short.,60.0
+42,2023-12-15,H2-2023,4,4,4,4,5,Level remain card listen agency.,80.0
+42,2024-06-15,H1-2024,3,3,3,2,5,Show do dinner part authority director student.,40.0
+42,2024-12-15,H2-2024,2,3,2,4,5,Smile fly save can lot within.,80.0
+42,2025-06-15,H1-2025,2,2,2,5,5,North let share change home three.,100.0
+43,2023-06-15,H1-2023,4,4,4,5,5,Visit boy be summer later such difficult.,100.0
+43,2023-12-15,H2-2023,5,5,5,5,5,About sense that.,100.0
+43,2024-06-15,H1-2024,4,4,4,5,5,Reduce society people score.,100.0
+43,2024-12-15,H2-2024,5,5,5,2,5,Performance understand identify page year east.,40.0
+43,2025-06-15,H1-2025,5,5,5,4,5,Question doctor service affect business ready.,80.0
+44,2023-06-15,H1-2023,2,3,2,4,5,Daughter trip visit offer other before human.,80.0
+44,2023-12-15,H2-2023,3,3,3,5,5,Town address eat include offer some.,100.0
+45,2023-06-15,H1-2023,4,2,3,4,5,Office health clear Mrs interview right race.,80.0
+45,2023-12-15,H2-2023,3,3,3,4,5,Wall prepare perform.,80.0
+45,2024-06-15,H1-2024,4,3,4,3,5,Since per art fill operation skin field.,60.0
+45,2024-12-15,H2-2024,3,3,3,3,5,Every indicate wish.,60.0
+45,2025-06-15,H1-2025,3,4,4,5,5,About hotel head.,100.0
+46,2023-06-15,H1-2023,5,4,4,3,5,Ten town evening decision.,60.0
+46,2023-12-15,H2-2023,5,5,5,5,5,Memory argue no student Democrat nation.,100.0
+46,2024-06-15,H1-2024,4,4,4,2,5,Perhaps court western high.,40.0
+46,2024-12-15,H2-2024,5,5,5,2,5,She create environment star hold society.,40.0
+46,2025-06-15,H1-2025,5,5,5,3,5,Modern visit reveal you kind.,60.0
+47,2023-06-15,H1-2023,5,5,5,3,5,Writer wind economy its.,60.0
+47,2023-12-15,H2-2023,5,5,5,3,5,Smile water skin morning.,60.0
+47,2024-06-15,H1-2024,4,4,4,4,5,Likely end activity expect positive large.,80.0
+47,2024-12-15,H2-2024,5,4,4,3,5,Training summer like national rule each significant perform.,60.0
+47,2025-06-15,H1-2025,4,5,4,4,5,Month wide early black.,80.0
+48,2023-06-15,H1-2023,2,3,2,3,5,Effect soon issue shoulder decide hot.,60.0
+48,2023-12-15,H2-2023,4,2,3,2,5,Ok effort southern style.,40.0
+48,2024-06-15,H1-2024,3,4,4,3,5,Fight customer culture want arm.,60.0
+48,2024-12-15,H2-2024,3,4,4,5,5,Quality call poor suddenly reduce building this market.,100.0
+48,2025-06-15,H1-2025,2,2,2,2,5,Threat ago they fly marriage interview toward.,40.0
+50,2023-06-15,H1-2023,3,4,4,5,5,Fund maybe say pattern under.,100.0
+50,2023-12-15,H2-2023,3,4,4,3,5,That recognize attention its worry before they consider.,60.0
+50,2024-06-15,H1-2024,4,2,3,5,5,Week hear woman like card.,100.0
+50,2024-12-15,H2-2024,4,4,4,5,5,Early these apply with.,100.0
+50,2025-06-15,H1-2025,2,2,2,5,5,Democrat finish maintain.,100.0
+51,2023-06-15,H1-2023,3,2,2,5,5,Cell trip score practice enjoy senior.,100.0
+51,2023-12-15,H2-2023,3,4,4,4,5,Notice speak choose college television few show.,80.0
+51,2024-06-15,H1-2024,2,3,2,2,5,Wife spend admit better kind win.,40.0
+51,2024-12-15,H2-2024,3,4,4,3,5,Section federal character deal bill despite.,60.0
+51,2025-06-15,H1-2025,2,3,2,5,5,Until when law management each paper.,100.0
+52,2023-06-15,H1-2023,4,3,4,4,5,Back early feeling material.,80.0
+52,2023-12-15,H2-2023,3,2,2,4,5,College system statement realize.,80.0
+52,2024-06-15,H1-2024,3,4,4,4,5,Speak statement federal traditional me face.,80.0
+52,2024-12-15,H2-2024,2,2,2,5,5,Just factor kid guy majority indicate.,100.0
+52,2025-06-15,H1-2025,3,4,4,2,5,Degree add talk of choose.,40.0
+53,2023-06-15,H1-2023,2,3,2,5,5,Record shake Mrs some entire.,100.0
+53,2023-12-15,H2-2023,2,1,2,4,5,Pattern start worry player social high large.,80.0
+53,2024-06-15,H1-2024,2,1,2,2,5,Care phone image yet camera.,40.0
+53,2024-12-15,H2-2024,1,2,2,2,5,Position pull personal share.,40.0
+53,2025-06-15,H1-2025,1,3,2,3,5,Ball option same.,60.0
+54,2023-06-15,H1-2023,4,4,4,5,5,First Congress class weight growth.,100.0
+54,2023-12-15,H2-2023,2,3,2,3,5,Blue similar turn before.,60.0
+54,2024-06-15,H1-2024,3,4,4,5,5,Yourself worry process certainly next road Democrat.,100.0
+54,2024-12-15,H2-2024,4,4,4,2,5,Face nice fill financial summer society painting.,40.0
+54,2025-06-15,H1-2025,3,2,2,4,5,Know improve church take course cold.,80.0
+55,2023-06-15,H1-2023,2,3,2,3,5,Lead individual phone no skill story thousand.,60.0
+55,2023-12-15,H2-2023,3,4,4,2,5,Water grow soon matter.,40.0
+55,2024-06-15,H1-2024,4,3,4,5,5,Condition allow three discussion market majority may moment.,100.0
+55,2024-12-15,H2-2024,4,2,3,5,5,Woman successful raise career office.,100.0
+55,2025-06-15,H1-2025,3,2,2,3,5,Treatment international door.,60.0
+56,2023-06-15,H1-2023,3,2,2,5,5,Visit then put best.,100.0
+56,2023-12-15,H2-2023,1,1,1,2,5,Water political suggest government.,40.0
+56,2024-06-15,H1-2024,3,3,3,2,5,Point seek officer compare thousand white.,40.0
+56,2024-12-15,H2-2024,1,3,2,3,5,Once admit hotel window later matter federal.,60.0
+56,2025-06-15,H1-2025,2,2,2,3,5,Side rule race but phone.,60.0
+57,2023-06-15,H1-2023,2,4,3,3,5,Necessary serve avoid evening control.,60.0
+57,2023-12-15,H2-2023,4,4,4,3,5,Age mouth price stand structure his.,60.0
+57,2024-06-15,H1-2024,2,4,3,5,5,West stay audience result military.,100.0
+57,2024-12-15,H2-2024,2,4,3,4,5,Everybody instead new parent set.,80.0
+57,2025-06-15,H1-2025,4,3,4,2,5,Lead wall positive when.,40.0
+58,2023-06-15,H1-2023,3,1,2,3,5,Carry seem speech product evidence.,60.0
+58,2023-12-15,H2-2023,1,2,2,3,5,Side which now serve stuff.,60.0
+58,2024-06-15,H1-2024,3,3,3,2,5,Between activity answer always truth movie couple out.,40.0
+58,2024-12-15,H2-2024,1,2,2,4,5,Popular give religious.,80.0
+58,2025-06-15,H1-2025,1,1,1,4,5,Reason language college could.,80.0
+59,2023-06-15,H1-2023,3,3,3,4,5,Simple knowledge describe middle something.,80.0
+59,2023-12-15,H2-2023,4,5,4,5,5,Two interest available relationship day.,100.0
+59,2024-06-15,H1-2024,5,5,5,4,5,Every wear age near baby.,80.0
+59,2024-12-15,H2-2024,5,4,4,5,5,Situation indeed decade challenge among tree third.,100.0
+59,2025-06-15,H1-2025,4,4,4,4,5,American onto court whole before officer.,80.0
+60,2023-06-15,H1-2023,3,3,3,3,5,Property character there unit.,60.0
+60,2023-12-15,H2-2023,3,3,3,5,5,Alone cell woman building suffer leader us.,100.0
+60,2024-06-15,H1-2024,3,2,2,3,5,Forward summer finally shoulder big late production.,60.0
+60,2024-12-15,H2-2024,4,2,3,4,5,Support life note experience while risk.,80.0
+60,2025-06-15,H1-2025,4,2,3,2,5,Unit democratic official on market consider.,40.0
+61,2023-06-15,H1-2023,3,3,3,2,5,Beautiful common form account.,40.0
+61,2023-12-15,H2-2023,2,4,3,5,5,Themselves foreign yet table total line.,100.0
+61,2024-06-15,H1-2024,2,3,2,5,5,Serious at suggest end determine role.,100.0
+61,2024-12-15,H2-2024,3,4,4,3,5,Republican pull art structure century drive hit.,60.0
+61,2025-06-15,H1-2025,4,2,3,3,5,Me develop accept look shoulder behind list.,60.0
+62,2023-06-15,H1-2023,4,3,4,2,5,Conference government admit participant American happy point.,40.0
+62,2023-12-15,H2-2023,2,3,2,5,5,Plan information enter discuss board find.,100.0
+62,2024-06-15,H1-2024,2,4,3,2,5,Know team pick space.,40.0
+62,2024-12-15,H2-2024,4,3,4,3,5,Mr with serious keep increase about throw.,60.0
+62,2025-06-15,H1-2025,4,2,3,5,5,Run nearly born sea paper growth.,100.0
+63,2023-06-15,H1-2023,5,5,5,3,5,East member recently year.,60.0
+64,2023-06-15,H1-2023,5,4,4,5,5,Blood final end represent resource prove record pay.,100.0
+64,2023-12-15,H2-2023,4,3,4,5,5,By successful picture against.,100.0
+64,2024-06-15,H1-2024,5,3,4,3,5,Identify dream shoulder head including design beat.,60.0
+64,2024-12-15,H2-2024,3,5,4,3,5,Morning time because month stage few.,60.0
+64,2025-06-15,H1-2025,4,4,4,3,5,Themselves recent example natural star want.,60.0
+65,2023-06-15,H1-2023,4,2,3,5,5,Worker authority dog American language individual car.,100.0
+65,2023-12-15,H2-2023,3,3,3,2,5,Along middle because keep everything west.,40.0
+65,2024-06-15,H1-2024,2,2,2,4,5,Culture image sound measure run or.,80.0
+65,2024-12-15,H2-2024,3,3,3,4,5,Seat line always physical thing lay.,80.0
+65,2025-06-15,H1-2025,2,2,2,3,5,Health allow mean.,60.0
+66,2023-06-15,H1-2023,2,4,3,2,5,Trade hope bag.,40.0
+66,2023-12-15,H2-2023,2,3,2,4,5,Receive down century high place.,80.0
+66,2024-06-15,H1-2024,2,2,2,4,5,Various determine strong matter sound market probably.,80.0
+66,2024-12-15,H2-2024,2,3,2,3,5,Consider here walk expert past far start.,60.0
+66,2025-06-15,H1-2025,3,2,2,5,5,Early decide news reality ago.,100.0
+67,2023-06-15,H1-2023,5,5,5,2,5,Indicate listen physical.,40.0
+67,2023-12-15,H2-2023,4,5,4,5,5,Fall doctor pretty whole paper task.,100.0
+67,2024-06-15,H1-2024,5,5,5,3,5,Control adult energy of decide step back.,60.0
+67,2024-12-15,H2-2024,5,5,5,2,5,Herself represent sure.,40.0
+67,2025-06-15,H1-2025,5,4,4,4,5,Table themselves baby.,80.0
+68,2023-06-15,H1-2023,4,2,3,5,5,Skill against center company live never know.,100.0
+68,2023-12-15,H2-2023,3,4,4,5,5,What bit either reach case but treat.,100.0
+68,2024-06-15,H1-2024,4,3,4,3,5,Military need plan window must bad.,60.0
+68,2024-12-15,H2-2024,4,3,4,4,5,General effect reduce.,80.0
+68,2025-06-15,H1-2025,2,2,2,3,5,Pressure already conference mother word.,60.0
+69,2023-06-15,H1-2023,4,4,4,4,5,Focus trial talk out plan become public.,80.0
+69,2023-12-15,H2-2023,2,2,2,2,5,List off magazine exactly.,40.0
+69,2024-06-15,H1-2024,2,4,3,5,5,Article order source value director entire lot.,100.0
+69,2024-12-15,H2-2024,3,4,4,4,5,Into expect authority old school.,80.0
+69,2025-06-15,H1-2025,4,2,3,3,5,Size your traditional seem.,60.0
+70,2023-06-15,H1-2023,5,5,5,5,5,Down visit task important rise possible pattern.,100.0
+70,2023-12-15,H2-2023,5,4,4,5,5,Boy according drug eat part across.,100.0
+70,2024-06-15,H1-2024,5,4,4,2,5,Left think officer.,40.0
+70,2024-12-15,H2-2024,4,5,4,5,5,Concern artist then material sometimes almost whether usually.,100.0
+70,2025-06-15,H1-2025,4,5,4,2,5,Dinner car grow suggest western page fill important.,40.0
+71,2023-06-15,H1-2023,3,5,4,4,5,Mother stay half.,80.0
+71,2023-12-15,H2-2023,3,3,3,4,5,Upon without really itself no quite.,80.0
+71,2024-06-15,H1-2024,3,3,3,4,5,One age goal me with impact according.,80.0
+71,2024-12-15,H2-2024,4,5,4,3,5,Product author cold local fact financial religious.,60.0
+71,2025-06-15,H1-2025,4,5,4,2,5,Almost court chance discover.,40.0
+72,2023-06-15,H1-2023,3,4,4,3,5,Star front involve oil establish too often.,60.0
+72,2023-12-15,H2-2023,3,2,2,3,5,Young position detail sign.,60.0
+72,2024-06-15,H1-2024,3,2,2,5,5,Score factor weight bring.,100.0
+72,2024-12-15,H2-2024,4,3,4,5,5,Data physical hear instead north answer right.,100.0
+72,2025-06-15,H1-2025,2,4,3,2,5,On man student the five.,40.0
+73,2023-06-15,H1-2023,5,4,4,2,5,Difference data state sure another.,40.0
+73,2023-12-15,H2-2023,4,4,4,4,5,Church fire power.,80.0
+73,2024-06-15,H1-2024,5,5,5,3,5,City daughter yet often red but.,60.0
+73,2024-12-15,H2-2024,4,4,4,4,5,Million history forward final position whose cell.,80.0
+73,2025-06-15,H1-2025,4,5,4,4,5,Us bed the about.,80.0
+74,2023-06-15,H1-2023,1,3,2,4,5,Natural suddenly everything computer prepare at.,80.0
+74,2023-12-15,H2-2023,1,1,1,3,5,Think attorney happy build feel though.,60.0
+74,2024-06-15,H1-2024,2,2,2,2,5,Goal represent career nearly east specific industry true.,40.0
+74,2024-12-15,H2-2024,3,1,2,2,5,Record early radio stop.,40.0
+74,2025-06-15,H1-2025,3,3,3,5,5,Teach dark benefit current.,100.0
+75,2023-06-15,H1-2023,5,5,5,3,5,Program require while must stuff region.,60.0
+75,2023-12-15,H2-2023,4,3,4,2,5,Speech she really bring cold while unit medical.,40.0
+75,2024-06-15,H1-2024,5,3,4,4,5,None similar him relationship always beat.,80.0
+75,2024-12-15,H2-2024,4,4,4,3,5,Raise build some street without range another sell.,60.0
+75,2025-06-15,H1-2025,3,5,4,5,5,Minute however task music four.,100.0
+76,2023-06-15,H1-2023,3,3,3,5,5,Responsibility into moment nearly election treat.,100.0
+76,2023-12-15,H2-2023,3,4,4,2,5,Business thing strategy north laugh.,40.0
+76,2024-06-15,H1-2024,3,2,2,4,5,Moment forward available military notice race.,80.0
+76,2024-12-15,H2-2024,4,4,4,5,5,Also really fire include something religious machine field.,100.0
+76,2025-06-15,H1-2025,4,3,4,4,5,Voice movie produce.,80.0
+77,2023-06-15,H1-2023,5,5,5,3,5,Consider deep far address.,60.0
+77,2023-12-15,H2-2023,4,5,4,4,5,Mention arrive decade ok down establish theory.,80.0
+77,2024-06-15,H1-2024,4,5,4,3,5,Debate allow course how painting data.,60.0
+77,2024-12-15,H2-2024,5,5,5,5,5,Fast charge stay body able open hospital catch.,100.0
+77,2025-06-15,H1-2025,5,5,5,4,5,Who head across direction.,80.0
+78,2023-06-15,H1-2023,4,4,4,3,5,Exactly door perhaps general provide floor.,60.0
+78,2023-12-15,H2-2023,4,4,4,2,5,Key debate southern serious focus own break.,40.0
+78,2024-06-15,H1-2024,3,4,4,2,5,Operation traditional color support race occur ever pick.,40.0
+78,2024-12-15,H2-2024,3,4,4,3,5,Rate state parent politics first between.,60.0
+78,2025-06-15,H1-2025,3,2,2,2,5,Great challenge church impact product.,40.0
+79,2023-06-15,H1-2023,3,4,4,4,5,All former campaign expert save bill most.,80.0
+79,2023-12-15,H2-2023,5,3,4,2,5,Performance improve raise act any opportunity travel.,40.0
+79,2024-06-15,H1-2024,5,5,5,2,5,Treatment meeting along guess develop lose.,40.0
+79,2024-12-15,H2-2024,3,5,4,2,5,Analysis note wife economic through.,40.0
+79,2025-06-15,H1-2025,3,3,3,3,5,Model many nature century stage near.,60.0
+80,2023-06-15,H1-2023,2,3,2,5,5,Manager collection allow another.,100.0
+80,2023-12-15,H2-2023,1,2,2,3,5,Contain official or specific wear day right.,60.0
+80,2024-06-15,H1-2024,1,1,1,2,5,Drop mention shoulder run TV talk have.,40.0
+82,2023-06-15,H1-2023,4,3,4,2,5,Performance company join drug feeling.,40.0
+82,2023-12-15,H2-2023,4,4,4,5,5,Edge include response direction.,100.0
+82,2024-06-15,H1-2024,5,5,5,2,5,Feel such Mrs.,40.0
+82,2024-12-15,H2-2024,4,3,4,4,5,Energy box add clearly.,80.0
+82,2025-06-15,H1-2025,3,3,3,3,5,Girl across affect score hear something already.,60.0
+83,2023-06-15,H1-2023,4,4,4,3,5,His bed factor marriage certainly support.,60.0
+83,2023-12-15,H2-2023,5,5,5,3,5,Walk effort nice but.,60.0
+83,2024-06-15,H1-2024,5,5,5,2,5,Current military note spring voice gun hot.,40.0
+83,2024-12-15,H2-2024,5,5,5,3,5,Rest weight cover above teacher control heavy.,60.0
+83,2025-06-15,H1-2025,4,5,4,4,5,Skin yeah check one church check have.,80.0
+84,2023-06-15,H1-2023,1,2,2,3,5,Actually audience them car staff participant.,60.0
+84,2023-12-15,H2-2023,1,1,1,5,5,Those operation this couple.,100.0
+84,2024-06-15,H1-2024,3,3,3,2,5,Away from these light early long no.,40.0
+84,2024-12-15,H2-2024,1,1,1,3,5,Change detail certainly beyond respond.,60.0
+84,2025-06-15,H1-2025,1,2,2,4,5,Until notice light exactly organization customer exactly.,80.0
+85,2023-06-15,H1-2023,3,4,4,5,5,Do space girl similar human way machine.,100.0
+85,2023-12-15,H2-2023,2,3,2,5,5,Say few simply necessary exactly thousand writer.,100.0
+85,2024-06-15,H1-2024,3,3,3,3,5,Different score partner officer different.,60.0
+85,2024-12-15,H2-2024,2,3,2,5,5,Thus much evidence significant see simple consider.,100.0
+85,2025-06-15,H1-2025,2,3,2,2,5,Beat happy foot off though show.,40.0
+86,2023-06-15,H1-2023,5,5,5,4,5,Those them someone call source out peace.,80.0
+86,2023-12-15,H2-2023,5,5,5,2,5,Door page level ok miss.,40.0
+86,2024-06-15,H1-2024,5,5,5,3,5,Structure create wonder need people give rise.,60.0
+86,2024-12-15,H2-2024,5,5,5,2,5,Stuff bed second sport learn central.,40.0
+86,2025-06-15,H1-2025,5,5,5,5,5,Consumer child evening box still hundred here.,100.0
+87,2023-06-15,H1-2023,4,4,4,5,5,Get produce control test Republican southern.,100.0
+87,2023-12-15,H2-2023,4,2,3,2,5,Knowledge enjoy never card may election seek.,40.0
+87,2024-06-15,H1-2024,3,4,4,3,5,Across maintain year reach over ground service.,60.0
+87,2024-12-15,H2-2024,3,3,3,2,5,Example interview wait data election guess time.,40.0
+87,2025-06-15,H1-2025,2,4,3,3,5,Hear author follow whose half return money.,60.0
+88,2023-06-15,H1-2023,1,1,1,3,5,Decide writer occur.,60.0
+89,2023-06-15,H1-2023,5,5,5,2,5,Ahead worry base power us ever side drive.,40.0
+89,2023-12-15,H2-2023,4,5,4,4,5,Purpose level threat consider article.,80.0
+89,2024-06-15,H1-2024,5,4,4,3,5,Quite everyone value.,60.0
+89,2024-12-15,H2-2024,5,4,4,5,5,Brother its clearly lot toward culture.,100.0
+89,2025-06-15,H1-2025,4,5,4,4,5,Amount activity effort huge yes else purpose.,80.0
+90,2023-06-15,H1-2023,3,2,2,5,5,Us different mean attention no.,100.0
+90,2023-12-15,H2-2023,3,2,2,3,5,Result draw become attention.,60.0
+90,2024-06-15,H1-2024,3,3,3,3,5,Hospital carry authority improve four represent event back.,60.0
+90,2024-12-15,H2-2024,1,1,1,2,5,Head level modern collection happy.,40.0
+90,2025-06-15,H1-2025,1,3,2,5,5,Air once sign activity source read about as.,100.0
+91,2023-06-15,H1-2023,2,4,3,2,5,Smile reveal everybody most blood.,40.0
+91,2023-12-15,H2-2023,2,4,3,4,5,None among image former.,80.0
+91,2024-06-15,H1-2024,2,4,3,2,5,Remain around consider feeling response coach little.,40.0
+91,2024-12-15,H2-2024,4,4,4,4,5,Someone approach so about follow.,80.0
+91,2025-06-15,H1-2025,3,2,2,5,5,Agency fear under employee well media war generation.,100.0
+92,2023-06-15,H1-2023,2,3,2,5,5,Sell loss score agree.,100.0
+92,2023-12-15,H2-2023,4,3,4,2,5,Arm different break.,40.0
+92,2024-06-15,H1-2024,2,2,2,5,5,Theory instead wife traditional turn determine treat.,100.0
+92,2024-12-15,H2-2024,4,4,4,2,5,Husband his security statement operation firm civil.,40.0
+92,2025-06-15,H1-2025,2,3,2,2,5,Push those thus knowledge.,40.0
+94,2023-06-15,H1-2023,3,4,4,4,5,Moment visit claim research candidate free hotel.,80.0
+94,2023-12-15,H2-2023,3,5,4,4,5,Finally vote glass choice whole enter action.,80.0
+94,2024-06-15,H1-2024,5,4,4,5,5,At Mrs service care.,100.0
+94,2024-12-15,H2-2024,5,3,4,4,5,Prove under safe really simple alone too.,80.0
+94,2025-06-15,H1-2025,4,3,4,2,5,According attack question identify fear decade.,40.0
+95,2023-06-15,H1-2023,2,2,2,2,5,Middle return tend almost church general movement.,40.0
+95,2023-12-15,H2-2023,2,3,2,3,5,Human position send business into.,60.0
+95,2024-06-15,H1-2024,4,2,3,4,5,Notice enjoy treat.,80.0
+95,2024-12-15,H2-2024,3,4,4,2,5,Live when myself manager training compare cover.,40.0
+95,2025-06-15,H1-2025,3,2,2,2,5,Build or strategy.,40.0
+96,2023-06-15,H1-2023,2,3,2,3,5,Summer option prove final.,60.0
+96,2023-12-15,H2-2023,4,2,3,3,5,Build through policy expect she.,60.0
+96,2024-06-15,H1-2024,2,3,2,3,5,Event challenge strong federal carry participant daughter.,60.0
+96,2024-12-15,H2-2024,2,2,2,2,5,Likely important poor.,40.0
+96,2025-06-15,H1-2025,3,3,3,2,5,State coach crime news man board air.,40.0
+97,2023-06-15,H1-2023,4,2,3,2,5,Could ever act.,40.0
+97,2023-12-15,H2-2023,4,4,4,3,5,Crime citizen improve approach media early method.,60.0
+97,2024-06-15,H1-2024,4,2,3,4,5,Late other charge class town section.,80.0
+97,2024-12-15,H2-2024,2,2,2,4,5,Simply simple stay.,80.0
+97,2025-06-15,H1-2025,2,2,2,2,5,Also only off every since.,40.0
+98,2023-06-15,H1-2023,3,3,3,4,5,Space total clearly message help military.,80.0
+98,2023-12-15,H2-2023,2,4,3,3,5,Physical wide statement middle enough indeed.,60.0
+98,2024-06-15,H1-2024,4,2,3,2,5,Material laugh heart machine.,40.0
+98,2024-12-15,H2-2024,3,4,4,3,5,Question former interesting add until get office.,60.0
+98,2025-06-15,H1-2025,3,4,4,2,5,Teacher learn management well image.,40.0
+99,2023-06-15,H1-2023,5,5,5,4,5,Particularly much thousand.,80.0
+99,2023-12-15,H2-2023,5,5,5,2,5,Economic full standard us return get.,40.0
+99,2024-06-15,H1-2024,5,4,4,2,5,Role star goal maintain increase understand remain.,40.0
+99,2024-12-15,H2-2024,5,5,5,2,5,Good ball region.,40.0
+99,2025-06-15,H1-2025,4,4,4,2,5,Its number especially foreign themselves.,40.0
+100,2023-06-15,H1-2023,3,2,2,4,5,Local culture economy lawyer probably level say.,80.0
+100,2023-12-15,H2-2023,4,2,3,4,5,Prove author positive result community none.,80.0
+100,2024-06-15,H1-2024,4,3,4,3,5,Alone enter health major need grow chance.,60.0
+100,2024-12-15,H2-2024,3,3,3,5,5,Training follow history happen.,100.0
+100,2025-06-15,H1-2025,3,4,4,4,5,Today fill quite involve.,80.0
+101,2023-06-15,H1-2023,2,2,2,3,5,Former admit mother only big.,60.0
+101,2023-12-15,H2-2023,2,3,2,2,5,Forward understand quite color direction thought political off.,40.0
+101,2024-06-15,H1-2024,4,2,3,4,5,Go machine me enough yet the.,80.0
+101,2024-12-15,H2-2024,2,3,2,2,5,Institution up anyone whole southern culture treatment.,40.0
+101,2025-06-15,H1-2025,2,3,2,5,5,Physical she tough accept matter law catch.,100.0
+102,2023-06-15,H1-2023,3,3,3,2,5,Current author leave her.,40.0
+102,2023-12-15,H2-2023,4,3,4,2,5,Religious simply its institution little audience fill.,40.0
+102,2024-06-15,H1-2024,3,2,2,5,5,Bed never work government get change be factor.,100.0
+102,2024-12-15,H2-2024,3,3,3,2,5,Leader whose world remember bad light task.,40.0
+102,2025-06-15,H1-2025,2,3,2,4,5,International choose executive believe buy.,80.0
+104,2023-06-15,H1-2023,2,1,2,2,5,Little season sort can.,40.0
+104,2023-12-15,H2-2023,1,1,1,4,5,Condition task but likely know nice site.,80.0
+104,2024-06-15,H1-2024,1,1,1,2,5,Culture community become authority.,40.0
+104,2024-12-15,H2-2024,1,1,1,3,5,Major despite police exist blue citizen name.,60.0
+104,2025-06-15,H1-2025,1,1,1,4,5,Person fall behavior everything affect film wall.,80.0
+105,2023-06-15,H1-2023,5,4,4,2,5,Job certain degree between.,40.0
+105,2023-12-15,H2-2023,3,3,3,3,5,Citizen American case may common over two add.,60.0
+105,2024-06-15,H1-2024,3,5,4,5,5,It morning interview positive experience somebody.,100.0
+105,2024-12-15,H2-2024,4,4,4,3,5,Research experience realize life space leave really.,60.0
+105,2025-06-15,H1-2025,3,4,4,3,5,Attack particular just line set theory.,60.0
+106,2023-06-15,H1-2023,5,3,4,5,5,Itself add have explain yes glass.,100.0
+106,2023-12-15,H2-2023,4,3,4,5,5,Population yeah money final so particularly.,100.0
+106,2024-06-15,H1-2024,4,5,4,2,5,City oil system gas soldier.,40.0
+106,2024-12-15,H2-2024,3,3,3,2,5,Indicate painting party.,40.0
+106,2025-06-15,H1-2025,5,4,4,5,5,Per fact religious particularly budget election.,100.0
+107,2023-06-15,H1-2023,4,4,4,3,5,Instead certain itself Congress.,60.0
+107,2023-12-15,H2-2023,3,2,2,4,5,Author left crime give before financial.,80.0
+107,2024-06-15,H1-2024,2,4,3,2,5,Get fill discover explain you ten age.,40.0
+107,2024-12-15,H2-2024,3,2,2,3,5,Record fire within would upon.,60.0
+107,2025-06-15,H1-2025,4,4,4,3,5,Like partner skin over reduce various during.,60.0
+108,2023-06-15,H1-2023,4,4,4,3,5,Fire person point successful.,60.0
+108,2023-12-15,H2-2023,4,3,4,5,5,Shake world respond.,100.0
+108,2024-06-15,H1-2024,3,4,4,5,5,Fire whatever magazine option perhaps discuss box.,100.0
+108,2024-12-15,H2-2024,2,2,2,5,5,Season decide become information moment week more lot.,100.0
+108,2025-06-15,H1-2025,2,3,2,2,5,Through point across drive majority eight.,40.0
+109,2023-06-15,H1-2023,4,5,4,2,5,Source once prove establish scientist staff in.,40.0
+109,2023-12-15,H2-2023,4,5,4,3,5,Now boy too culture.,60.0
+109,2024-06-15,H1-2024,5,5,5,3,5,Beautiful break leg few account allow always.,60.0
+109,2024-12-15,H2-2024,4,3,4,2,5,Yourself government data material speak by.,40.0
+109,2025-06-15,H1-2025,4,5,4,2,5,Keep modern without movie cover.,40.0
+110,2023-06-15,H1-2023,5,5,5,5,5,Window finish kitchen guy idea since pay.,100.0
+110,2023-12-15,H2-2023,5,5,5,4,5,Water defense use middle environmental ground.,80.0
+110,2024-06-15,H1-2024,5,5,5,2,5,Scientist many method bag then method personal leader.,40.0
+110,2024-12-15,H2-2024,4,5,4,4,5,Instead ability accept drug price arrive.,80.0
+110,2025-06-15,H1-2025,5,5,5,4,5,Company discuss growth who approach it.,80.0
+111,2023-06-15,H1-2023,3,3,3,4,5,Environment military bed.,80.0
+111,2023-12-15,H2-2023,2,3,2,2,5,Reduce involve state Mrs something laugh anyone wind.,40.0
+111,2024-06-15,H1-2024,2,1,2,2,5,Which though race air up.,40.0
+111,2024-12-15,H2-2024,1,3,2,3,5,True Congress claim from debate dark test.,60.0
+111,2025-06-15,H1-2025,1,3,2,3,5,Professional the particularly me send.,60.0
+112,2023-06-15,H1-2023,3,3,3,3,5,Special together break American its forget her.,60.0
+112,2023-12-15,H2-2023,5,4,4,5,5,Attorney American happy end new various serious sometimes.,100.0
+112,2024-06-15,H1-2024,5,4,4,3,5,Think scene team store tough get.,60.0
+112,2024-12-15,H2-2024,5,3,4,2,5,Kid each international somebody walk population.,40.0
+112,2025-06-15,H1-2025,5,5,5,5,5,Cost style thus son order total.,100.0
+113,2023-06-15,H1-2023,4,4,4,4,5,Series marriage environmental entire past so.,80.0
+113,2023-12-15,H2-2023,4,3,4,5,5,Certain trip say somebody top evidence.,100.0
+113,2024-06-15,H1-2024,2,3,2,4,5,Smile finally must perform.,80.0
+113,2024-12-15,H2-2024,2,3,2,2,5,Important main manager win play from.,40.0
+113,2025-06-15,H1-2025,3,3,3,4,5,Speech road personal as not.,80.0
+114,2023-06-15,H1-2023,1,1,1,2,5,Hard determine computer mind guy life mouth.,40.0
+114,2023-12-15,H2-2023,3,3,3,3,5,Series travel big sell technology card.,60.0
+114,2024-06-15,H1-2024,3,2,2,4,5,Suddenly white must someone claim.,80.0
+114,2024-12-15,H2-2024,2,3,2,3,5,Significant new marriage economy though born magazine task.,60.0
+114,2025-06-15,H1-2025,2,2,2,2,5,I article little hundred.,40.0
+115,2023-06-15,H1-2023,3,4,4,5,5,Eight include policy guess.,100.0
+115,2023-12-15,H2-2023,4,4,4,4,5,North I manage television book.,80.0
+115,2024-06-15,H1-2024,2,3,2,5,5,Role end staff with population article product actually.,100.0
+115,2024-12-15,H2-2024,2,4,3,3,5,Account least sea.,60.0
+115,2025-06-15,H1-2025,2,2,2,4,5,Reflect less short south character event tough.,80.0
+116,2023-06-15,H1-2023,1,2,2,2,5,Cell will and share.,40.0
+116,2023-12-15,H2-2023,2,3,2,5,5,Share measure bed sort century if.,100.0
+116,2024-06-15,H1-2024,3,3,3,3,5,One trouble ok feeling who thought mean.,60.0
+116,2024-12-15,H2-2024,2,1,2,4,5,Democrat analysis south need perhaps affect per.,80.0
+116,2025-06-15,H1-2025,3,1,2,4,5,Great north everything customer work scene.,80.0
+117,2023-06-15,H1-2023,3,4,4,3,5,Now customer store enough.,60.0
+117,2023-12-15,H2-2023,4,2,3,4,5,Increase young hotel wife sound.,80.0
+117,2024-06-15,H1-2024,4,3,4,4,5,Tough ago perhaps consumer mind fine.,80.0
+117,2024-12-15,H2-2024,2,3,2,3,5,While if think including any walk.,60.0
+117,2025-06-15,H1-2025,4,4,4,5,5,Different development nothing away pressure represent.,100.0
+118,2023-06-15,H1-2023,3,2,2,5,5,Bar last day room without every majority.,100.0
+118,2023-12-15,H2-2023,4,2,3,2,5,All low serve wonder.,40.0
+118,2024-06-15,H1-2024,4,3,4,2,5,Hit few offer ahead especially market various.,40.0
+118,2024-12-15,H2-2024,3,3,3,4,5,Understand whatever low network lawyer.,80.0
+118,2025-06-15,H1-2025,2,4,3,4,5,Day billion energy fast go first.,80.0
+119,2023-06-15,H1-2023,3,5,4,2,5,Across approach environment figure.,40.0
+119,2023-12-15,H2-2023,5,4,4,3,5,Purpose protect back professional public space.,60.0
+119,2024-06-15,H1-2024,4,4,4,3,5,Give president nice practice have worker view low.,60.0
+119,2024-12-15,H2-2024,5,4,4,3,5,Receive throw reason main couple.,60.0
+119,2025-06-15,H1-2025,5,3,4,5,5,He article call amount fine.,100.0
+120,2023-06-15,H1-2023,3,4,4,3,5,Follow particularly hard car role apply war.,60.0
+120,2023-12-15,H2-2023,5,4,4,5,5,Design together best I let however hand.,100.0
+120,2024-06-15,H1-2024,3,5,4,4,5,Middle property major animal.,80.0
+120,2024-12-15,H2-2024,4,3,4,5,5,Different upon test big.,100.0
+120,2025-06-15,H1-2025,5,5,5,2,5,Our analysis any she.,40.0
+122,2023-06-15,H1-2023,1,1,1,2,5,When project alone fill.,40.0
+122,2023-12-15,H2-2023,2,2,2,5,5,Right edge pass possible country.,100.0
+122,2024-06-15,H1-2024,1,2,2,5,5,Think line page new official.,100.0
+122,2024-12-15,H2-2024,1,2,2,2,5,Idea rise magazine doctor.,40.0
+122,2025-06-15,H1-2025,1,1,1,2,5,Store fact me pretty voice tell environment.,40.0
+124,2023-06-15,H1-2023,3,3,3,3,5,Onto rest author kitchen consider.,60.0
+124,2023-12-15,H2-2023,5,5,5,3,5,Feel power course quite.,60.0
+124,2024-06-15,H1-2024,5,4,4,4,5,Story too where cell truth.,80.0
+124,2024-12-15,H2-2024,3,5,4,4,5,Deal animal politics school wife let allow.,80.0
+124,2025-06-15,H1-2025,5,5,5,5,5,Physical conference enjoy care production mother skill.,100.0
+125,2023-06-15,H1-2023,2,2,2,4,5,Few consumer increase citizen thought cell health.,80.0
+125,2023-12-15,H2-2023,2,2,2,3,5,Spring whatever important prove visit important.,60.0
+125,2024-06-15,H1-2024,2,2,2,3,5,Day on similar form sense.,60.0
+125,2024-12-15,H2-2024,2,1,2,4,5,Force available attack board operation property.,80.0
+125,2025-06-15,H1-2025,2,2,2,5,5,Budget computer traditional because remain.,100.0
+126,2023-06-15,H1-2023,2,3,2,4,5,Eat plan such great.,80.0
+126,2023-12-15,H2-2023,4,4,4,5,5,Lead would teach civil owner wonder.,100.0
+126,2024-06-15,H1-2024,3,4,4,2,5,Important event series determine tell I.,40.0
+126,2024-12-15,H2-2024,4,4,4,2,5,Pass finally worry teach.,40.0
+126,2025-06-15,H1-2025,4,3,4,4,5,Before middle represent.,80.0
+128,2023-06-15,H1-2023,5,5,5,5,5,See change win suffer.,100.0
+128,2023-12-15,H2-2023,4,4,4,5,5,Local employee marriage money major.,100.0
+128,2024-06-15,H1-2024,5,3,4,3,5,Prevent including population.,60.0
+128,2024-12-15,H2-2024,5,4,4,5,5,Admit fall picture nearly question responsibility.,100.0
+128,2025-06-15,H1-2025,3,5,4,2,5,Bring present later fact human environmental voice treatment.,40.0
+129,2023-06-15,H1-2023,4,5,4,4,5,Six else option everyone race several figure.,80.0
+129,2023-12-15,H2-2023,5,4,4,2,5,Every everyone grow together law themselves.,40.0
+129,2024-06-15,H1-2024,5,4,4,3,5,Say door Democrat us what force.,60.0
+129,2024-12-15,H2-2024,4,5,4,2,5,Over your activity cost claim employee.,40.0
+129,2025-06-15,H1-2025,5,5,5,3,5,Security material but.,60.0
+130,2023-06-15,H1-2023,2,2,2,3,5,List building manager else remember.,60.0
+130,2023-12-15,H2-2023,1,2,2,4,5,Young arrive kitchen four citizen.,80.0
+130,2024-06-15,H1-2024,1,2,2,5,5,Moment talk expect production travel.,100.0
+130,2024-12-15,H2-2024,2,1,2,5,5,Work join air answer.,100.0
+130,2025-06-15,H1-2025,3,1,2,4,5,Learn everything successful born none.,80.0
+131,2023-06-15,H1-2023,3,2,2,2,5,Throughout maybe character fast later often activity.,40.0
+131,2023-12-15,H2-2023,4,2,3,2,5,Mouth operation fly research this high weight.,40.0
+131,2024-06-15,H1-2024,3,4,4,4,5,Down two consumer model whole thus.,80.0
+131,2024-12-15,H2-2024,4,3,4,3,5,Yet true teach require special.,60.0
+131,2025-06-15,H1-2025,2,2,2,3,5,Home letter situation item she.,60.0
+132,2023-06-15,H1-2023,4,5,4,5,5,Stop million develop within force western.,100.0
+132,2023-12-15,H2-2023,5,4,4,2,5,Billion season seat gun live all debate.,40.0
+132,2024-06-15,H1-2024,5,5,5,2,5,Fill same those or.,40.0
+132,2024-12-15,H2-2024,3,4,4,3,5,Huge miss cause Mr yet safe Democrat.,60.0
+132,2025-06-15,H1-2025,3,3,3,3,5,Remember contain girl window baby page owner.,60.0
+133,2023-06-15,H1-2023,4,2,3,2,5,Off pay usually.,40.0
+133,2023-12-15,H2-2023,4,3,4,5,5,Republican cause specific around trip practice scene.,100.0
+133,2024-06-15,H1-2024,2,3,2,2,5,Strong important policy main training teach.,40.0
+133,2024-12-15,H2-2024,4,2,3,2,5,Stage still leave local.,40.0
+133,2025-06-15,H1-2025,3,4,4,3,5,Mention stock mouth blood.,60.0
+134,2023-06-15,H1-2023,2,2,2,5,5,Health past spend artist room may number.,100.0
+134,2023-12-15,H2-2023,3,2,2,3,5,Believe heavy pattern turn history.,60.0
+134,2024-06-15,H1-2024,2,3,2,4,5,Billion performance writer usually begin.,80.0
+134,2024-12-15,H2-2024,3,3,3,2,5,Read big artist stop pass provide attorney data.,40.0
+135,2023-06-15,H1-2023,5,5,5,5,5,Rate article turn type reality everything interesting together.,100.0
+135,2023-12-15,H2-2023,5,4,4,5,5,Big memory its church others.,100.0
+135,2024-06-15,H1-2024,5,3,4,5,5,Begin center most glass among.,100.0
+135,2024-12-15,H2-2024,5,4,4,5,5,Wind ground building knowledge.,100.0
+135,2025-06-15,H1-2025,3,4,4,3,5,Gun improve list maintain think.,60.0
+137,2023-06-15,H1-2023,3,3,3,2,5,Event media brother almost above.,40.0
+137,2023-12-15,H2-2023,3,2,2,2,5,Analysis personal key huge theory.,40.0
+137,2024-06-15,H1-2024,3,1,2,3,5,Relate artist have.,60.0
+137,2024-12-15,H2-2024,1,3,2,3,5,Majority catch allow represent structure address.,60.0
+137,2025-06-15,H1-2025,1,2,2,3,5,Meeting group notice to operation notice.,60.0
+138,2023-06-15,H1-2023,5,4,4,5,5,Compare pay history there.,100.0
+138,2023-12-15,H2-2023,4,4,4,2,5,Region exactly return history strategy cover share.,40.0
+138,2024-06-15,H1-2024,5,4,4,4,5,Ok Mrs town shake control.,80.0
+138,2024-12-15,H2-2024,4,4,4,2,5,Team change prepare while experience unit.,40.0
+138,2025-06-15,H1-2025,4,4,4,2,5,Great right dark continue despite true myself.,40.0
+139,2023-06-15,H1-2023,5,5,5,3,5,Attack range enter his leader always official.,60.0
+139,2023-12-15,H2-2023,5,4,4,5,5,Bill risk let sing list.,100.0
+139,2024-06-15,H1-2024,5,5,5,4,5,Huge a hold upon score.,80.0
+139,2024-12-15,H2-2024,5,5,5,3,5,Court others financial leader institution sing story.,60.0
+139,2025-06-15,H1-2025,4,5,4,2,5,Including writer hour phone.,40.0
+140,2023-06-15,H1-2023,4,3,4,2,5,People agency up find help central increase.,40.0
+140,2023-12-15,H2-2023,4,3,4,4,5,Today difficult whose race whether travel look.,80.0
+140,2024-06-15,H1-2024,4,4,4,4,5,Fire officer rise concern visit color.,80.0
+140,2024-12-15,H2-2024,4,2,3,5,5,Wrong person data Democrat computer election stand.,100.0
+140,2025-06-15,H1-2025,2,3,2,2,5,Attorney hospital lead particular.,40.0
+141,2023-06-15,H1-2023,4,3,4,2,5,Decision far second business president.,40.0
+141,2023-12-15,H2-2023,2,4,3,3,5,Type lot interview east card.,60.0
+142,2023-06-15,H1-2023,5,5,5,2,5,Until make already treatment would.,40.0
+142,2023-12-15,H2-2023,5,4,4,5,5,Everybody imagine buy follow.,100.0
+142,2024-06-15,H1-2024,5,5,5,4,5,Already east floor simply.,80.0
+142,2024-12-15,H2-2024,5,5,5,5,5,Close too ability address drop leg.,100.0
+142,2025-06-15,H1-2025,4,5,4,3,5,Indeed field its sure.,60.0
+143,2023-06-15,H1-2023,3,4,4,5,5,Six school light save.,100.0
+143,2023-12-15,H2-2023,4,4,4,3,5,First ago dream pay.,60.0
+143,2024-06-15,H1-2024,3,5,4,2,5,Ten social or produce force.,40.0
+143,2024-12-15,H2-2024,3,3,3,4,5,Gun tree commercial analysis.,80.0
+143,2025-06-15,H1-2025,5,3,4,2,5,Moment half standard others interview.,40.0
+144,2023-06-15,H1-2023,5,5,5,4,5,Movement seat relationship language phone.,80.0
+144,2023-12-15,H2-2023,5,5,5,5,5,Central everyone see provide local top local.,100.0
+144,2024-06-15,H1-2024,3,4,4,5,5,Reach yet easy hand state.,100.0
+144,2024-12-15,H2-2024,4,4,4,2,5,Director show candidate whether.,40.0
+144,2025-06-15,H1-2025,4,4,4,5,5,Plant nation so he scene than.,100.0
+145,2023-06-15,H1-2023,4,4,4,3,5,Letter small town likely skill center cause wear.,60.0
+145,2023-12-15,H2-2023,5,5,5,4,5,Financial early on become.,80.0
+145,2024-06-15,H1-2024,5,5,5,4,5,Who build human discover anything free discover.,80.0
+145,2024-12-15,H2-2024,5,4,4,3,5,Only citizen administration quickly whose their wonder.,60.0
+145,2025-06-15,H1-2025,5,5,5,4,5,Story single response audience off total inside.,80.0
+146,2023-06-15,H1-2023,1,1,1,3,5,Recent century by guess near behind contain.,60.0
+146,2023-12-15,H2-2023,3,3,3,3,5,Now certain wind national.,60.0
+146,2024-06-15,H1-2024,2,1,2,4,5,Finish project discover sing.,80.0
+146,2024-12-15,H2-2024,3,1,2,2,5,East learn former require local like tonight truth.,40.0
+146,2025-06-15,H1-2025,2,3,2,5,5,Case wall site.,100.0
+147,2023-06-15,H1-2023,2,2,2,5,5,Line thing against growth himself.,100.0
+147,2023-12-15,H2-2023,4,2,3,4,5,Personal difference last final kid.,80.0
+147,2024-06-15,H1-2024,3,2,2,5,5,Fly consider and.,100.0
+147,2024-12-15,H2-2024,3,4,4,3,5,Meeting yeah staff local.,60.0
+147,2025-06-15,H1-2025,2,2,2,3,5,Executive necessary wait meeting worker degree common.,60.0
+148,2023-06-15,H1-2023,5,4,4,4,5,Region yeah together before crime pull organization rather.,80.0
+148,2023-12-15,H2-2023,5,4,4,2,5,Experience mission body forget.,40.0
+148,2024-06-15,H1-2024,5,4,4,5,5,Spend list rate education same.,100.0
+148,2024-12-15,H2-2024,5,5,5,5,5,Production direction sit now day defense pull.,100.0
+150,2023-06-15,H1-2023,3,4,4,3,5,Born together drug walk choose approach.,60.0
+150,2023-12-15,H2-2023,4,3,4,4,5,Light prevent return bad really no smile.,80.0
+150,2024-06-15,H1-2024,5,5,5,2,5,Rise show nearly turn prove.,40.0
+150,2024-12-15,H2-2024,4,4,4,4,5,But military for statement tree drive.,80.0
+150,2025-06-15,H1-2025,5,5,5,3,5,Bag rate sport.,60.0
+151,2023-06-15,H1-2023,5,5,5,4,5,Reach exactly really ever.,80.0
+151,2023-12-15,H2-2023,3,5,4,3,5,Current discuss station computer provide special drive.,60.0
+151,2024-06-15,H1-2024,5,4,4,5,5,Around both agency.,100.0
+151,2024-12-15,H2-2024,3,5,4,5,5,Media certainly space run catch open.,100.0
+151,2025-06-15,H1-2025,4,5,4,5,5,Within may program themselves.,100.0
+152,2023-06-15,H1-2023,5,4,4,5,5,Well loss represent window.,100.0
+152,2023-12-15,H2-2023,5,5,5,4,5,Near inside hour issue determine.,80.0
+152,2024-06-15,H1-2024,5,5,5,5,5,Condition necessary exist.,100.0
+153,2023-06-15,H1-2023,1,3,2,2,5,Yet shake stuff resource yes information president decide.,40.0
+153,2023-12-15,H2-2023,2,2,2,3,5,Service much teach fire.,60.0
+153,2024-06-15,H1-2024,1,3,2,5,5,Music hospital prove enough.,100.0
+153,2024-12-15,H2-2024,1,3,2,2,5,Great ten great worker back not.,40.0
+153,2025-06-15,H1-2025,3,1,2,3,5,Huge large call fine lay.,60.0
+154,2023-06-15,H1-2023,4,4,4,4,5,Become show card food.,80.0
+154,2023-12-15,H2-2023,4,2,3,2,5,Your Democrat also word policy number everyone wife.,40.0
+154,2024-06-15,H1-2024,2,2,2,2,5,Collection here full artist measure because in.,40.0
+154,2024-12-15,H2-2024,3,2,2,5,5,Task set base style.,100.0
+154,2025-06-15,H1-2025,4,4,4,2,5,Account result create should.,40.0
+155,2023-06-15,H1-2023,3,5,4,4,5,They movie task.,80.0
+155,2023-12-15,H2-2023,5,5,5,2,5,Political information simple game from.,40.0
+155,2024-06-15,H1-2024,4,5,4,2,5,Example call between best low.,40.0
+155,2024-12-15,H2-2024,3,5,4,3,5,Daughter there yes city teacher Mrs he.,60.0
+155,2025-06-15,H1-2025,3,5,4,2,5,Lot share media recently let.,40.0
+156,2023-06-15,H1-2023,4,4,4,3,5,Few seven nor social outside energy realize.,60.0
+156,2023-12-15,H2-2023,5,5,5,4,5,Set step Democrat it world know.,80.0
+156,2024-06-15,H1-2024,4,5,4,5,5,Born scientist protect little indicate.,100.0
+156,2024-12-15,H2-2024,5,3,4,3,5,Also Congress they list sit rock place.,60.0
+156,2025-06-15,H1-2025,3,3,3,2,5,Institution event different clearly left.,40.0
+157,2023-06-15,H1-2023,2,2,2,4,5,Both reach memory within service last check.,80.0
+157,2023-12-15,H2-2023,2,2,2,3,5,Hot certain produce well.,60.0
+157,2024-06-15,H1-2024,3,3,3,5,5,Note challenge seven treat prevent unit you.,100.0
+157,2024-12-15,H2-2024,4,2,3,5,5,Where near kind member and industry.,100.0
+157,2025-06-15,H1-2025,3,4,4,2,5,Least charge put once hard similar and.,40.0
+159,2023-06-15,H1-2023,4,4,4,3,5,Old agreement girl task.,60.0
+159,2023-12-15,H2-2023,3,2,2,5,5,Paper price audience.,100.0
+159,2024-06-15,H1-2024,2,2,2,2,5,Throughout call require service will hard.,40.0
+159,2024-12-15,H2-2024,4,3,4,2,5,Court soon although find miss when.,40.0
+159,2025-06-15,H1-2025,4,2,3,3,5,Woman pick every man degree.,60.0
+160,2023-06-15,H1-2023,2,3,2,3,5,Science child claim hard.,60.0
+160,2023-12-15,H2-2023,4,3,4,3,5,Beautiful organization yes late cost difficult rise.,60.0
+160,2024-06-15,H1-2024,3,3,3,4,5,Term daughter one store increase arrive.,80.0
+160,2024-12-15,H2-2024,2,3,2,3,5,Land question also weight.,60.0
+160,2025-06-15,H1-2025,3,3,3,3,5,Nation teacher boy.,60.0
+161,2023-06-15,H1-2023,2,2,2,3,5,Various point throw bank garden.,60.0
+161,2023-12-15,H2-2023,1,2,2,5,5,Fine fill health body day.,100.0
+161,2024-06-15,H1-2024,1,1,1,5,5,Firm authority media current least.,100.0
+161,2024-12-15,H2-2024,2,2,2,4,5,Box stage environment.,80.0
+161,2025-06-15,H1-2025,1,2,2,3,5,Month base road stand lot.,60.0
+162,2023-06-15,H1-2023,3,3,3,2,5,Think teacher blood where goal.,40.0
+162,2023-12-15,H2-2023,3,4,4,3,5,Hear per bad.,60.0
+162,2024-06-15,H1-2024,5,4,4,2,5,Something minute require place certainly within present.,40.0
+162,2024-12-15,H2-2024,4,4,4,2,5,Child production begin.,40.0
+162,2025-06-15,H1-2025,4,3,4,4,5,Some opportunity after.,80.0
+163,2023-06-15,H1-2023,3,3,3,4,5,Plan clearly rise yet popular.,80.0
+163,2023-12-15,H2-2023,2,3,2,2,5,Production place nor however administration might coach get.,40.0
+163,2024-06-15,H1-2024,4,2,3,5,5,Stuff car anyone occur performance production to.,100.0
+163,2024-12-15,H2-2024,2,2,2,2,5,Soldier write close partner today kid.,40.0
+163,2025-06-15,H1-2025,2,2,2,3,5,Teach where loss town science response recent together.,60.0
+164,2023-06-15,H1-2023,5,3,4,2,5,Girl middle store last present animal.,40.0
+164,2023-12-15,H2-2023,3,4,4,5,5,Trip less happy letter same thing serve drug.,100.0
+164,2024-06-15,H1-2024,4,5,4,3,5,Back myself analysis teacher in yard.,60.0
+164,2024-12-15,H2-2024,4,5,4,5,5,Bill record street.,100.0
+164,2025-06-15,H1-2025,4,5,4,5,5,Toward cup member former while.,100.0
+165,2023-06-15,H1-2023,2,3,2,3,5,Interview ready month.,60.0
+165,2023-12-15,H2-2023,1,3,2,2,5,Same alone large economy require of.,40.0
+165,2024-06-15,H1-2024,3,3,3,4,5,Save condition more who large training because.,80.0
+165,2024-12-15,H2-2024,2,1,2,5,5,Herself west system wide none area true.,100.0
+165,2025-06-15,H1-2025,2,3,2,5,5,Place along middle speak.,100.0
+166,2023-06-15,H1-2023,3,5,4,4,5,Win guy scene.,80.0
+166,2023-12-15,H2-2023,4,5,4,2,5,Democrat herself return.,40.0
+166,2024-06-15,H1-2024,5,5,5,2,5,However sometimes may training.,40.0
+166,2024-12-15,H2-2024,4,5,4,4,5,Article six bar.,80.0
+166,2025-06-15,H1-2025,3,3,3,4,5,Machine race customer.,80.0
+167,2023-06-15,H1-2023,2,3,2,5,5,Item reality action music want some open option.,100.0
+167,2023-12-15,H2-2023,3,4,4,3,5,Kind month soldier company wear.,60.0
+168,2023-06-15,H1-2023,4,2,3,4,5,Sure year paper.,80.0
+168,2023-12-15,H2-2023,2,4,3,4,5,Piece travel enter environmental us.,80.0
+168,2024-06-15,H1-2024,2,3,2,5,5,Above they argue save continue send about.,100.0
+168,2024-12-15,H2-2024,2,4,3,4,5,Treatment cold person wide course.,80.0
+168,2025-06-15,H1-2025,3,3,3,4,5,Good there state.,80.0
+169,2023-06-15,H1-2023,5,5,5,3,5,Gun fly piece teacher cold.,60.0
+169,2023-12-15,H2-2023,4,5,4,3,5,Film hour little cost style do head.,60.0
+169,2024-06-15,H1-2024,4,5,4,5,5,Me bank hospital scientist.,100.0
+169,2024-12-15,H2-2024,5,5,5,4,5,Myself raise education television finally.,80.0
+169,2025-06-15,H1-2025,4,5,4,2,5,Writer stuff about you clear give individual reason.,40.0
+170,2023-06-15,H1-2023,5,5,5,5,5,Southern material for sport.,100.0
+170,2023-12-15,H2-2023,5,5,5,3,5,Color until foreign wear item item mission economy.,60.0
+170,2024-06-15,H1-2024,5,4,4,2,5,Pretty police again build with however social two.,40.0
+170,2024-12-15,H2-2024,5,5,5,2,5,Forget officer include worry when decide much.,40.0
+170,2025-06-15,H1-2025,5,5,5,3,5,Parent management necessary reason past or large.,60.0
+171,2023-06-15,H1-2023,4,4,4,4,5,Key arrive community born their.,80.0
+171,2023-12-15,H2-2023,5,4,4,5,5,More age green customer play.,100.0
+171,2024-06-15,H1-2024,4,4,4,2,5,Character four alone PM.,40.0
+171,2024-12-15,H2-2024,4,4,4,4,5,Ago deal kind speak.,80.0
+172,2023-06-15,H1-2023,3,2,2,4,5,Into assume apply member five expert no.,80.0
+172,2023-12-15,H2-2023,3,4,4,2,5,Power newspaper grow also film.,40.0
+172,2024-06-15,H1-2024,4,4,4,2,5,Behind day something organization common talk successful.,40.0
+172,2024-12-15,H2-2024,2,2,2,4,5,Interesting challenge subject available seat require be.,80.0
+172,2025-06-15,H1-2025,3,4,4,5,5,May those activity yet.,100.0
+173,2023-06-15,H1-2023,4,2,3,4,5,Room arrive culture should stay within.,80.0
+173,2023-12-15,H2-2023,2,3,2,2,5,Agree wide choice.,40.0
+173,2024-06-15,H1-2024,3,4,4,3,5,Sister front yard piece pattern.,60.0
+173,2024-12-15,H2-2024,3,4,4,4,5,Term public ball study fund.,80.0
+173,2025-06-15,H1-2025,3,3,3,3,5,Each imagine rock stuff.,60.0
+174,2023-06-15,H1-2023,4,3,4,3,5,Continue bill people easy have character town.,60.0
+174,2023-12-15,H2-2023,4,4,4,3,5,Institution then push season those.,60.0
+174,2024-06-15,H1-2024,2,3,2,2,5,Hour former long analysis.,40.0
+174,2024-12-15,H2-2024,4,4,4,4,5,Which result mouth hair enter establish every.,80.0
+174,2025-06-15,H1-2025,2,4,3,2,5,Upon when can television maybe return.,40.0
+175,2023-06-15,H1-2023,1,1,1,2,5,Key play create air purpose hundred hit.,40.0
+175,2023-12-15,H2-2023,1,2,2,3,5,Including low military food.,60.0
+175,2024-06-15,H1-2024,1,2,2,5,5,Which particularly likely effort.,100.0
+175,2024-12-15,H2-2024,1,1,1,2,5,People whom six.,40.0
+175,2025-06-15,H1-2025,2,1,2,2,5,Meet relate build war care.,40.0
+176,2023-06-15,H1-2023,4,2,3,3,5,Impact home half.,60.0
+176,2023-12-15,H2-2023,2,2,2,4,5,Certainly throughout born indicate address maybe.,80.0
+176,2024-06-15,H1-2024,4,4,4,5,5,Task their bit current prevent blue rock.,100.0
+176,2024-12-15,H2-2024,3,4,4,4,5,Set be meeting news rock country.,80.0
+176,2025-06-15,H1-2025,3,3,3,4,5,Themselves environmental key close.,80.0
+177,2023-06-15,H1-2023,5,5,5,5,5,Arm we again by boy TV place weight.,100.0
+177,2023-12-15,H2-2023,5,4,4,2,5,Prepare will business good picture sense.,40.0
+177,2024-06-15,H1-2024,5,5,5,2,5,Record job civil career both interest arm hot.,40.0
+177,2024-12-15,H2-2024,5,4,4,4,5,Energy see cultural wonder drive subject.,80.0
+177,2025-06-15,H1-2025,4,5,4,3,5,Bar available stop condition mother environment white.,60.0
+178,2023-06-15,H1-2023,3,4,4,4,5,Computer miss Mrs work great job after room.,80.0
+178,2023-12-15,H2-2023,3,4,4,3,5,Doctor pattern way song fund.,60.0
+178,2024-06-15,H1-2024,3,4,4,2,5,Organization network offer up.,40.0
+178,2024-12-15,H2-2024,4,4,4,2,5,Cold to expect shoulder.,40.0
+178,2025-06-15,H1-2025,4,5,4,4,5,Soon every still suddenly argue another.,80.0
+179,2023-06-15,H1-2023,1,1,1,4,5,Four detail because ground agency live work.,80.0
+179,2023-12-15,H2-2023,2,2,2,3,5,Decade machine detail poor tonight development see free.,60.0
+179,2024-06-15,H1-2024,1,1,1,2,5,Believe tonight check four.,40.0
+179,2024-12-15,H2-2024,1,1,1,4,5,Much raise thus actually product quickly and stock.,80.0
+179,2025-06-15,H1-2025,1,2,2,4,5,Lose certainly level provide modern operation visit.,80.0
+180,2023-06-15,H1-2023,4,4,4,5,5,Southern environmental best interesting.,100.0
+180,2023-12-15,H2-2023,3,4,4,5,5,Laugh work lay eye themselves mean hotel.,100.0
+180,2024-06-15,H1-2024,4,4,4,2,5,Practice school almost must computer safe radio money.,40.0
+180,2024-12-15,H2-2024,4,3,4,5,5,Election such social ok page.,100.0
+180,2025-06-15,H1-2025,4,5,4,5,5,Since media manager particularly such night.,100.0
+181,2023-06-15,H1-2023,4,5,4,2,5,Air use somebody western society.,40.0
+181,2023-12-15,H2-2023,3,3,3,4,5,Federal something size pull citizen finally trouble.,80.0
+181,2024-06-15,H1-2024,3,4,4,4,5,Effect finish service economic born several.,80.0
+181,2024-12-15,H2-2024,3,4,4,4,5,Cover soon name whose sometimes story attention.,80.0
+181,2025-06-15,H1-2025,3,4,4,5,5,Production mention project future much daughter common agent.,100.0
+182,2023-06-15,H1-2023,4,2,3,2,5,Continue here show method value knowledge key.,40.0
+182,2023-12-15,H2-2023,3,2,2,4,5,Water teacher give recognize too star thousand.,80.0
+182,2024-06-15,H1-2024,4,4,4,4,5,He yet hold tough light conference.,80.0
+183,2023-06-15,H1-2023,2,2,2,5,5,Develop where fly space indicate person.,100.0
+183,2023-12-15,H2-2023,2,1,2,3,5,Indicate college represent.,60.0
+183,2024-06-15,H1-2024,1,3,2,5,5,Actually direction either especially.,100.0
+183,2024-12-15,H2-2024,3,1,2,2,5,Among current use item nice.,40.0
+184,2023-06-15,H1-2023,3,3,3,4,5,Laugh stuff alone body yeah of for.,80.0
+184,2023-12-15,H2-2023,4,4,4,4,5,Book story happen.,80.0
+184,2024-06-15,H1-2024,3,3,3,3,5,Teach reduce fire be be hard decide.,60.0
+184,2024-12-15,H2-2024,5,5,5,3,5,Watch money professor perhaps.,60.0
+184,2025-06-15,H1-2025,4,4,4,5,5,Either reflect answer test standard establish break.,100.0
+185,2023-06-15,H1-2023,2,4,3,5,5,Attorney sign cold some better identify north.,100.0
+185,2023-12-15,H2-2023,2,2,2,5,5,Skin space town address.,100.0
+185,2024-06-15,H1-2024,4,4,4,3,5,Music explain but.,60.0
+185,2024-12-15,H2-2024,2,4,3,5,5,Subject interest accept under if question.,100.0
+185,2025-06-15,H1-2025,4,3,4,3,5,Stuff age site popular city sing especially.,60.0
+186,2023-06-15,H1-2023,1,2,2,2,5,We sometimes close maintain production.,40.0
+186,2023-12-15,H2-2023,2,1,2,2,5,Which successful special.,40.0
+186,2024-06-15,H1-2024,1,1,1,5,5,Class within spend rise grow campaign.,100.0
+186,2024-12-15,H2-2024,2,1,2,4,5,Include seek moment personal.,80.0
+186,2025-06-15,H1-2025,1,3,2,4,5,Risk rich deep by lawyer anyone rock senior.,80.0
+187,2023-06-15,H1-2023,3,3,3,3,5,Song ok subject professional drug hotel.,60.0
+187,2023-12-15,H2-2023,2,2,2,3,5,Sister wait hundred simply task hit evidence us.,60.0
+187,2024-06-15,H1-2024,3,3,3,4,5,Statement soon unit scientist.,80.0
+187,2024-12-15,H2-2024,3,3,3,2,5,Fund outside authority mean billion.,40.0
+187,2025-06-15,H1-2025,1,3,2,4,5,Suddenly decade room century difference better early decide.,80.0
+188,2023-06-15,H1-2023,3,3,3,4,5,Much quite beyond teacher.,80.0
+188,2023-12-15,H2-2023,4,4,4,2,5,Meet across force deep kind focus sport.,40.0
+188,2024-06-15,H1-2024,2,2,2,3,5,Let possible detail soon.,60.0
+188,2024-12-15,H2-2024,4,2,3,4,5,Lot policy should knowledge account.,80.0
+188,2025-06-15,H1-2025,2,2,2,2,5,Lead conference purpose indeed Mr day per.,40.0
+189,2023-06-15,H1-2023,5,4,4,4,5,Worker memory my parent yeah.,80.0
+189,2023-12-15,H2-2023,4,5,4,4,5,Perform message car loss sport.,80.0
+189,2024-06-15,H1-2024,4,5,4,2,5,Tough huge property ago investment management office.,40.0
+189,2024-12-15,H2-2024,4,4,4,3,5,Officer rule personal hold blue.,60.0
+189,2025-06-15,H1-2025,5,5,5,5,5,Sing hour oil sit professional draw ok.,100.0
+190,2023-06-15,H1-2023,3,3,3,5,5,Data gun argue into.,100.0
+190,2023-12-15,H2-2023,5,5,5,2,5,Early choose from animal control believe.,40.0
+190,2024-06-15,H1-2024,3,4,4,3,5,Different despite popular statement pretty.,60.0
+190,2024-12-15,H2-2024,5,4,4,4,5,However bill set brother man somebody.,80.0
+190,2025-06-15,H1-2025,4,5,4,3,5,Factor visit close debate.,60.0
+191,2023-06-15,H1-2023,4,4,4,5,5,Drop join Democrat wish produce describe PM.,100.0
+191,2023-12-15,H2-2023,5,5,5,5,5,Middle already travel tend guess.,100.0
+191,2024-06-15,H1-2024,4,5,4,3,5,But board story ability black song friend account.,60.0
+191,2024-12-15,H2-2024,5,3,4,4,5,Smile data gun prevent some yeah.,80.0
+191,2025-06-15,H1-2025,5,5,5,5,5,Thought environment month central.,100.0
+192,2023-06-15,H1-2023,4,4,4,5,5,Few city four.,100.0
+192,2023-12-15,H2-2023,3,3,3,2,5,Act statement number sport focus happen.,40.0
+192,2024-06-15,H1-2024,4,4,4,4,5,Series decision exactly little.,80.0
+192,2024-12-15,H2-2024,2,3,2,5,5,Friend determine clear itself see star window.,100.0
+192,2025-06-15,H1-2025,3,2,2,4,5,Sense law security control hour.,80.0
+193,2023-06-15,H1-2023,3,3,3,3,5,Artist eat play bill prove.,60.0
+193,2023-12-15,H2-2023,5,3,4,4,5,Plan make physical necessary step.,80.0
+193,2024-06-15,H1-2024,3,4,4,3,5,Professional section stay area direction art reveal.,60.0
+193,2024-12-15,H2-2024,4,3,4,3,5,Movie wonder particular activity song often care TV.,60.0
+193,2025-06-15,H1-2025,4,5,4,3,5,Response sense develop how most between.,60.0
+194,2023-06-15,H1-2023,3,4,4,5,5,Human he society.,100.0
+194,2023-12-15,H2-2023,4,4,4,2,5,Carry audience tell.,40.0
+194,2024-06-15,H1-2024,4,3,4,4,5,Listen represent security of campaign our leader.,80.0
+194,2024-12-15,H2-2024,5,3,4,3,5,Discover store quality painting whose center against.,60.0
+194,2025-06-15,H1-2025,4,5,4,3,5,Story social operation house run generation authority.,60.0
+195,2023-06-15,H1-2023,2,2,2,4,5,Politics alone nice level turn ground reality.,80.0
+195,2023-12-15,H2-2023,1,1,1,3,5,Over dark tend watch rise involve remain.,60.0
+195,2024-06-15,H1-2024,1,1,1,4,5,Attack professor two population data offer agree.,80.0
+195,2024-12-15,H2-2024,1,1,1,2,5,These your rule land.,40.0
+195,2025-06-15,H1-2025,1,1,1,4,5,Be thus interesting break peace expert.,80.0
+196,2023-06-15,H1-2023,3,3,3,3,5,Identify dream office again power suffer trip specific.,60.0
+196,2023-12-15,H2-2023,1,2,2,5,5,Church education continue contain control candidate when.,100.0
+196,2024-06-15,H1-2024,3,2,2,4,5,Scene production low modern.,80.0
+196,2024-12-15,H2-2024,1,1,1,4,5,Detail build agent edge.,80.0
+196,2025-06-15,H1-2025,2,2,2,4,5,Nearly purpose property none thus dinner.,80.0
+197,2023-06-15,H1-2023,4,2,3,5,5,Quickly offer own see.,100.0
+197,2023-12-15,H2-2023,3,3,3,3,5,Training knowledge fire sense phone after save.,60.0
+197,2024-06-15,H1-2024,2,3,2,2,5,Determine security type glass.,40.0
+197,2024-12-15,H2-2024,4,4,4,3,5,Lawyer administration pass imagine face.,60.0
+197,2025-06-15,H1-2025,2,2,2,2,5,Consider manage family defense ten visit fast.,40.0
+198,2023-06-15,H1-2023,5,5,5,5,5,Record television best.,100.0
+198,2023-12-15,H2-2023,5,3,4,5,5,In state least participant maybe gas.,100.0
+198,2024-06-15,H1-2024,4,3,4,2,5,Argue direction training huge.,40.0
+198,2024-12-15,H2-2024,3,4,4,2,5,Here pretty current feeling want.,40.0
+198,2025-06-15,H1-2025,3,4,4,3,5,Our understand cold present drug but.,60.0
+199,2023-06-15,H1-2023,4,5,4,2,5,Church produce scene cover admit.,40.0
+199,2023-12-15,H2-2023,5,5,5,4,5,Keep dark show.,80.0
+199,2024-06-15,H1-2024,5,4,4,4,5,Use yourself hair success.,80.0
+199,2024-12-15,H2-2024,5,4,4,2,5,Today family senior chance big floor hard.,40.0
+199,2025-06-15,H1-2025,5,5,5,3,5,Democrat movement that trial put maybe.,60.0
+200,2023-06-15,H1-2023,4,3,4,5,5,One market Mrs husband store baby something.,100.0
+200,2023-12-15,H2-2023,5,3,4,4,5,Manage middle various goal customer real high.,80.0
+200,2024-06-15,H1-2024,3,4,4,5,5,Know ask price prevent new huge.,100.0
+200,2024-12-15,H2-2024,4,4,4,3,5,Administration let bed stage where.,60.0
+200,2025-06-15,H1-2025,5,5,5,4,5,Much sort stuff usually.,80.0
+201,2023-06-15,H1-2023,2,4,3,3,5,Analysis low able official school design fall.,60.0
+201,2023-12-15,H2-2023,3,4,4,3,5,Whom quality open system four.,60.0
+201,2024-06-15,H1-2024,2,4,3,3,5,Learn head news Mr wonder structure art hold.,60.0
+201,2024-12-15,H2-2024,3,3,3,4,5,Mrs list type.,80.0
+201,2025-06-15,H1-2025,3,4,4,2,5,Information rest hold have seat challenge surface.,40.0
+202,2023-06-15,H1-2023,3,3,3,3,5,Brother respond other ready analysis see.,60.0
+202,2023-12-15,H2-2023,5,4,4,2,5,Ok indicate expect.,40.0
+202,2024-06-15,H1-2024,3,4,4,2,5,Medical north claim fly two will.,40.0
+202,2024-12-15,H2-2024,5,4,4,5,5,Themselves wear rule lawyer tend.,100.0
+202,2025-06-15,H1-2025,3,3,3,2,5,Last word friend wait.,40.0
+203,2023-06-15,H1-2023,3,1,2,4,5,Word music central plan certainly place seat.,80.0
+203,2023-12-15,H2-2023,3,2,2,2,5,Town beat total traditional administration world color.,40.0
+203,2024-06-15,H1-2024,2,2,2,4,5,Relationship feeling per future.,80.0
+203,2024-12-15,H2-2024,2,3,2,4,5,History tree box.,80.0
+203,2025-06-15,H1-2025,1,3,2,4,5,Old start very walk because.,80.0
+204,2023-06-15,H1-2023,4,2,3,2,5,Phone total official book his family.,40.0
+204,2023-12-15,H2-2023,4,4,4,2,5,Without bad top sure.,40.0
+204,2024-06-15,H1-2024,3,2,2,4,5,Office family religious mother.,80.0
+204,2024-12-15,H2-2024,2,4,3,3,5,Wrong throw social contain allow political.,60.0
+204,2025-06-15,H1-2025,4,3,4,2,5,Plant whose marriage economic wonder operation suggest.,40.0
+205,2023-06-15,H1-2023,4,3,4,2,5,From executive growth with note eight talk.,40.0
+205,2023-12-15,H2-2023,2,3,2,3,5,Piece answer artist wait way bill point look.,60.0
+205,2024-06-15,H1-2024,4,2,3,2,5,Let know air between.,40.0
+205,2024-12-15,H2-2024,2,3,2,4,5,Then pick near resource magazine.,80.0
+205,2025-06-15,H1-2025,2,3,2,2,5,Believe finally role system.,40.0
+206,2023-06-15,H1-2023,5,4,4,3,5,Size activity Republican three thank.,60.0
+206,2023-12-15,H2-2023,4,4,4,2,5,Sport game later often product modern.,40.0
+206,2024-06-15,H1-2024,5,5,5,3,5,Make trial during hair development ground way.,60.0
+206,2024-12-15,H2-2024,4,5,4,2,5,Light him usually focus project move people foreign.,40.0
+206,2025-06-15,H1-2025,4,5,4,2,5,Western nothing town property activity.,40.0
+207,2023-06-15,H1-2023,2,3,2,2,5,Particularly small nature if talk appear.,40.0
+207,2023-12-15,H2-2023,4,3,4,5,5,Relationship question education.,100.0
+207,2024-06-15,H1-2024,3,3,3,4,5,Despite them yourself plan.,80.0
+207,2024-12-15,H2-2024,3,4,4,4,5,Every media unit news write.,80.0
+207,2025-06-15,H1-2025,4,2,3,3,5,Life scientist pattern away interview scene production.,60.0
+208,2023-06-15,H1-2023,3,3,3,4,5,Shake fill father interest great argue pretty.,80.0
+208,2023-12-15,H2-2023,5,5,5,4,5,Bag factor near.,80.0
+208,2024-06-15,H1-2024,5,3,4,5,5,Ready bar resource now wide.,100.0
+208,2024-12-15,H2-2024,5,4,4,4,5,Month building nature child man still president.,80.0
+208,2025-06-15,H1-2025,5,3,4,4,5,Able whole address interest.,80.0
+209,2023-06-15,H1-2023,2,2,2,4,5,Media future player agency also church.,80.0
+209,2023-12-15,H2-2023,2,1,2,5,5,One about authority bring.,100.0
+209,2024-06-15,H1-2024,3,3,3,5,5,Decade add type Congress.,100.0
+209,2024-12-15,H2-2024,1,3,2,2,5,Radio opportunity player hard.,40.0
+209,2025-06-15,H1-2025,3,1,2,4,5,Choose sense remain program institution capital sea.,80.0
+210,2023-06-15,H1-2023,5,4,4,3,5,Try rate place mind herself.,60.0
+210,2023-12-15,H2-2023,4,5,4,5,5,Time big there officer media.,100.0
+210,2024-06-15,H1-2024,3,3,3,4,5,Firm south create tend fund.,80.0
+210,2024-12-15,H2-2024,5,3,4,5,5,Term number least order ok minute Mr.,100.0
+210,2025-06-15,H1-2025,5,4,4,3,5,Kid and sister involve beyond time decade scene.,60.0
+211,2023-06-15,H1-2023,2,2,2,2,5,Animal structure leg.,40.0
+211,2023-12-15,H2-2023,1,1,1,3,5,According decide mean spend oil pay size.,60.0
+211,2024-06-15,H1-2024,1,2,2,3,5,Guy network system.,60.0
+211,2024-12-15,H2-2024,1,1,1,4,5,Customer economic firm again difference base.,80.0
+211,2025-06-15,H1-2025,2,2,2,2,5,Ten if product issue sound talk evidence.,40.0
+212,2023-06-15,H1-2023,2,4,3,3,5,Ahead describe across case plan.,60.0
+212,2023-12-15,H2-2023,4,2,3,3,5,Approach scientist part successful.,60.0
+212,2024-06-15,H1-2024,3,2,2,5,5,Strong like member say bring child probably significant.,100.0
+212,2024-12-15,H2-2024,4,2,3,2,5,Play put national name plant lot page.,40.0
+212,2025-06-15,H1-2025,2,2,2,4,5,Like create return somebody others collection.,80.0
+213,2023-06-15,H1-2023,3,5,4,4,5,Cup reach per throughout.,80.0
+213,2023-12-15,H2-2023,3,4,4,5,5,Score audience coach arrive.,100.0
+213,2024-06-15,H1-2024,3,3,3,4,5,Indicate walk nearly interest care coach ok.,80.0
+213,2024-12-15,H2-2024,4,5,4,2,5,Each less occur ask young.,40.0
+213,2025-06-15,H1-2025,4,3,4,4,5,Story candidate positive audience.,80.0
+214,2023-06-15,H1-2023,3,2,2,3,5,Skin garden truth research board.,60.0
+214,2023-12-15,H2-2023,2,2,2,4,5,Everybody win prevent score miss.,80.0
+214,2024-06-15,H1-2024,3,3,3,5,5,Actually floor there field half provide military course.,100.0
+214,2024-12-15,H2-2024,3,4,4,4,5,Modern though race newspaper hold recently.,80.0
+214,2025-06-15,H1-2025,3,4,4,4,5,Data structure who arrive special with.,80.0
+215,2023-06-15,H1-2023,2,3,2,3,5,Director that source maintain.,60.0
+215,2023-12-15,H2-2023,1,2,2,3,5,Plant watch executive lose case future.,60.0
+215,2024-06-15,H1-2024,1,1,1,2,5,Top tree agreement record several.,40.0
+215,2024-12-15,H2-2024,1,2,2,2,5,Provide however field only until clear down.,40.0
+215,2025-06-15,H1-2025,1,1,1,4,5,Police effort lay place alone have rest.,80.0
+216,2023-06-15,H1-2023,3,4,4,2,5,Your ready child answer several relate.,40.0
+216,2023-12-15,H2-2023,5,3,4,5,5,Score tonight investment very early during professor control.,100.0
+216,2024-06-15,H1-2024,3,5,4,2,5,Perhaps management PM paper improve television.,40.0
+216,2024-12-15,H2-2024,3,3,3,3,5,Condition level almost appear record determine system.,60.0
+216,2025-06-15,H1-2025,4,3,4,3,5,Long charge until something measure whether consider.,60.0
+217,2023-06-15,H1-2023,5,4,4,5,5,Home yard simply usually always go.,100.0
+217,2023-12-15,H2-2023,4,5,4,4,5,Interest group among since poor including.,80.0
+217,2024-06-15,H1-2024,4,5,4,2,5,Billion perhaps middle member.,40.0
+217,2024-12-15,H2-2024,5,4,4,3,5,Responsibility chance off sit well.,60.0
+217,2025-06-15,H1-2025,3,5,4,3,5,Artist three safe chance project experience.,60.0
+218,2023-06-15,H1-2023,3,3,3,2,5,Increase morning free seven right report value.,40.0
+218,2023-12-15,H2-2023,3,4,4,5,5,Move almost question major former great think.,100.0
+218,2024-06-15,H1-2024,4,4,4,4,5,Each affect bag reason alone glass edge store.,80.0
+218,2024-12-15,H2-2024,3,4,4,2,5,Beyond at woman fly.,40.0
+218,2025-06-15,H1-2025,2,3,2,2,5,Between loss decision.,40.0
+219,2023-06-15,H1-2023,4,3,4,3,5,Education second happy town feel.,60.0
+219,2023-12-15,H2-2023,3,2,2,5,5,Impact crime executive admit behavior.,100.0
+219,2024-06-15,H1-2024,4,3,4,3,5,Specific attorney system energy.,60.0
+219,2024-12-15,H2-2024,3,2,2,2,5,Art remember beyond future fight experience.,40.0
+219,2025-06-15,H1-2025,2,2,2,5,5,Debate top time.,100.0
+220,2023-06-15,H1-2023,3,5,4,5,5,Event agree her traditional here body.,100.0
+220,2023-12-15,H2-2023,5,4,4,5,5,That door its including industry person reflect.,100.0
+220,2024-06-15,H1-2024,3,4,4,5,5,Reason stay write eight arrive until.,100.0
+220,2024-12-15,H2-2024,4,4,4,5,5,Series sure war government for sense with throw.,100.0
+220,2025-06-15,H1-2025,5,4,4,5,5,Couple area blue least consider skill visit group.,100.0
+221,2023-06-15,H1-2023,4,4,4,4,5,Question explain kitchen black nice small little.,80.0
+221,2023-12-15,H2-2023,4,3,4,4,5,Trade today risk piece care.,80.0
+221,2024-06-15,H1-2024,4,3,4,2,5,Small movement moment bed from official her.,40.0
+221,2024-12-15,H2-2024,3,4,4,5,5,Unit operation positive good.,100.0
+221,2025-06-15,H1-2025,4,3,4,5,5,Attack process real wrong reach.,100.0
+222,2023-06-15,H1-2023,2,2,2,3,5,Reason society consumer special specific guy tree.,60.0
+222,2023-12-15,H2-2023,2,3,2,5,5,Usually weight second history Mr.,100.0
+222,2024-06-15,H1-2024,2,3,2,5,5,Weight trade responsibility.,100.0
+222,2024-12-15,H2-2024,2,3,2,2,5,Design wind small next total claim.,40.0
+222,2025-06-15,H1-2025,4,4,4,4,5,They road imagine understand half establish.,80.0
+223,2023-06-15,H1-2023,3,3,3,5,5,Church task feeling hope.,100.0
+223,2023-12-15,H2-2023,2,3,2,2,5,Turn section offer side cut.,40.0
+223,2024-06-15,H1-2024,2,3,2,4,5,Worker matter hear start need product professor family.,80.0
+223,2024-12-15,H2-2024,2,3,2,5,5,Beat identify tonight thought alone.,100.0
+223,2025-06-15,H1-2025,2,3,2,4,5,Toward response focus no event actually international standard.,80.0
+224,2023-06-15,H1-2023,4,5,4,2,5,Finish during what never sell.,40.0
+224,2023-12-15,H2-2023,4,5,4,4,5,Home which finally true movement he size.,80.0
+224,2024-06-15,H1-2024,5,5,5,2,5,According his start body fine expert.,40.0
+224,2024-12-15,H2-2024,5,4,4,2,5,Clearly daughter main culture feeling decade kind party.,40.0
+224,2025-06-15,H1-2025,5,4,4,4,5,Bar take business wife.,80.0
+225,2023-06-15,H1-2023,3,3,3,4,5,Nor participant development.,80.0
+225,2023-12-15,H2-2023,2,2,2,3,5,She type can several political scene they people.,60.0
+225,2024-06-15,H1-2024,4,3,4,5,5,Wait still voice great.,100.0
+225,2024-12-15,H2-2024,3,2,2,2,5,Analysis leader note.,40.0
+225,2025-06-15,H1-2025,2,2,2,3,5,Eye land drop interview camera city improve.,60.0
+226,2023-06-15,H1-2023,3,3,3,4,5,Much professor yourself similar fight necessary still national.,80.0
+226,2023-12-15,H2-2023,3,2,2,3,5,Hope religious mother detail establish.,60.0
+226,2024-06-15,H1-2024,3,2,2,2,5,Energy address for already.,40.0
+226,2024-12-15,H2-2024,3,1,2,4,5,Under any leader hope thousand this so outside.,80.0
+226,2025-06-15,H1-2025,1,3,2,2,5,They actually only make return rather.,40.0
+227,2023-06-15,H1-2023,4,4,4,2,5,Number until benefit anything record hotel cost safe.,40.0
+227,2023-12-15,H2-2023,4,3,4,2,5,From because moment.,40.0
+227,2024-06-15,H1-2024,4,4,4,4,5,Success start coach adult represent visit dark nearly.,80.0
+227,2024-12-15,H2-2024,2,3,2,3,5,Rule sometimes both in step trial different.,60.0
+227,2025-06-15,H1-2025,3,4,4,5,5,Parent arrive who option let.,100.0
+229,2023-06-15,H1-2023,1,3,2,4,5,System kitchen guess partner.,80.0
+229,2023-12-15,H2-2023,3,1,2,2,5,Charge field street final ready show design.,40.0
+229,2024-06-15,H1-2024,2,1,2,5,5,Hundred avoid station sea will task hand.,100.0
+229,2024-12-15,H2-2024,2,2,2,2,5,Share anything son no value.,40.0
+229,2025-06-15,H1-2025,1,1,1,5,5,Current security experience want.,100.0
+230,2023-06-15,H1-2023,1,1,1,2,5,White material better if.,40.0
+230,2023-12-15,H2-2023,1,1,1,2,5,Leg field follow successful look final.,40.0
+230,2024-06-15,H1-2024,1,2,2,2,5,Hold cell little young well.,40.0
+230,2024-12-15,H2-2024,2,1,2,3,5,Full food arrive others.,60.0
+230,2025-06-15,H1-2025,1,1,1,2,5,Stock behind throughout worry student thank.,40.0
+231,2023-06-15,H1-2023,5,5,5,2,5,Product could well parent.,40.0
+231,2023-12-15,H2-2023,4,5,4,5,5,Hundred image staff performance.,100.0
+232,2023-06-15,H1-2023,2,4,3,5,5,Compare although its offer.,100.0
+232,2023-12-15,H2-2023,3,4,4,4,5,Sport American plant human while realize.,80.0
+232,2024-06-15,H1-2024,2,4,3,5,5,Movie purpose opportunity continue less majority technology.,100.0
+232,2024-12-15,H2-2024,2,4,3,3,5,Situation baby box minute start much.,60.0
+232,2025-06-15,H1-2025,3,2,2,4,5,Country follow send before meeting.,80.0
+233,2023-06-15,H1-2023,5,4,4,3,5,Bit recently within above summer.,60.0
+233,2023-12-15,H2-2023,3,3,3,3,5,Understand bad player for discover little.,60.0
+233,2024-06-15,H1-2024,3,5,4,2,5,Suddenly stand interest image.,40.0
+233,2024-12-15,H2-2024,5,3,4,3,5,Foot body certain describe throughout cultural economic.,60.0
+233,2025-06-15,H1-2025,3,5,4,2,5,Within thing record line another lot.,40.0
+234,2023-06-15,H1-2023,5,4,4,5,5,Box charge manager story.,100.0
+234,2023-12-15,H2-2023,4,4,4,3,5,Attorney glass well rise just truth.,60.0
+234,2024-06-15,H1-2024,4,5,4,4,5,Position couple throw off to contain.,80.0
+234,2024-12-15,H2-2024,3,4,4,4,5,He might support window.,80.0
+234,2025-06-15,H1-2025,4,3,4,4,5,Candidate nice sport issue people.,80.0
+235,2023-06-15,H1-2023,4,3,4,5,5,Office subject everyone share according wall budget.,100.0
+235,2023-12-15,H2-2023,3,4,4,2,5,Free buy section woman occur.,40.0
+235,2024-06-15,H1-2024,5,5,5,5,5,Student woman should pattern listen.,100.0
+235,2024-12-15,H2-2024,5,4,4,4,5,Student pressure around near last.,80.0
+235,2025-06-15,H1-2025,3,4,4,5,5,Huge reveal customer follow imagine pass many.,100.0
+236,2023-06-15,H1-2023,5,4,4,3,5,Quickly song simply walk blood loss.,60.0
+236,2023-12-15,H2-2023,4,3,4,5,5,Would smile memory hit pull same listen.,100.0
+236,2024-06-15,H1-2024,3,5,4,4,5,Especially small more.,80.0
+236,2024-12-15,H2-2024,5,4,4,2,5,More nice suggest recent.,40.0
+236,2025-06-15,H1-2025,3,5,4,3,5,Least through establish even tend.,60.0
+237,2023-06-15,H1-2023,3,4,4,4,5,Dinner bed dark.,80.0
+237,2023-12-15,H2-2023,3,2,2,4,5,Consumer read political while stock right whether.,80.0
+237,2024-06-15,H1-2024,3,3,3,4,5,On fear shoulder decision.,80.0
+237,2024-12-15,H2-2024,2,2,2,4,5,Kitchen view away consider structure operation.,80.0
+237,2025-06-15,H1-2025,2,4,3,4,5,Base yeah store operation situation success tell.,80.0
+238,2023-06-15,H1-2023,5,5,5,5,5,Lawyer head people father baby beat.,100.0
+238,2023-12-15,H2-2023,5,4,4,4,5,Space price sign ten owner.,80.0
+238,2024-06-15,H1-2024,4,5,4,3,5,Nation only doctor.,60.0
+238,2024-12-15,H2-2024,4,4,4,5,5,Personal today international focus about customer join least.,100.0
+238,2025-06-15,H1-2025,4,4,4,4,5,Expect share event they ago.,80.0
+239,2023-06-15,H1-2023,4,4,4,3,5,Number employee suffer either can prove.,60.0
+239,2023-12-15,H2-2023,5,4,4,2,5,Deal father hotel glass than behavior.,40.0
+239,2024-06-15,H1-2024,5,4,4,2,5,Himself option heart he task.,40.0
+239,2024-12-15,H2-2024,4,5,4,5,5,Each certainly skin social threat trip.,100.0
+239,2025-06-15,H1-2025,5,5,5,5,5,More smile choice art.,100.0
+240,2023-06-15,H1-2023,2,4,3,3,5,Challenge high week doctor teacher.,60.0
+240,2023-12-15,H2-2023,4,4,4,5,5,Republican professor save together situation.,100.0
+240,2024-06-15,H1-2024,2,2,2,4,5,Couple meet role generation professional.,80.0
+240,2024-12-15,H2-2024,2,4,3,5,5,Institution student dream soon create.,100.0
+240,2025-06-15,H1-2025,3,4,4,2,5,Mrs stuff like particular.,40.0
+241,2023-06-15,H1-2023,5,5,5,2,5,Amount shoulder wide particularly Mr fear it.,40.0
+241,2023-12-15,H2-2023,5,4,4,5,5,Week feel member must worry positive despite new.,100.0
+241,2024-06-15,H1-2024,5,5,5,3,5,Special easy must all friend investment ok.,60.0
+241,2024-12-15,H2-2024,4,4,4,3,5,Perhaps decide while.,60.0
+241,2025-06-15,H1-2025,4,4,4,4,5,Own rather school step work up.,80.0
+242,2023-06-15,H1-2023,4,2,3,4,5,System continue officer exactly.,80.0
+242,2023-12-15,H2-2023,2,2,2,3,5,So fear value for.,60.0
+242,2024-06-15,H1-2024,2,4,3,2,5,Father contain create return.,40.0
+242,2024-12-15,H2-2024,4,4,4,4,5,College dinner these too national different.,80.0
+242,2025-06-15,H1-2025,3,4,4,5,5,And forget move begin call.,100.0
+243,2023-06-15,H1-2023,4,4,4,4,5,Office time until.,80.0
+243,2023-12-15,H2-2023,3,4,4,5,5,Box street book me region.,100.0
+243,2024-06-15,H1-2024,3,4,4,4,5,Wonder action matter standard take teach.,80.0
+243,2024-12-15,H2-2024,3,2,2,2,5,Music writer participant vote.,40.0
+243,2025-06-15,H1-2025,2,3,2,5,5,Order data argue him adult.,100.0
+244,2023-06-15,H1-2023,2,1,2,4,5,Fact say near reduce herself type late.,80.0
+244,2023-12-15,H2-2023,2,1,2,4,5,Message almost different entire.,80.0
+244,2024-06-15,H1-2024,3,2,2,5,5,Something short Democrat behavior.,100.0
+244,2024-12-15,H2-2024,2,3,2,2,5,Test impact guy true opportunity large.,40.0
+244,2025-06-15,H1-2025,1,2,2,5,5,Away according product reveal conference plant.,100.0
+245,2023-06-15,H1-2023,5,4,4,3,5,Whom manage ahead lot.,60.0
+245,2023-12-15,H2-2023,4,5,4,3,5,Suddenly sound wrong particularly determine put.,60.0
+245,2024-06-15,H1-2024,5,5,5,3,5,Movement race speech offer whatever until research.,60.0
+245,2024-12-15,H2-2024,5,5,5,4,5,Around least attention plant prepare like produce.,80.0
+245,2025-06-15,H1-2025,5,5,5,3,5,Idea if floor because popular should.,60.0
+246,2023-06-15,H1-2023,2,4,3,4,5,Sit trial whatever fast whole peace.,80.0
+246,2023-12-15,H2-2023,2,2,2,4,5,Wait light interest know threat pick there.,80.0
+246,2024-06-15,H1-2024,4,3,4,2,5,Represent around tax already Congress through describe anything.,40.0
+246,2024-12-15,H2-2024,3,2,2,3,5,Drop performance allow describe organization guess note.,60.0
+246,2025-06-15,H1-2025,4,2,3,4,5,Miss social impact mind part shoulder.,80.0
+247,2023-06-15,H1-2023,3,2,2,4,5,Thank material with defense though cause time.,80.0
+247,2023-12-15,H2-2023,3,4,4,4,5,Wonder practice own growth child medical.,80.0
+247,2024-06-15,H1-2024,3,4,4,5,5,Experience single different fire inside mention but oil.,100.0
+247,2024-12-15,H2-2024,3,3,3,2,5,Yourself get work approach not hear employee court.,40.0
+247,2025-06-15,H1-2025,2,3,2,3,5,Tonight democratic explain late artist fear.,60.0
+248,2023-06-15,H1-2023,5,5,5,3,5,Could let magazine it someone.,60.0
+248,2023-12-15,H2-2023,5,4,4,5,5,Play forward first focus center.,100.0
+248,2024-06-15,H1-2024,5,5,5,4,5,Cost standard life.,80.0
+248,2024-12-15,H2-2024,5,5,5,5,5,Sound school realize without listen offer answer choice.,100.0
+248,2025-06-15,H1-2025,5,4,4,2,5,Letter consider color white.,40.0
+249,2023-06-15,H1-2023,1,1,1,4,5,Off would security school throughout receive.,80.0
+249,2023-12-15,H2-2023,2,3,2,2,5,Seven enter southern public run really.,40.0
+249,2024-06-15,H1-2024,1,2,2,4,5,Believe ground economy rest authority plan understand from.,80.0
+249,2024-12-15,H2-2024,2,1,2,3,5,Our whose treatment.,60.0
+249,2025-06-15,H1-2025,1,3,2,3,5,Write stay until assume close argue.,60.0
+250,2023-06-15,H1-2023,3,3,3,5,5,High project effect service something stuff.,100.0
+250,2023-12-15,H2-2023,3,3,3,5,5,Light laugh little.,100.0
+250,2024-06-15,H1-2024,2,3,2,4,5,Media space husband medical break.,80.0
+250,2024-12-15,H2-2024,4,3,4,5,5,Case want reach popular.,100.0
+250,2025-06-15,H1-2025,3,3,3,3,5,Back call among exist floor.,60.0
+251,2023-06-15,H1-2023,1,3,2,5,5,Effect ahead early unit Mrs indeed.,100.0
+251,2023-12-15,H2-2023,1,3,2,3,5,Have box probably through so evening war.,60.0
+251,2024-06-15,H1-2024,1,2,2,5,5,Up try foot instead magazine drop.,100.0
+251,2024-12-15,H2-2024,2,3,2,3,5,About begin as citizen weight memory north cover.,60.0
+251,2025-06-15,H1-2025,1,3,2,3,5,Believe capital pass instead area.,60.0
+252,2023-06-15,H1-2023,2,2,2,4,5,Fear save television win keep.,80.0
+252,2023-12-15,H2-2023,3,2,2,2,5,Bar participant certain produce church.,40.0
+252,2024-06-15,H1-2024,3,3,3,4,5,Program apply part bring realize sister produce either.,80.0
+252,2024-12-15,H2-2024,3,4,4,5,5,Reach bed town success present whose.,100.0
+252,2025-06-15,H1-2025,2,4,3,3,5,Notice reveal reason fight development score above.,60.0
+253,2023-06-15,H1-2023,3,4,4,2,5,Measure own allow chance list month.,40.0
+253,2023-12-15,H2-2023,4,4,4,3,5,Room hand view professional town born.,60.0
+253,2024-06-15,H1-2024,4,3,4,2,5,Include some door officer.,40.0
+253,2024-12-15,H2-2024,5,5,5,2,5,Put land knowledge painting from scene.,40.0
+253,2025-06-15,H1-2025,3,4,4,4,5,Would size guess interview son yeah modern.,80.0
+254,2023-06-15,H1-2023,2,4,3,2,5,Five while particularly data.,40.0
+254,2023-12-15,H2-2023,4,2,3,3,5,Standard guess agent again.,60.0
+254,2024-06-15,H1-2024,4,2,3,2,5,Fall star toward drop call write ability.,40.0
+254,2024-12-15,H2-2024,3,3,3,3,5,Support stop magazine others store American affect.,60.0
+254,2025-06-15,H1-2025,3,3,3,3,5,Contain others dog dog.,60.0
+255,2023-06-15,H1-2023,2,3,2,3,5,Themselves mind peace world this.,60.0
+255,2023-12-15,H2-2023,3,2,2,4,5,Them prepare exactly threat major.,80.0
+255,2024-06-15,H1-2024,4,2,3,3,5,Court one edge determine computer stage game.,60.0
+255,2024-12-15,H2-2024,2,2,2,4,5,South majority maybe seek product fund school.,80.0
+255,2025-06-15,H1-2025,3,3,3,3,5,Value occur hard until care range.,60.0
+256,2023-06-15,H1-2023,3,5,4,3,5,Level better effect PM prove article.,60.0
+256,2023-12-15,H2-2023,5,4,4,5,5,Main cold simply about.,100.0
+256,2024-06-15,H1-2024,3,4,4,3,5,Unit might inside increase high remember learn later.,60.0
+256,2024-12-15,H2-2024,4,3,4,2,5,Avoid commercial population no prepare prevent argue.,40.0
+256,2025-06-15,H1-2025,5,3,4,3,5,Apply news seven college stage feel wind.,60.0
+257,2023-06-15,H1-2023,3,4,4,3,5,Customer generation speak challenge PM.,60.0
+257,2023-12-15,H2-2023,5,3,4,5,5,Institution federal individual five.,100.0
+257,2024-06-15,H1-2024,5,4,4,5,5,Day seem gas black health put.,100.0
+257,2024-12-15,H2-2024,3,4,4,5,5,Usually responsibility alone.,100.0
+257,2025-06-15,H1-2025,4,5,4,3,5,Star kitchen use popular not.,60.0
+258,2023-06-15,H1-2023,2,2,2,3,5,Argue source weight.,60.0
+258,2023-12-15,H2-2023,2,4,3,2,5,Visit create one.,40.0
+258,2024-06-15,H1-2024,4,2,3,3,5,Describe also enjoy article tonight.,60.0
+258,2024-12-15,H2-2024,2,2,2,5,5,Both believe thank care style fall.,100.0
+258,2025-06-15,H1-2025,3,3,3,3,5,Sure person coach.,60.0
+259,2023-06-15,H1-2023,1,2,2,5,5,How turn for how Democrat.,100.0
+259,2023-12-15,H2-2023,1,1,1,4,5,Strategy laugh sister both especially a.,80.0
+259,2024-06-15,H1-2024,3,3,3,5,5,Position hotel idea interesting degree east sell raise.,100.0
+259,2024-12-15,H2-2024,1,2,2,5,5,More tough president energy maintain thank whom.,100.0
+259,2025-06-15,H1-2025,3,1,2,3,5,Agree suggest learn point travel.,60.0
+260,2023-06-15,H1-2023,2,4,3,5,5,Cover world these shoulder from throughout American evening.,100.0
+260,2023-12-15,H2-2023,3,2,2,3,5,Read require fight at question of.,60.0
+260,2024-06-15,H1-2024,2,4,3,4,5,Drop special apply approach ready director.,80.0
+260,2024-12-15,H2-2024,2,2,2,2,5,Listen apply lawyer figure morning capital.,40.0
+260,2025-06-15,H1-2025,3,3,3,5,5,Market little board down pay free.,100.0
+261,2023-06-15,H1-2023,4,5,4,2,5,Result dream do despite.,40.0
+261,2023-12-15,H2-2023,5,5,5,4,5,Stock all he.,80.0
+261,2024-06-15,H1-2024,5,4,4,4,5,Ground case remember take.,80.0
+261,2024-12-15,H2-2024,4,5,4,4,5,Season plan big imagine water above fire.,80.0
+261,2025-06-15,H1-2025,5,5,5,5,5,Thing wide society choose surface director environmental.,100.0
+262,2023-06-15,H1-2023,4,5,4,2,5,Tell arrive up really able people.,40.0
+262,2023-12-15,H2-2023,3,3,3,2,5,Increase someone space keep.,40.0
+262,2024-06-15,H1-2024,3,3,3,2,5,Article trial thank institution if watch.,40.0
+262,2024-12-15,H2-2024,3,3,3,2,5,Clearly enter world start behind.,40.0
+262,2025-06-15,H1-2025,4,5,4,5,5,Record floor guess mean participant.,100.0
+263,2023-06-15,H1-2023,3,2,2,5,5,Yet floor employee.,100.0
+263,2023-12-15,H2-2023,4,3,4,2,5,Budget point pick resource.,40.0
+263,2024-06-15,H1-2024,3,4,4,5,5,Professor live science future hospital great.,100.0
+263,2024-12-15,H2-2024,2,2,2,2,5,Soldier score third image bag.,40.0
+263,2025-06-15,H1-2025,3,4,4,5,5,End identify of learn we might worry.,100.0
+264,2023-06-15,H1-2023,5,4,4,4,5,Yard Congress hear should.,80.0
+264,2023-12-15,H2-2023,3,5,4,5,5,Box Republican hair foot.,100.0
+264,2024-06-15,H1-2024,5,4,4,3,5,Teacher pay state affect much continue.,60.0
+264,2024-12-15,H2-2024,4,5,4,5,5,More nation space suddenly home weight understand.,100.0
+264,2025-06-15,H1-2025,5,4,4,2,5,House during make alone.,40.0
+265,2023-06-15,H1-2023,2,1,2,2,5,Paper page resource out recognize add send more.,40.0
+265,2023-12-15,H2-2023,2,2,2,3,5,System tonight tough camera career fine.,60.0
+265,2024-06-15,H1-2024,1,1,1,2,5,Nice with spend thus mission.,40.0
+265,2024-12-15,H2-2024,1,2,2,5,5,South matter employee become wear.,100.0
+265,2025-06-15,H1-2025,2,1,2,4,5,Do democratic across should of federal.,80.0
+266,2023-06-15,H1-2023,2,4,3,3,5,Model rise month experience include people receive.,60.0
+266,2023-12-15,H2-2023,3,3,3,5,5,Camera process occur impact.,100.0
+266,2024-06-15,H1-2024,4,4,4,5,5,Suggest new practice mother individual.,100.0
+266,2024-12-15,H2-2024,3,4,4,4,5,Ok the thank party laugh draw whether.,80.0
+266,2025-06-15,H1-2025,3,2,2,5,5,High ten simply sister customer wide quality.,100.0
+267,2023-06-15,H1-2023,1,1,1,2,5,Design travel government we then defense into.,40.0
+267,2023-12-15,H2-2023,1,2,2,2,5,Dinner seat probably back matter business protect kitchen.,40.0
+267,2024-06-15,H1-2024,3,1,2,2,5,Well whether whose their church want girl now.,40.0
+267,2024-12-15,H2-2024,3,1,2,4,5,Financial thousand student common room.,80.0
+267,2025-06-15,H1-2025,3,2,2,2,5,Magazine society Mr write often perform opportunity write.,40.0
+268,2023-06-15,H1-2023,4,2,3,3,5,Try offer newspaper.,60.0
+268,2023-12-15,H2-2023,4,3,4,3,5,Nation break cover however.,60.0
+268,2024-06-15,H1-2024,3,4,4,5,5,Memory watch religious onto trip.,100.0
+268,2024-12-15,H2-2024,2,4,3,3,5,Civil same mean away.,60.0
+268,2025-06-15,H1-2025,2,2,2,2,5,Professor strategy black type quality vote produce.,40.0
+269,2023-06-15,H1-2023,3,4,4,5,5,Situation strategy opportunity take.,100.0
+269,2023-12-15,H2-2023,2,2,2,5,5,Note why about despite race modern.,100.0
+269,2024-06-15,H1-2024,2,3,2,5,5,Street real language current.,100.0
+269,2024-12-15,H2-2024,4,2,3,5,5,Beat hospital world activity.,100.0
+269,2025-06-15,H1-2025,2,3,2,2,5,Owner boy difficult mouth responsibility team.,40.0
+270,2023-06-15,H1-2023,3,3,3,4,5,Worker plant song front tonight expert little.,80.0
+270,2023-12-15,H2-2023,5,3,4,3,5,Reduce church small oil.,60.0
+270,2024-06-15,H1-2024,3,5,4,2,5,Rule place throughout training where maintain task.,40.0
+270,2024-12-15,H2-2024,3,4,4,3,5,Such anyone person traditional team poor where.,60.0
+271,2023-06-15,H1-2023,3,2,2,5,5,The foreign defense across.,100.0
+271,2023-12-15,H2-2023,3,2,2,4,5,Major arrive their.,80.0
+271,2024-06-15,H1-2024,3,2,2,3,5,Central improve many statement every product.,60.0
+271,2024-12-15,H2-2024,2,4,3,5,5,Threat democratic price ground well hair.,100.0
+271,2025-06-15,H1-2025,3,4,4,5,5,Suddenly our half require.,100.0
+272,2023-06-15,H1-2023,2,2,2,3,5,Major themselves message win morning customer local.,60.0
+272,2023-12-15,H2-2023,2,4,3,3,5,Man happen address myself.,60.0
+272,2024-06-15,H1-2024,3,2,2,5,5,Chance yeah available paper.,100.0
+272,2024-12-15,H2-2024,2,4,3,5,5,Bad what reason officer other rule society.,100.0
+272,2025-06-15,H1-2025,2,3,2,4,5,Treatment respond short still member common yet.,80.0
+273,2023-06-15,H1-2023,2,1,2,2,5,Remain me catch number enjoy.,40.0
+273,2023-12-15,H2-2023,2,1,2,2,5,Long name Republican cell whole rise daughter.,40.0
+273,2024-06-15,H1-2024,1,1,1,2,5,Fish myself one record which.,40.0
+273,2024-12-15,H2-2024,1,2,2,5,5,Here keep mind catch fact.,100.0
+273,2025-06-15,H1-2025,2,1,2,3,5,Generation there develop camera follow particularly.,60.0
+274,2023-06-15,H1-2023,2,1,2,4,5,Forward kind early process onto forget want trouble.,80.0
+274,2023-12-15,H2-2023,2,1,2,4,5,Property among always administration body.,80.0
+274,2024-06-15,H1-2024,1,1,1,4,5,Lot alone by civil she bag into treat.,80.0
+274,2024-12-15,H2-2024,1,1,1,3,5,Movement have people TV million join character like.,60.0
+274,2025-06-15,H1-2025,1,1,1,3,5,Clear building much month much least sure.,60.0
+275,2023-06-15,H1-2023,5,5,5,5,5,While against show within.,100.0
+275,2023-12-15,H2-2023,5,5,5,5,5,Member natural him environment do man sense.,100.0
+275,2024-06-15,H1-2024,4,4,4,3,5,Material stage behind culture believe well owner.,60.0
+275,2024-12-15,H2-2024,4,3,4,4,5,Here southern draw leave glass.,80.0
+275,2025-06-15,H1-2025,4,5,4,2,5,Some stand nothing eat never off.,40.0
+276,2023-06-15,H1-2023,5,3,4,3,5,Mean money man hand major professor entire.,60.0
+276,2023-12-15,H2-2023,5,3,4,3,5,Will result behind market.,60.0
+276,2024-06-15,H1-2024,3,5,4,4,5,Door mother exist type exactly purpose six understand.,80.0
+276,2024-12-15,H2-2024,4,4,4,3,5,The election drive local always few run.,60.0
+276,2025-06-15,H1-2025,5,5,5,2,5,Break area energy effect meeting participant.,40.0
+277,2023-06-15,H1-2023,3,4,4,3,5,Figure feeling different kitchen.,60.0
+277,2023-12-15,H2-2023,3,4,4,5,5,Probably article how federal yeah.,100.0
+277,2024-06-15,H1-2024,2,2,2,4,5,Gun business nor start site type.,80.0
+277,2024-12-15,H2-2024,3,4,4,3,5,Use animal court again.,60.0
+277,2025-06-15,H1-2025,3,2,2,4,5,Local age but wish have water just.,80.0
+278,2023-06-15,H1-2023,3,1,2,5,5,Anyone better type ready enough consider.,100.0
+278,2023-12-15,H2-2023,1,3,2,3,5,It seek under their raise my later film.,60.0
+278,2024-06-15,H1-2024,3,1,2,5,5,Accept radio kitchen itself north show energy.,100.0
+278,2024-12-15,H2-2024,1,2,2,4,5,No science medical son shake.,80.0
+278,2025-06-15,H1-2025,2,1,2,3,5,Once there discussion.,60.0
+279,2023-06-15,H1-2023,1,1,1,5,5,Everything able everybody turn partner.,100.0
+279,2023-12-15,H2-2023,1,1,1,3,5,Particularly perform news him official produce manager.,60.0
+279,2024-06-15,H1-2024,1,1,1,2,5,Could challenge design simply participant here central.,40.0
+279,2024-12-15,H2-2024,1,2,2,5,5,Only job really raise travel.,100.0
+279,2025-06-15,H1-2025,1,1,1,5,5,Low hair only chair write.,100.0
+280,2023-06-15,H1-2023,3,2,2,3,5,In foreign success admit morning score.,60.0
+280,2023-12-15,H2-2023,2,2,2,5,5,Despite force such control popular pick.,100.0
+280,2024-06-15,H1-2024,4,3,4,2,5,Author though sister human.,40.0
+280,2024-12-15,H2-2024,3,4,4,3,5,Use grow story realize.,60.0
+280,2025-06-15,H1-2025,3,4,4,2,5,With worry able weight check reduce.,40.0
+281,2023-06-15,H1-2023,3,3,3,5,5,Exist have attorney various environmental population.,100.0
+281,2023-12-15,H2-2023,4,4,4,3,5,Performance make reveal glass easy response.,60.0
+281,2024-06-15,H1-2024,3,3,3,4,5,Scientist those three dinner animal letter.,80.0
+282,2023-06-15,H1-2023,3,5,4,3,5,Live picture prepare tell.,60.0
+282,2023-12-15,H2-2023,5,3,4,4,5,Keep there voice ahead his into.,80.0
+282,2024-06-15,H1-2024,5,4,4,3,5,Allow week customer career need short.,60.0
+282,2024-12-15,H2-2024,4,5,4,2,5,Of more two accept eye bring.,40.0
+282,2025-06-15,H1-2025,5,5,5,3,5,Force language single somebody among news radio.,60.0
+283,2023-06-15,H1-2023,5,5,5,5,5,Bank expert down number serious step health.,100.0
+283,2023-12-15,H2-2023,5,4,4,4,5,Social statement it deep account today accept.,80.0
+283,2024-06-15,H1-2024,4,3,4,5,5,Far record decide wish.,100.0
+283,2024-12-15,H2-2024,4,4,4,3,5,Wide tonight behavior.,60.0
+283,2025-06-15,H1-2025,4,4,4,4,5,Watch evidence customer remain side.,80.0
+284,2023-06-15,H1-2023,4,5,4,2,5,Less feel better play often baby current couple.,40.0
+284,2023-12-15,H2-2023,4,3,4,2,5,Focus old cup fly room whole seat.,40.0
+284,2024-06-15,H1-2024,5,5,5,2,5,Able alone long seek.,40.0
+284,2024-12-15,H2-2024,3,3,3,4,5,Role size explain.,80.0
+284,2025-06-15,H1-2025,4,5,4,2,5,Time music then heart.,40.0
+285,2023-06-15,H1-2023,2,2,2,5,5,Deep necessary really economic truth seven.,100.0
+285,2023-12-15,H2-2023,3,2,2,4,5,Idea tough want protect month.,80.0
+285,2024-06-15,H1-2024,2,2,2,5,5,International put air month star movement deal.,100.0
+285,2024-12-15,H2-2024,4,4,4,3,5,Catch week choice cold.,60.0
+285,2025-06-15,H1-2025,3,2,2,2,5,Turn stay space traditional story different.,40.0
+286,2023-06-15,H1-2023,3,5,4,2,5,Nor newspaper hold.,40.0
+286,2023-12-15,H2-2023,4,4,4,5,5,Expert west plan remember.,100.0
+286,2024-06-15,H1-2024,5,5,5,5,5,Six discussion student thing hundred.,100.0
+286,2024-12-15,H2-2024,5,4,4,2,5,At state fund method.,40.0
+286,2025-06-15,H1-2025,5,4,4,5,5,Kind camera if result purpose.,100.0
+287,2023-06-15,H1-2023,2,4,3,2,5,Bank church customer.,40.0
+287,2023-12-15,H2-2023,3,4,4,4,5,Military she allow probably possible animal.,80.0
+287,2024-06-15,H1-2024,2,4,3,4,5,Force worker article street relationship blue.,80.0
+287,2024-12-15,H2-2024,3,4,4,3,5,Yourself election defense argue child hope time hear.,60.0
+287,2025-06-15,H1-2025,4,2,3,5,5,Article family late society a save dog.,100.0
+288,2023-06-15,H1-2023,3,3,3,4,5,Somebody language suddenly issue so.,80.0
+288,2023-12-15,H2-2023,3,1,2,2,5,Senior among whom trouble manage.,40.0
+288,2024-06-15,H1-2024,1,3,2,5,5,Note billion state west wear recently walk.,100.0
+288,2024-12-15,H2-2024,3,3,3,4,5,Us fact stand operation.,80.0
+288,2025-06-15,H1-2025,3,2,2,3,5,Let tonight physical money.,60.0
+289,2023-06-15,H1-2023,5,4,4,5,5,Just daughter above.,100.0
+289,2023-12-15,H2-2023,4,5,4,5,5,Player south perhaps.,100.0
+289,2024-06-15,H1-2024,3,3,3,4,5,Effect establish feel.,80.0
+289,2024-12-15,H2-2024,3,4,4,5,5,Consumer style us man.,100.0
+289,2025-06-15,H1-2025,4,5,4,3,5,Front skin simple course.,60.0
+291,2023-06-15,H1-2023,4,2,3,3,5,Soon leg nice past difficult term.,60.0
+291,2023-12-15,H2-2023,4,3,4,5,5,Unit happy whose director near moment health.,100.0
+291,2024-06-15,H1-2024,2,2,2,2,5,Present ahead forget center individual military something.,40.0
+291,2024-12-15,H2-2024,2,2,2,4,5,Beyond order standard answer serve.,80.0
+291,2025-06-15,H1-2025,4,3,4,4,5,Thousand smile age total each.,80.0
+292,2023-06-15,H1-2023,2,1,2,5,5,Suddenly care suffer life significant job.,100.0
+293,2023-06-15,H1-2023,3,1,2,4,5,Deal everything road part space push spend possible.,80.0
+293,2023-12-15,H2-2023,1,3,2,2,5,Now ask eat police education Congress.,40.0
+293,2024-06-15,H1-2024,2,1,2,4,5,Top suffer book cultural though old none participant.,80.0
+293,2024-12-15,H2-2024,2,1,2,4,5,Sing able stage.,80.0
+293,2025-06-15,H1-2025,3,3,3,4,5,Ball fact local goal election.,80.0
+294,2023-06-15,H1-2023,2,2,2,3,5,Bar yourself second respond behind piece.,60.0
+294,2023-12-15,H2-2023,2,2,2,4,5,Long although prevent ever clear month change always.,80.0
+294,2024-06-15,H1-2024,4,4,4,5,5,So act test car job soon single.,100.0
+294,2024-12-15,H2-2024,3,2,2,3,5,Price receive explain chance ask.,60.0
+294,2025-06-15,H1-2025,3,3,3,2,5,Machine any themselves first change will education.,40.0
+295,2023-06-15,H1-2023,5,4,4,2,5,Garden increase put sell only.,40.0
+295,2023-12-15,H2-2023,5,4,4,3,5,Season company he thought officer sound what.,60.0
+295,2024-06-15,H1-2024,5,5,5,3,5,Involve read factor seem.,60.0
+295,2024-12-15,H2-2024,4,5,4,4,5,Forward age apply police fill west black.,80.0
+295,2025-06-15,H1-2025,5,5,5,4,5,Experience both owner here stand person.,80.0
+296,2023-06-15,H1-2023,3,3,3,4,5,Station onto region serious worry.,80.0
+296,2023-12-15,H2-2023,2,4,3,5,5,Raise now his cause our serve.,100.0
+296,2024-06-15,H1-2024,4,3,4,5,5,Themselves always call life system.,100.0
+296,2024-12-15,H2-2024,3,2,2,4,5,Tree outside together suddenly.,80.0
+296,2025-06-15,H1-2025,2,3,2,2,5,Spring for let letter.,40.0
+297,2023-06-15,H1-2023,3,2,2,2,5,Assume music consider long discover before level.,40.0
+297,2023-12-15,H2-2023,4,4,4,5,5,Song room short avoid.,100.0
+297,2024-06-15,H1-2024,2,2,2,4,5,Both with door.,80.0
+297,2024-12-15,H2-2024,3,4,4,3,5,Magazine parent per modern industry still town.,60.0
+297,2025-06-15,H1-2025,3,4,4,3,5,Stuff nation participant board husband officer.,60.0
+298,2023-06-15,H1-2023,4,4,4,4,5,Manage prove difficult indicate.,80.0
+298,2023-12-15,H2-2023,3,4,4,5,5,Couple financial full firm forward threat scientist smile.,100.0
+298,2024-06-15,H1-2024,3,3,3,4,5,Some image yeah wish begin success.,80.0
+298,2024-12-15,H2-2024,4,3,4,3,5,Executive edge high improve.,60.0
+298,2025-06-15,H1-2025,4,4,4,4,5,Street sure above radio move.,80.0
+300,2023-06-15,H1-2023,4,3,4,3,5,Their poor partner computer wind.,60.0
+300,2023-12-15,H2-2023,4,3,4,4,5,Prove already week long news.,80.0
+300,2024-06-15,H1-2024,3,2,2,4,5,Can decide explain behind.,80.0
+300,2024-12-15,H2-2024,2,3,2,2,5,Girl total course effort deep body.,40.0
+300,2025-06-15,H1-2025,3,3,3,3,5,Fear full dinner top what.,60.0
+301,2023-06-15,H1-2023,3,2,2,3,5,Save but send yet.,60.0
+301,2023-12-15,H2-2023,4,3,4,3,5,Their necessary sometimes him behavior degree evidence.,60.0
+301,2024-06-15,H1-2024,4,2,3,3,5,Citizen prove attention far religious ever.,60.0
+301,2024-12-15,H2-2024,3,3,3,2,5,Gun same level appear respond assume seven safe.,40.0
+301,2025-06-15,H1-2025,3,3,3,3,5,Save financial law know open two.,60.0
+302,2023-06-15,H1-2023,5,5,5,5,5,Attack plan from force present of benefit.,100.0
+302,2023-12-15,H2-2023,4,3,4,5,5,Stay money kitchen difficult him into.,100.0
+302,2024-06-15,H1-2024,5,5,5,5,5,Heart Congress future enter real prevent.,100.0
+302,2024-12-15,H2-2024,5,4,4,4,5,Push fund fish visit medical same take.,80.0
+302,2025-06-15,H1-2025,4,3,4,3,5,Impact cup ground much bring.,60.0
+303,2023-06-15,H1-2023,5,4,4,3,5,Hard law season exactly happy.,60.0
+303,2023-12-15,H2-2023,5,4,4,2,5,High professional structure guess address if audience.,40.0
+303,2024-06-15,H1-2024,4,4,4,4,5,Force listen care some little choice.,80.0
+303,2024-12-15,H2-2024,5,5,5,2,5,Goal color significant.,40.0
+303,2025-06-15,H1-2025,5,4,4,4,5,Arm safe which fight work loss authority.,80.0
+304,2023-06-15,H1-2023,5,3,4,2,5,Game technology full.,40.0
+304,2023-12-15,H2-2023,3,5,4,3,5,Arm owner type major home nothing another.,60.0
+304,2024-06-15,H1-2024,4,4,4,2,5,Interview thing candidate.,40.0
+304,2024-12-15,H2-2024,4,4,4,4,5,Whose particularly remember conference look return out.,80.0
+304,2025-06-15,H1-2025,3,4,4,4,5,Hotel candidate suggest back Mr need first across.,80.0
+305,2023-06-15,H1-2023,3,4,4,4,5,Window after usually condition her force never.,80.0
+305,2023-12-15,H2-2023,2,2,2,4,5,Seven cause because have throughout.,80.0
+305,2024-06-15,H1-2024,2,3,2,4,5,Message different assume way.,80.0
+305,2024-12-15,H2-2024,4,2,3,3,5,Within contain story society computer spring artist.,60.0
+305,2025-06-15,H1-2025,2,3,2,3,5,Cell next director citizen.,60.0
+306,2023-06-15,H1-2023,2,1,2,2,5,Fire whole enter list marriage model hard.,40.0
+306,2023-12-15,H2-2023,3,2,2,3,5,Friend the could firm heavy similar.,60.0
+306,2024-06-15,H1-2024,2,1,2,3,5,Threat indeed already no eye various.,60.0
+306,2024-12-15,H2-2024,1,2,2,2,5,Participant almost southern positive dark order truth across.,40.0
+306,2025-06-15,H1-2025,2,3,2,3,5,Year week arm specific occur buy door.,60.0
+307,2023-06-15,H1-2023,4,5,4,2,5,Artist quite second what education detail in.,40.0
+307,2023-12-15,H2-2023,3,5,4,5,5,Tend mouth case message around into class.,100.0
+307,2024-06-15,H1-2024,3,3,3,4,5,Certainly official where meet while will deal.,80.0
+307,2024-12-15,H2-2024,5,4,4,5,5,It current receive we best two these.,100.0
+307,2025-06-15,H1-2025,3,3,3,4,5,Pm manage adult forward man bit data.,80.0
+308,2023-06-15,H1-2023,1,3,2,4,5,Per name shoulder also.,80.0
+308,2023-12-15,H2-2023,2,1,2,4,5,Discover reduce top task as character.,80.0
+308,2024-06-15,H1-2024,2,1,2,2,5,Notice challenge performance recent staff piece probably war.,40.0
+308,2024-12-15,H2-2024,3,2,2,2,5,Sort condition politics argue these degree.,40.0
+308,2025-06-15,H1-2025,1,2,2,5,5,Wonder father bank traditional how add have forward.,100.0
+309,2023-06-15,H1-2023,3,5,4,4,5,Wind must list sister.,80.0
+309,2023-12-15,H2-2023,4,4,4,2,5,Member able dinner fight end bill along.,40.0
+309,2024-06-15,H1-2024,5,4,4,5,5,Machine ten in.,100.0
+309,2024-12-15,H2-2024,3,4,4,4,5,Energy Congress agree recently seven apply sound.,80.0
+309,2025-06-15,H1-2025,4,4,4,3,5,Difference find large entire fight public.,60.0
+310,2023-06-15,H1-2023,5,5,5,2,5,Must build return range.,40.0
+310,2023-12-15,H2-2023,5,5,5,5,5,High realize rock.,100.0
+310,2024-06-15,H1-2024,4,4,4,4,5,Message trial political throw.,80.0
+310,2024-12-15,H2-2024,4,4,4,4,5,Similar week best young continue sport peace.,80.0
+310,2025-06-15,H1-2025,4,5,4,4,5,Plan center Republican commercial.,80.0
+311,2023-06-15,H1-2023,2,4,3,3,5,Tough up nothing night.,60.0
+311,2023-12-15,H2-2023,3,3,3,2,5,Institution each system church small peace knowledge.,40.0
+311,2024-06-15,H1-2024,4,2,3,2,5,Situation film music learn economy.,40.0
+311,2024-12-15,H2-2024,2,3,2,3,5,Opportunity black organization can expect Mrs.,60.0
+311,2025-06-15,H1-2025,3,4,4,5,5,Six order population also spend class hard.,100.0
+313,2023-06-15,H1-2023,3,3,3,5,5,Food miss treatment itself field ever bank glass.,100.0
+313,2023-12-15,H2-2023,2,4,3,5,5,Even raise page body.,100.0
+313,2024-06-15,H1-2024,3,2,2,3,5,Fine station kid school year decade line.,60.0
+313,2024-12-15,H2-2024,3,3,3,4,5,Deep carry poor rest sing as star.,80.0
+313,2025-06-15,H1-2025,3,2,2,2,5,Type Mr bad per.,40.0
+314,2023-06-15,H1-2023,2,1,2,3,5,Thank close off set stuff young will.,60.0
+314,2023-12-15,H2-2023,1,3,2,3,5,Student safe only or.,60.0
+314,2024-06-15,H1-2024,2,1,2,3,5,Truth force receive music work easy perform character.,60.0
+314,2024-12-15,H2-2024,3,3,3,3,5,Join enjoy media important treat.,60.0
+314,2025-06-15,H1-2025,1,1,1,2,5,Professor hope economy it where economy.,40.0
+315,2023-06-15,H1-2023,4,2,3,5,5,Exist trip method.,100.0
+315,2023-12-15,H2-2023,3,2,2,5,5,Place nation page within box.,100.0
+315,2024-06-15,H1-2024,4,4,4,5,5,Dark still lose identify follow ball.,100.0
+315,2024-12-15,H2-2024,2,3,2,2,5,Goal serious main last method across well suffer.,40.0
+315,2025-06-15,H1-2025,4,3,4,2,5,Few seven toward.,40.0
+316,2023-06-15,H1-2023,2,1,2,5,5,Door level power white work writer left.,100.0
+316,2023-12-15,H2-2023,1,2,2,4,5,Film lawyer expert door back major mention.,80.0
+316,2024-06-15,H1-2024,2,2,2,3,5,Return PM however protect compare.,60.0
+316,2024-12-15,H2-2024,1,1,1,4,5,In reach television day tell sound vote.,80.0
+316,2025-06-15,H1-2025,2,1,2,4,5,Expect my then similar.,80.0
+317,2023-06-15,H1-2023,2,2,2,5,5,Drive stop last else bill production.,100.0
+317,2023-12-15,H2-2023,2,3,2,4,5,Represent cultural government their carry.,80.0
+317,2024-06-15,H1-2024,3,2,2,3,5,Strong show development common.,60.0
+317,2024-12-15,H2-2024,3,3,3,2,5,Cut enter rather first two summer.,40.0
+317,2025-06-15,H1-2025,3,3,3,4,5,Age product office Congress recently stand.,80.0
+318,2023-06-15,H1-2023,2,3,2,4,5,Avoid like instead else born kitchen black.,80.0
+318,2023-12-15,H2-2023,3,3,3,2,5,Bag dark decade firm street bag something.,40.0
+318,2024-06-15,H1-2024,3,3,3,5,5,Ask anything attention though some.,100.0
+318,2024-12-15,H2-2024,3,4,4,2,5,Laugh thousand future paper program some her medical.,40.0
+318,2025-06-15,H1-2025,4,2,3,4,5,Lawyer nature that.,80.0
+319,2023-06-15,H1-2023,2,4,3,3,5,Say stuff but.,60.0
+319,2023-12-15,H2-2023,3,4,4,5,5,Control player your book.,100.0
+319,2024-06-15,H1-2024,2,3,2,3,5,Sport threat throw some example social television wait.,60.0
+319,2024-12-15,H2-2024,2,3,2,2,5,Then cause play church.,40.0
+319,2025-06-15,H1-2025,3,3,3,5,5,Pm article according level.,100.0
+320,2023-06-15,H1-2023,3,3,3,4,5,Before expect contain visit case within need.,80.0
+320,2023-12-15,H2-2023,2,4,3,4,5,Law lot method drug.,80.0
+320,2024-06-15,H1-2024,3,4,4,5,5,Single create on future consumer change.,100.0
+320,2024-12-15,H2-2024,2,2,2,3,5,Base happen positive day time.,60.0
+320,2025-06-15,H1-2025,3,3,3,3,5,Rate visit age take current body support.,60.0
+321,2023-06-15,H1-2023,5,3,4,2,5,Such fear significant reflect billion information other.,40.0
+321,2023-12-15,H2-2023,4,4,4,3,5,Not another politics several already history baby.,60.0
+321,2024-06-15,H1-2024,4,5,4,3,5,International language current ready realize several.,60.0
+321,2024-12-15,H2-2024,3,4,4,3,5,Write fill so go.,60.0
+321,2025-06-15,H1-2025,4,5,4,3,5,Many ten board project.,60.0
+322,2023-06-15,H1-2023,5,5,5,2,5,Someone different specific.,40.0
+322,2023-12-15,H2-2023,5,5,5,4,5,Expect option arrive poor.,80.0
+322,2024-06-15,H1-2024,5,4,4,2,5,Mention success against party.,40.0
+322,2024-12-15,H2-2024,5,5,5,2,5,Turn career itself of crime fish stage.,40.0
+322,2025-06-15,H1-2025,3,3,3,3,5,Religious attention beautiful although himself.,60.0
+323,2023-06-15,H1-2023,4,4,4,3,5,Personal side which exist any.,60.0
+323,2023-12-15,H2-2023,4,4,4,2,5,Rate still nothing type fire paper.,40.0
+323,2024-06-15,H1-2024,3,4,4,5,5,Anything budget mother officer before as.,100.0
+323,2024-12-15,H2-2024,4,3,4,3,5,Better sing film important piece edge in interest.,60.0
+323,2025-06-15,H1-2025,4,4,4,4,5,White agree event section money our impact.,80.0
+324,2023-06-15,H1-2023,4,3,4,4,5,Above ten and floor unit.,80.0
+324,2023-12-15,H2-2023,4,3,4,4,5,Discussion whose certain mean.,80.0
+324,2024-06-15,H1-2024,4,3,4,5,5,Forward degree red center sing.,100.0
+325,2023-06-15,H1-2023,3,2,2,4,5,Option born red town according type.,80.0
+325,2023-12-15,H2-2023,3,2,2,3,5,Early well box fish treat sound film seat.,60.0
+325,2024-06-15,H1-2024,3,3,3,3,5,Think their trouble beat sport.,60.0
+325,2024-12-15,H2-2024,2,3,2,2,5,Sense improve field behavior century why capital.,40.0
+325,2025-06-15,H1-2025,2,3,2,3,5,There country avoid number fly remain.,60.0
+326,2023-06-15,H1-2023,3,2,2,2,5,Color glass join skill war tough base buy.,40.0
+326,2023-12-15,H2-2023,1,2,2,2,5,Art politics ground media song stock person.,40.0
+326,2024-06-15,H1-2024,1,3,2,3,5,More ok important memory.,60.0
+326,2024-12-15,H2-2024,2,3,2,2,5,Believe standard eat staff process new detail free.,40.0
+326,2025-06-15,H1-2025,1,2,2,3,5,Loss study of bank candidate practice fire southern.,60.0
+327,2023-06-15,H1-2023,3,3,3,2,5,Million coach education let image cut concern.,40.0
+327,2023-12-15,H2-2023,3,2,2,3,5,Four democratic event my.,60.0
+327,2024-06-15,H1-2024,2,4,3,3,5,Point action learn measure.,60.0
+327,2024-12-15,H2-2024,3,4,4,2,5,Model increase perhaps ever woman magazine lawyer.,40.0
+327,2025-06-15,H1-2025,4,2,3,4,5,Majority head direction campaign.,80.0
+328,2023-06-15,H1-2023,2,2,2,3,5,Financial also speak fear war.,60.0
+328,2023-12-15,H2-2023,4,4,4,3,5,Actually listen country person nature.,60.0
+328,2024-06-15,H1-2024,3,4,4,5,5,There nice far wish.,100.0
+328,2024-12-15,H2-2024,3,2,2,4,5,First herself listen manage certain improve president.,80.0
+328,2025-06-15,H1-2025,3,3,3,3,5,Stock suddenly a daughter increase executive detail material.,60.0
+329,2023-06-15,H1-2023,3,3,3,3,5,Trial high a than officer good.,60.0
+329,2023-12-15,H2-2023,5,3,4,5,5,Center walk also hour add notice both.,100.0
+329,2024-06-15,H1-2024,5,3,4,2,5,Theory finally second stock ground.,40.0
+329,2024-12-15,H2-2024,4,5,4,4,5,Past almost eat ball.,80.0
+329,2025-06-15,H1-2025,5,3,4,2,5,Cup less participant.,40.0
+330,2023-06-15,H1-2023,3,2,2,5,5,Least career lot girl sure eat.,100.0
+330,2023-12-15,H2-2023,1,2,2,4,5,Law available use.,80.0
+330,2024-06-15,H1-2024,1,3,2,3,5,Believe state would hour trip.,60.0
+330,2024-12-15,H2-2024,2,3,2,5,5,My deal to law analysis.,100.0
+330,2025-06-15,H1-2025,1,3,2,5,5,Wish rate second particularly eye class ten.,100.0
+331,2023-06-15,H1-2023,5,3,4,2,5,Network myself us soon nice.,40.0
+331,2023-12-15,H2-2023,4,3,4,2,5,Point inside pretty general party assume young.,40.0
+331,2024-06-15,H1-2024,3,5,4,2,5,Tonight report something total film.,40.0
+331,2024-12-15,H2-2024,4,5,4,2,5,Per music program per leg sound pull himself.,40.0
+331,2025-06-15,H1-2025,4,3,4,4,5,Heart human opportunity.,80.0
+332,2023-06-15,H1-2023,4,3,4,2,5,Right challenge rule down.,40.0
+332,2023-12-15,H2-2023,4,3,4,2,5,So government respond admit.,40.0
+332,2024-06-15,H1-2024,3,4,4,4,5,Energy fish list personal star accept news.,80.0
+332,2024-12-15,H2-2024,2,3,2,5,5,Shake build model participant final.,100.0
+332,2025-06-15,H1-2025,2,2,2,4,5,Above else upon expert go where relate.,80.0
+333,2023-06-15,H1-2023,3,4,4,3,5,Play across article group arm land either.,60.0
+333,2023-12-15,H2-2023,3,2,2,4,5,Population pull type dinner bit help.,80.0
+333,2024-06-15,H1-2024,4,4,4,2,5,When citizen eye chance sit not.,40.0
+333,2024-12-15,H2-2024,4,3,4,2,5,Happy note move goal anyone.,40.0
+333,2025-06-15,H1-2025,3,4,4,2,5,Talk arrive lay practice list media.,40.0
+334,2023-06-15,H1-2023,2,2,2,2,5,Rather hand step glass top movie.,40.0
+334,2023-12-15,H2-2023,3,4,4,2,5,World Mrs start thus Congress guy such matter.,40.0
+334,2024-06-15,H1-2024,4,3,4,4,5,Campaign growth me production.,80.0
+334,2024-12-15,H2-2024,2,3,2,2,5,North resource energy effort school.,40.0
+334,2025-06-15,H1-2025,2,3,2,4,5,Land without claim walk work church.,80.0
+336,2023-06-15,H1-2023,5,5,5,3,5,A Republican get take rise chance.,60.0
+336,2023-12-15,H2-2023,4,3,4,5,5,Skill between strong summer data wait personal.,100.0
+336,2024-06-15,H1-2024,5,5,5,5,5,Administration public song understand.,100.0
+336,2024-12-15,H2-2024,3,3,3,2,5,Step religious sister true road method dinner.,40.0
+336,2025-06-15,H1-2025,5,3,4,3,5,Around knowledge space suffer send society.,60.0
+337,2023-06-15,H1-2023,3,4,4,4,5,Their she heavy serious audience.,80.0
+337,2023-12-15,H2-2023,4,5,4,3,5,Much unit none road provide determine.,60.0
+337,2024-06-15,H1-2024,5,5,5,3,5,Either method star I south range.,60.0
+337,2024-12-15,H2-2024,5,5,5,5,5,Political deal interest trade whether.,100.0
+337,2025-06-15,H1-2025,4,3,4,2,5,Many notice morning Congress throughout keep structure shake.,40.0
+338,2023-06-15,H1-2023,3,3,3,5,5,Least guy rest face way building.,100.0
+338,2023-12-15,H2-2023,5,4,4,3,5,Her service just red whether.,60.0
+338,2024-06-15,H1-2024,5,3,4,5,5,Arm region watch wife far.,100.0
+338,2024-12-15,H2-2024,4,3,4,5,5,Crime receive agency.,100.0
+338,2025-06-15,H1-2025,3,5,4,2,5,Land without bring inside.,40.0
+339,2023-06-15,H1-2023,3,3,3,2,5,Chance study approach price work near.,40.0
+339,2023-12-15,H2-2023,4,2,3,3,5,Well above feel within machine move.,60.0
+339,2024-06-15,H1-2024,3,4,4,3,5,Call certainly daughter too speak third audience traditional.,60.0
+339,2024-12-15,H2-2024,2,2,2,5,5,Small catch final shoulder response.,100.0
+339,2025-06-15,H1-2025,3,3,3,4,5,Clearly room talk soon police.,80.0
+340,2023-06-15,H1-2023,3,2,2,5,5,Try environmental act once water that sit.,100.0
+340,2023-12-15,H2-2023,1,1,1,2,5,Key level dark window cell discuss southern.,40.0
+340,2024-06-15,H1-2024,1,3,2,3,5,Help large talk item specific side.,60.0
+340,2024-12-15,H2-2024,1,1,1,2,5,Letter remember certainly foot.,40.0
+340,2025-06-15,H1-2025,3,2,2,4,5,Item there difference possible body.,80.0
+342,2023-06-15,H1-2023,4,5,4,3,5,Design war fly activity provide kitchen.,60.0
+342,2023-12-15,H2-2023,5,5,5,5,5,Different argue check spring across need item.,100.0
+342,2024-06-15,H1-2024,5,5,5,3,5,War wear will society.,60.0
+342,2024-12-15,H2-2024,4,5,4,5,5,Culture building explain theory become nearly.,100.0
+342,2025-06-15,H1-2025,4,5,4,2,5,Let election ability continue person sure.,40.0
+343,2023-06-15,H1-2023,5,4,4,2,5,Door today site task thousand.,40.0
+343,2023-12-15,H2-2023,4,4,4,3,5,Left civil serve term performance score short activity.,60.0
+343,2024-06-15,H1-2024,5,5,5,3,5,Society plant together push soldier character.,60.0
+343,2024-12-15,H2-2024,4,4,4,4,5,Decide feel by purpose argue ever.,80.0
+343,2025-06-15,H1-2025,5,5,5,3,5,Debate light teach these camera keep employee.,60.0
+344,2023-06-15,H1-2023,3,5,4,4,5,Girl while four.,80.0
+344,2023-12-15,H2-2023,4,4,4,4,5,Move current his century leg necessary.,80.0
+344,2024-06-15,H1-2024,5,4,4,4,5,Student hair throw customer cause entire fight.,80.0
+344,2024-12-15,H2-2024,4,5,4,4,5,Share campaign begin.,80.0
+344,2025-06-15,H1-2025,3,4,4,2,5,Authority whether stay mouth east race.,40.0
+345,2023-06-15,H1-2023,1,1,1,3,5,Against will stuff federal specific former according.,60.0
+345,2023-12-15,H2-2023,1,2,2,3,5,Across carry scene step heart.,60.0
+345,2024-06-15,H1-2024,1,1,1,4,5,However attention family.,80.0
+345,2024-12-15,H2-2024,2,2,2,4,5,Rate century defense relationship.,80.0
+345,2025-06-15,H1-2025,1,1,1,5,5,Voice example fear often include.,100.0
+346,2023-06-15,H1-2023,5,4,4,2,5,Different movement throw partner matter evidence.,40.0
+346,2023-12-15,H2-2023,5,3,4,5,5,Region production no bar technology.,100.0
+346,2024-06-15,H1-2024,5,3,4,2,5,Method style significant detail type face kitchen sister.,40.0
+346,2024-12-15,H2-2024,5,3,4,3,5,Everything very responsibility else bit visit team.,60.0
+346,2025-06-15,H1-2025,5,5,5,4,5,Thousand policy inside city spend decide.,80.0
+347,2023-06-15,H1-2023,2,3,2,5,5,Hard head fill item official identify room.,100.0
+347,2023-12-15,H2-2023,3,4,4,3,5,Degree career personal approach around air above.,60.0
+347,2024-06-15,H1-2024,2,4,3,2,5,Head bed term big traditional we.,40.0
+347,2024-12-15,H2-2024,3,3,3,2,5,Paper speech instead hand.,40.0
+347,2025-06-15,H1-2025,3,3,3,2,5,Visit model list small image animal deep.,40.0
+348,2023-06-15,H1-2023,4,4,4,3,5,Lead part show personal agency something.,60.0
+348,2023-12-15,H2-2023,2,2,2,4,5,Suddenly PM anything join act guy rock.,80.0
+348,2024-06-15,H1-2024,3,4,4,5,5,Set happy find partner think.,100.0
+348,2024-12-15,H2-2024,2,3,2,4,5,Oil television share special phone.,80.0
+349,2023-06-15,H1-2023,1,2,2,2,5,Deep everybody really.,40.0
+349,2023-12-15,H2-2023,3,3,3,5,5,Agent sort card.,100.0
+349,2024-06-15,H1-2024,1,1,1,3,5,Relate price heavy be ability relationship now.,60.0
+349,2024-12-15,H2-2024,1,1,1,5,5,Energy focus film lot.,100.0
+349,2025-06-15,H1-2025,1,3,2,5,5,Head land sign leave her suggest.,100.0
+350,2023-06-15,H1-2023,4,5,4,3,5,Small while memory quickly article event.,60.0
+350,2023-12-15,H2-2023,4,4,4,3,5,Even economic in bag old.,60.0
+350,2024-06-15,H1-2024,3,3,3,2,5,Standard want small president face town.,40.0
+350,2024-12-15,H2-2024,4,4,4,5,5,Girl property statement.,100.0
+350,2025-06-15,H1-2025,4,3,4,4,5,Other trouble require compare catch after.,80.0
+351,2023-06-15,H1-2023,2,2,2,5,5,Election cup animal personal send suggest trouble foreign.,100.0
+351,2023-12-15,H2-2023,2,2,2,2,5,Allow without product hair foot management.,40.0
+351,2024-06-15,H1-2024,2,2,2,2,5,Consumer animal sport moment friend many.,40.0
+351,2024-12-15,H2-2024,4,4,4,2,5,Scene door performance easy may center interview.,40.0
+351,2025-06-15,H1-2025,4,4,4,2,5,President discuss seem design staff nice black decade.,40.0
+352,2023-06-15,H1-2023,3,3,3,4,5,Send road wide score often benefit.,80.0
+352,2023-12-15,H2-2023,5,5,5,2,5,Weight each voice behind skill feel.,40.0
+352,2024-06-15,H1-2024,5,5,5,2,5,Cut sure coach site me join what.,40.0
+352,2024-12-15,H2-2024,5,3,4,5,5,Republican stop soldier project couple ten.,100.0
+352,2025-06-15,H1-2025,5,4,4,4,5,Home size wife know either.,80.0
+353,2023-06-15,H1-2023,3,3,3,3,5,Field tax and name voice hold radio.,60.0
+353,2023-12-15,H2-2023,4,3,4,5,5,Himself popular perform notice loss wind.,100.0
+353,2024-06-15,H1-2024,3,4,4,5,5,His structure dog stay wall.,100.0
+353,2024-12-15,H2-2024,5,5,5,5,5,Someone dog white military street.,100.0
+353,2025-06-15,H1-2025,4,3,4,2,5,Image visit card really himself run study court.,40.0
+354,2023-06-15,H1-2023,2,4,3,5,5,Good book maybe actually join.,100.0
+354,2023-12-15,H2-2023,4,4,4,4,5,Officer third when.,80.0
+354,2024-06-15,H1-2024,4,2,3,2,5,Kitchen somebody rather clear close southern.,40.0
+354,2024-12-15,H2-2024,2,2,2,3,5,Customer parent add.,60.0
+354,2025-06-15,H1-2025,3,2,2,5,5,To late account.,100.0
+355,2023-06-15,H1-2023,3,5,4,4,5,Full budget offer child.,80.0
+355,2023-12-15,H2-2023,5,5,5,5,5,Spend sort cup task catch this.,100.0
+355,2024-06-15,H1-2024,4,3,4,3,5,Difference really policy establish south because recognize mean.,60.0
+355,2024-12-15,H2-2024,4,5,4,2,5,Wide design stuff add even.,40.0
+355,2025-06-15,H1-2025,4,4,4,2,5,Southern indicate fight apply idea.,40.0
+356,2023-06-15,H1-2023,4,3,4,2,5,Maintain call professional financial.,40.0
+356,2023-12-15,H2-2023,4,3,4,5,5,Especially worry million work speak meeting collection.,100.0
+356,2024-06-15,H1-2024,3,4,4,3,5,Choice manage lot study wear free sit.,60.0
+356,2024-12-15,H2-2024,3,3,3,2,5,Information Congress well.,40.0
+356,2025-06-15,H1-2025,3,5,4,4,5,Garden task sound fund yes arm.,80.0
+357,2023-06-15,H1-2023,2,3,2,2,5,Occur glass decision Mr study room.,40.0
+357,2023-12-15,H2-2023,3,2,2,3,5,Fear service anything need.,60.0
+357,2024-06-15,H1-2024,2,3,2,3,5,Player Congress memory fill up consumer.,60.0
+357,2024-12-15,H2-2024,2,3,2,3,5,Stay opportunity father performance left.,60.0
+357,2025-06-15,H1-2025,3,3,3,2,5,Region region style campaign.,40.0
+358,2023-06-15,H1-2023,3,1,2,2,5,Anything some threat.,40.0
+358,2023-12-15,H2-2023,3,1,2,4,5,Summer down population painting line your law word.,80.0
+358,2024-06-15,H1-2024,3,3,3,2,5,Property too movement people these money fill.,40.0
+358,2024-12-15,H2-2024,1,1,1,4,5,Class travel personal.,80.0
+358,2025-06-15,H1-2025,1,2,2,4,5,Outside worry explain marriage inside military.,80.0
+359,2023-06-15,H1-2023,3,5,4,2,5,Employee kind word next room.,40.0
+359,2023-12-15,H2-2023,3,5,4,5,5,Best for hundred reason.,100.0
+359,2024-06-15,H1-2024,4,3,4,5,5,Management him throw certain.,100.0
+359,2024-12-15,H2-2024,3,4,4,2,5,Follow yeah shake quite PM cover.,40.0
+359,2025-06-15,H1-2025,5,4,4,4,5,Early imagine but during.,80.0
+360,2023-06-15,H1-2023,1,3,2,3,5,Structure some must scientist movement.,60.0
+360,2023-12-15,H2-2023,3,2,2,2,5,American hear child international.,40.0
+360,2024-06-15,H1-2024,2,2,2,4,5,Pass mean leave.,80.0
+360,2024-12-15,H2-2024,2,1,2,2,5,Many sort phone store.,40.0
+360,2025-06-15,H1-2025,1,1,1,4,5,Season where alone.,80.0
+361,2023-06-15,H1-2023,1,1,1,2,5,Forget yeah both point close change form put.,40.0
+361,2023-12-15,H2-2023,2,1,2,4,5,Southern news source wish southern place happy.,80.0
+361,2024-06-15,H1-2024,2,3,2,3,5,Tonight miss may in then court sign.,60.0
+361,2024-12-15,H2-2024,2,3,2,3,5,Factor their small rise memory instead seek fast.,60.0
+361,2025-06-15,H1-2025,2,2,2,4,5,Of establish dog lot.,80.0
+362,2023-06-15,H1-2023,3,4,4,5,5,Affect art late once ground structure court.,100.0
+362,2023-12-15,H2-2023,4,5,4,4,5,Field century property bit year attack.,80.0
+362,2024-06-15,H1-2024,3,5,4,4,5,Notice hear deal suffer.,80.0
+362,2024-12-15,H2-2024,4,5,4,5,5,Road this friend year focus.,100.0
+362,2025-06-15,H1-2025,4,3,4,2,5,Training stop field chance hear foreign many.,40.0
+363,2023-06-15,H1-2023,2,4,3,4,5,Future also item either no region sit car.,80.0
+363,2023-12-15,H2-2023,4,4,4,2,5,Available particularly himself become fact about.,40.0
+363,2024-06-15,H1-2024,2,2,2,4,5,Physical national record once.,80.0
+363,2024-12-15,H2-2024,3,2,2,3,5,Small after that.,60.0
+363,2025-06-15,H1-2025,3,2,2,2,5,Fire money capital land.,40.0
+364,2023-06-15,H1-2023,4,3,4,4,5,Door blue modern nothing treat.,80.0
+364,2023-12-15,H2-2023,4,4,4,3,5,Much Democrat seek response coach quickly.,60.0
+364,2024-06-15,H1-2024,3,3,3,2,5,But art mother before.,40.0
+364,2024-12-15,H2-2024,4,4,4,4,5,Leg fine list like a much.,80.0
+364,2025-06-15,H1-2025,4,2,3,3,5,Without soldier or spend player.,60.0
+365,2023-06-15,H1-2023,4,5,4,3,5,Lot west particular add painting.,60.0
+365,2023-12-15,H2-2023,4,4,4,4,5,Wear pattern cold student hear old onto.,80.0
+365,2024-06-15,H1-2024,4,5,4,4,5,Picture fall between sense.,80.0
+365,2024-12-15,H2-2024,5,4,4,3,5,Try option your must understand.,60.0
+365,2025-06-15,H1-2025,4,5,4,2,5,Suffer add step include assume.,40.0
+366,2023-06-15,H1-2023,3,3,3,5,5,Ahead many child page.,100.0
+366,2023-12-15,H2-2023,5,4,4,4,5,Day choose look exactly away.,80.0
+366,2024-06-15,H1-2024,4,5,4,3,5,Drive production affect such read two.,60.0
+366,2024-12-15,H2-2024,3,3,3,2,5,Daughter service network quite worker.,40.0
+366,2025-06-15,H1-2025,4,3,4,2,5,Talk final me seem.,40.0
+367,2023-06-15,H1-2023,2,1,2,2,5,Game partner parent picture.,40.0
+367,2023-12-15,H2-2023,2,1,2,4,5,Each research light I public common.,80.0
+367,2024-06-15,H1-2024,1,1,1,3,5,Their call cause her.,60.0
+367,2024-12-15,H2-2024,2,1,2,3,5,Pretty production never someone from fear.,60.0
+367,2025-06-15,H1-2025,2,2,2,4,5,Tv six dinner investment.,80.0
+368,2023-06-15,H1-2023,5,5,5,5,5,Look bad size choose.,100.0
+368,2023-12-15,H2-2023,5,5,5,2,5,Provide network letter system activity question bar.,40.0
+368,2024-06-15,H1-2024,5,3,4,5,5,Hundred college quite why.,100.0
+368,2024-12-15,H2-2024,4,3,4,3,5,Network kitchen no none bring international someone.,60.0
+368,2025-06-15,H1-2025,5,4,4,3,5,Account world coach understand close want beat.,60.0
+369,2023-06-15,H1-2023,4,3,4,4,5,Cause majority black list.,80.0
+369,2023-12-15,H2-2023,4,4,4,5,5,Capital boy eight interest.,100.0
+370,2023-06-15,H1-2023,3,3,3,5,5,Executive kid itself as manage drop.,100.0
+370,2023-12-15,H2-2023,3,3,3,4,5,Charge door director strong pressure become.,80.0
+370,2024-06-15,H1-2024,4,4,4,5,5,Section particular political notice kitchen.,100.0
+370,2024-12-15,H2-2024,4,3,4,4,5,Measure particularly expert great know still.,80.0
+370,2025-06-15,H1-2025,3,2,2,5,5,Conference property second himself their along door special.,100.0
+371,2023-06-15,H1-2023,3,4,4,4,5,Mind wind identify exactly world show look.,80.0
+371,2023-12-15,H2-2023,3,4,4,2,5,Do poor once section either Congress.,40.0
+371,2024-06-15,H1-2024,4,5,4,5,5,Democrat end something maintain purpose remember.,100.0
+371,2024-12-15,H2-2024,5,5,5,3,5,Drop art send put although forget.,60.0
+371,2025-06-15,H1-2025,4,5,4,3,5,Party table be figure their no.,60.0
+372,2023-06-15,H1-2023,4,5,4,3,5,Themselves voice note really follow dream rule apply.,60.0
+372,2023-12-15,H2-2023,4,5,4,5,5,Worker population customer scientist grow.,100.0
+372,2024-06-15,H1-2024,5,5,5,5,5,Capital collection institution conference film black support.,100.0
+372,2024-12-15,H2-2024,4,5,4,4,5,Spend dog tree maybe subject cultural live.,80.0
+372,2025-06-15,H1-2025,5,4,4,5,5,Time community decide conference.,100.0
+373,2023-06-15,H1-2023,3,1,2,2,5,Republican study dinner thing foot somebody lawyer.,40.0
+373,2023-12-15,H2-2023,2,2,2,4,5,Believe guy bed pass.,80.0
+373,2024-06-15,H1-2024,3,1,2,4,5,Many special natural situation him financial.,80.0
+373,2024-12-15,H2-2024,2,1,2,4,5,Picture organization feel know foot deep.,80.0
+373,2025-06-15,H1-2025,2,3,2,3,5,Least one couple heavy.,60.0
+374,2023-06-15,H1-2023,2,2,2,4,5,Very place condition both hold management.,80.0
+374,2023-12-15,H2-2023,4,3,4,2,5,Likely teach central speak.,40.0
+374,2024-06-15,H1-2024,4,2,3,4,5,Big assume near debate.,80.0
+374,2024-12-15,H2-2024,4,3,4,5,5,Gas picture me produce then.,100.0
+374,2025-06-15,H1-2025,2,3,2,4,5,Teach home station as since.,80.0
+376,2023-06-15,H1-2023,1,1,1,3,5,Game feel ahead Republican author.,60.0
+376,2023-12-15,H2-2023,2,3,2,5,5,Letter case baby various.,100.0
+376,2024-06-15,H1-2024,3,1,2,4,5,Perform heart already culture.,80.0
+376,2024-12-15,H2-2024,1,1,1,2,5,Cover wish radio once order.,40.0
+376,2025-06-15,H1-2025,2,2,2,4,5,Know ability color ten that ever.,80.0
+377,2023-06-15,H1-2023,3,3,3,4,5,Suggest until feeling community focus.,80.0
+377,2023-12-15,H2-2023,4,2,3,4,5,Reflect best record whatever letter statement discuss.,80.0
+377,2024-06-15,H1-2024,4,4,4,4,5,His let painting certainly never cup.,80.0
+377,2024-12-15,H2-2024,2,3,2,4,5,Near wind even party agent.,80.0
+377,2025-06-15,H1-2025,3,4,4,4,5,Leave card young attention hope.,80.0
+378,2023-06-15,H1-2023,2,2,2,5,5,Any child million choice song smile data.,100.0
+378,2023-12-15,H2-2023,1,3,2,3,5,Contain teach age authority.,60.0
+378,2024-06-15,H1-2024,3,1,2,5,5,Front source interest call model tax.,100.0
+378,2024-12-15,H2-2024,1,2,2,3,5,Really bad economy.,60.0
+378,2025-06-15,H1-2025,1,1,1,4,5,Animal part part building part.,80.0
+379,2023-06-15,H1-2023,2,3,2,4,5,Whether mouth office Mrs share will set place.,80.0
+379,2023-12-15,H2-2023,2,4,3,5,5,Majority my me.,100.0
+379,2024-06-15,H1-2024,4,2,3,4,5,Later individual win friend PM.,80.0
+379,2024-12-15,H2-2024,4,3,4,2,5,Talk national TV hospital turn mention step.,40.0
+379,2025-06-15,H1-2025,3,4,4,4,5,Summer life inside note suffer.,80.0
+380,2023-06-15,H1-2023,3,5,4,2,5,Population system scene them individual determine learn.,40.0
+380,2023-12-15,H2-2023,5,3,4,4,5,Or last range father.,80.0
+380,2024-06-15,H1-2024,5,4,4,2,5,Address but kitchen treat quality.,40.0
+380,2024-12-15,H2-2024,5,4,4,5,5,Have let himself staff if meet.,100.0
+380,2025-06-15,H1-2025,5,3,4,5,5,Bill reduce class front art happy result.,100.0
+382,2023-06-15,H1-2023,1,1,1,5,5,Institution realize voice treatment off.,100.0
+382,2023-12-15,H2-2023,3,2,2,4,5,Pass news executive example service treat.,80.0
+382,2024-06-15,H1-2024,1,2,2,2,5,More well hit nation alone take force.,40.0
+382,2024-12-15,H2-2024,1,1,1,5,5,Professional know ask challenge.,100.0
+382,2025-06-15,H1-2025,3,2,2,5,5,Raise field administration determine view.,100.0
+383,2023-06-15,H1-2023,4,4,4,2,5,Certain while as home office wish back modern.,40.0
+383,2023-12-15,H2-2023,5,5,5,2,5,Memory tonight fire program require single line rock.,40.0
+383,2024-06-15,H1-2024,5,5,5,4,5,When admit year.,80.0
+383,2024-12-15,H2-2024,4,5,4,2,5,Animal concern star knowledge trip.,40.0
+383,2025-06-15,H1-2025,5,4,4,5,5,Relate compare others western until soon.,100.0
+384,2023-06-15,H1-2023,2,1,2,3,5,We series toward later.,60.0
+384,2023-12-15,H2-2023,2,1,2,5,5,Enjoy author skin manage career law price.,100.0
+384,2024-06-15,H1-2024,1,2,2,3,5,Sure keep level easy tough.,60.0
+384,2024-12-15,H2-2024,3,1,2,2,5,Cup myself themselves them push party voice.,40.0
+384,2025-06-15,H1-2025,1,2,2,4,5,Herself against opportunity hand notice try.,80.0
+385,2023-06-15,H1-2023,3,3,3,3,5,Industry religious here someone pressure office.,60.0
+385,2023-12-15,H2-2023,1,1,1,4,5,Pretty eye instead himself either.,80.0
+385,2024-06-15,H1-2024,1,3,2,5,5,Scientist leader agent full early point bag.,100.0
+385,2024-12-15,H2-2024,1,1,1,4,5,Responsibility read school once decide so black charge.,80.0
+385,2025-06-15,H1-2025,2,3,2,2,5,Because move reflect age level mind board board.,40.0
+386,2023-06-15,H1-2023,2,2,2,5,5,Contain determine buy respond them these.,100.0
+386,2023-12-15,H2-2023,2,2,2,3,5,Region get school eat place drive director.,60.0
+386,2024-06-15,H1-2024,2,2,2,3,5,Organization heart community soon record.,60.0
+386,2024-12-15,H2-2024,3,2,2,5,5,Art the member life PM three seem.,100.0
+386,2025-06-15,H1-2025,4,3,4,2,5,Now herself pull exactly.,40.0
+387,2023-06-15,H1-2023,1,2,2,2,5,Join start attack act could.,40.0
+387,2023-12-15,H2-2023,2,1,2,3,5,Every specific language office public from.,60.0
+387,2024-06-15,H1-2024,3,1,2,2,5,Outside former process major often.,40.0
+387,2024-12-15,H2-2024,2,2,2,4,5,Onto sure during four forward whole.,80.0
+387,2025-06-15,H1-2025,1,2,2,2,5,See take treat assume boy tonight.,40.0
+388,2023-06-15,H1-2023,2,2,2,2,5,Start under partner cold against guy.,40.0
+388,2023-12-15,H2-2023,1,1,1,5,5,Media writer where mouth check now cup.,100.0
+388,2024-06-15,H1-2024,1,2,2,4,5,Court late statement candidate board.,80.0
+388,2024-12-15,H2-2024,2,2,2,4,5,Environmental fight increase shoulder standard let.,80.0
+388,2025-06-15,H1-2025,1,2,2,5,5,Rule perform around avoid people major.,100.0
+389,2023-06-15,H1-2023,4,5,4,4,5,Me ready network new student.,80.0
+389,2023-12-15,H2-2023,5,4,4,5,5,Listen capital sing area expect.,100.0
+389,2024-06-15,H1-2024,4,5,4,5,5,Front room trial star single throughout.,100.0
+389,2024-12-15,H2-2024,4,5,4,5,5,Money national present ground.,100.0
+389,2025-06-15,H1-2025,3,3,3,3,5,Technology write suffer decision argue relate billion group.,60.0
+390,2023-06-15,H1-2023,2,2,2,4,5,Smile control turn lay boy imagine involve.,80.0
+391,2023-06-15,H1-2023,4,3,4,3,5,Leader send that eat.,60.0
+391,2023-12-15,H2-2023,3,4,4,4,5,Apply perform structure audience.,80.0
+391,2024-06-15,H1-2024,3,5,4,3,5,Modern allow middle American.,60.0
+391,2024-12-15,H2-2024,3,4,4,4,5,Own community nation consider rate although.,80.0
+391,2025-06-15,H1-2025,4,3,4,3,5,Material already child commercial player on purpose.,60.0
+392,2023-06-15,H1-2023,5,5,5,3,5,Page knowledge culture white heavy.,60.0
+392,2023-12-15,H2-2023,4,5,4,5,5,Cold property training side heart drop.,100.0
+392,2024-06-15,H1-2024,5,5,5,5,5,Ready build book doctor.,100.0
+392,2024-12-15,H2-2024,5,4,4,4,5,View window matter many forward country.,80.0
+392,2025-06-15,H1-2025,5,5,5,3,5,Treatment avoid authority management traditional activity.,60.0
+394,2023-06-15,H1-2023,4,4,4,3,5,Raise under same edge air color.,60.0
+394,2023-12-15,H2-2023,4,5,4,5,5,Five should able family.,100.0
+394,2024-06-15,H1-2024,5,5,5,5,5,Trade group power produce.,100.0
+394,2024-12-15,H2-2024,5,5,5,5,5,Material season soldier college line reflect.,100.0
+394,2025-06-15,H1-2025,5,4,4,5,5,Skin most energy feeling question last certain.,100.0
+395,2023-06-15,H1-2023,4,4,4,2,5,Return per financial particularly late economy.,40.0
+395,2023-12-15,H2-2023,2,2,2,5,5,Wide either character benefit federal.,100.0
+395,2024-06-15,H1-2024,4,3,4,4,5,Very cost budget indicate true possible party.,80.0
+395,2024-12-15,H2-2024,4,2,3,5,5,Like billion true force story now make.,100.0
+395,2025-06-15,H1-2025,3,4,4,3,5,Character somebody picture at continue consider fire.,60.0
+396,2023-06-15,H1-2023,3,4,4,5,5,Anything under thought difference.,100.0
+396,2023-12-15,H2-2023,2,4,3,5,5,Land above clearly perform trade us message coach.,100.0
+396,2024-06-15,H1-2024,4,4,4,2,5,Stage police grow imagine feeling price.,40.0
+396,2024-12-15,H2-2024,3,3,3,4,5,Man foreign child suffer.,80.0
+396,2025-06-15,H1-2025,4,3,4,5,5,Name late think possible imagine during.,100.0
+397,2023-06-15,H1-2023,4,2,3,2,5,Level visit heavy amount pull money turn.,40.0
+397,2023-12-15,H2-2023,4,2,3,2,5,Expect down however trade act certainly because knowledge.,40.0
+397,2024-06-15,H1-2024,4,3,4,2,5,Guy individual health.,40.0
+397,2024-12-15,H2-2024,3,4,4,3,5,Business I so feel while explain.,60.0
+397,2025-06-15,H1-2025,4,2,3,4,5,Foreign apply ten within.,80.0
+398,2023-06-15,H1-2023,5,4,4,2,5,Billion past care.,40.0
+398,2023-12-15,H2-2023,3,3,3,5,5,Process low purpose require entire probably set fish.,100.0
+398,2024-06-15,H1-2024,3,4,4,3,5,Discussion individual need any.,60.0
+398,2024-12-15,H2-2024,4,3,4,4,5,Sit professor cover spring conference compare action.,80.0
+398,2025-06-15,H1-2025,4,3,4,2,5,Information course remain pressure financial whether population.,40.0
+399,2023-06-15,H1-2023,1,2,2,3,5,Memory forward economy.,60.0
+399,2023-12-15,H2-2023,2,2,2,2,5,Buy anything simple glass.,40.0
+399,2024-06-15,H1-2024,1,1,1,4,5,Current use remain local keep.,80.0
+399,2024-12-15,H2-2024,3,3,3,4,5,Great source five deep peace oil information.,80.0
+399,2025-06-15,H1-2025,2,3,2,4,5,Coach last simply radio lawyer.,80.0
+400,2023-06-15,H1-2023,1,2,2,3,5,Employee four color yeah cultural.,60.0
+400,2023-12-15,H2-2023,2,1,2,5,5,Store already me lead investment while control continue.,100.0
+400,2024-06-15,H1-2024,1,1,1,4,5,Conference information carry question room city good.,80.0
+400,2024-12-15,H2-2024,2,1,2,5,5,Manage ten give speak ball car analysis interesting.,100.0
+400,2025-06-15,H1-2025,1,2,2,3,5,Performance without past while meet represent.,60.0
+401,2023-06-15,H1-2023,5,4,4,4,5,Environment traditional list window reach.,80.0
+401,2023-12-15,H2-2023,4,5,4,3,5,Section on wide interesting.,60.0
+401,2024-06-15,H1-2024,5,5,5,3,5,Summer goal his like firm.,60.0
+401,2024-12-15,H2-2024,4,5,4,2,5,Newspaper inside administration spend.,40.0
+401,2025-06-15,H1-2025,5,5,5,3,5,Deal yard project since chair among how.,60.0
+402,2023-06-15,H1-2023,5,5,5,4,5,Land field range discuss student near.,80.0
+402,2023-12-15,H2-2023,5,4,4,2,5,Recent unit fly center.,40.0
+402,2024-06-15,H1-2024,5,5,5,5,5,Product pretty determine again.,100.0
+402,2024-12-15,H2-2024,5,4,4,2,5,Clear performance music research at.,40.0
+402,2025-06-15,H1-2025,4,5,4,3,5,Respond per ok health low series policy.,60.0
+403,2023-06-15,H1-2023,2,2,2,4,5,Bad air generation ago street and fire.,80.0
+403,2023-12-15,H2-2023,2,2,2,5,5,Relationship character candidate avoid house star describe.,100.0
+403,2024-06-15,H1-2024,2,2,2,3,5,Be else society speak stuff.,60.0
+403,2024-12-15,H2-2024,4,2,3,3,5,Different indeed effort actually avoid.,60.0
+403,2025-06-15,H1-2025,3,2,2,5,5,Federal their course everyone paper.,100.0
+404,2023-06-15,H1-2023,4,4,4,3,5,Threat maybe win until tough hair.,60.0
+404,2023-12-15,H2-2023,3,3,3,3,5,Recent create soldier light tree.,60.0
+404,2024-06-15,H1-2024,4,3,4,2,5,Policy national group consumer before three.,40.0
+404,2024-12-15,H2-2024,3,2,2,2,5,Direction often hope approach.,40.0
+404,2025-06-15,H1-2025,3,2,2,5,5,Analysis piece hot modern music new majority.,100.0
+405,2023-06-15,H1-2023,3,2,2,5,5,Relate right along view change rate course real.,100.0
+405,2023-12-15,H2-2023,4,4,4,4,5,Official student foreign training.,80.0
+405,2024-06-15,H1-2024,2,2,2,4,5,Worry minute response scene.,80.0
+405,2024-12-15,H2-2024,2,3,2,5,5,Raise it yeah heavy majority nature war.,100.0
+405,2025-06-15,H1-2025,4,4,4,2,5,Prevent little investment effort tough upon interview.,40.0
+406,2023-06-15,H1-2023,3,3,3,4,5,Vote power partner value performance shake region.,80.0
+406,2023-12-15,H2-2023,3,3,3,3,5,May collection likely authority since art.,60.0
+406,2024-06-15,H1-2024,2,2,2,2,5,Fine yourself without recognize.,40.0
+406,2024-12-15,H2-2024,3,4,4,5,5,Idea long how move.,100.0
+406,2025-06-15,H1-2025,2,4,3,4,5,Old media enjoy very sea phone.,80.0
+407,2023-06-15,H1-2023,2,1,2,5,5,Something method capital night claim stand adult several.,100.0
+407,2023-12-15,H2-2023,2,2,2,3,5,Gas eight statement light daughter.,60.0
+407,2024-06-15,H1-2024,2,1,2,2,5,Anything door matter describe reduce.,40.0
+407,2024-12-15,H2-2024,1,2,2,3,5,Leave live at spring.,60.0
+407,2025-06-15,H1-2025,1,1,1,5,5,Question similar either.,100.0
+408,2023-06-15,H1-2023,2,4,3,2,5,Add around say mission red.,40.0
+408,2023-12-15,H2-2023,4,4,4,3,5,High speak make apply production bring.,60.0
+408,2024-06-15,H1-2024,4,2,3,4,5,Season medical dinner.,80.0
+408,2024-12-15,H2-2024,4,4,4,4,5,Blue themselves chair.,80.0
+408,2025-06-15,H1-2025,3,3,3,2,5,Represent artist tough top claim.,40.0
+409,2023-06-15,H1-2023,2,4,3,5,5,Full enough green create generation region.,100.0
+409,2023-12-15,H2-2023,4,4,4,2,5,Push number seek point.,40.0
+409,2024-06-15,H1-2024,2,3,2,2,5,West type least possible.,40.0
+409,2024-12-15,H2-2024,3,2,2,5,5,Forward wife network together.,100.0
+409,2025-06-15,H1-2025,4,2,3,4,5,Decision guess imagine bad.,80.0
+410,2023-06-15,H1-2023,4,5,4,3,5,When lay only now dinner structure ask myself.,60.0
+410,2023-12-15,H2-2023,3,3,3,2,5,Onto before note world generation media foreign leave.,40.0
+410,2024-06-15,H1-2024,5,5,5,2,5,Share read ten despite.,40.0
+410,2024-12-15,H2-2024,4,4,4,2,5,Ago choice think into well half.,40.0
+410,2025-06-15,H1-2025,3,3,3,5,5,Office so important hair late fear.,100.0
+411,2023-06-15,H1-2023,3,3,3,2,5,Military rule seek both everything bad few.,40.0
+411,2023-12-15,H2-2023,5,5,5,5,5,Strong role difference yeah.,100.0
+411,2024-06-15,H1-2024,3,3,3,2,5,Everybody million body Congress whose nor.,40.0
+411,2024-12-15,H2-2024,4,4,4,3,5,Growth necessary customer practice follow one financial.,60.0
+411,2025-06-15,H1-2025,5,3,4,2,5,Deep well effect capital.,40.0
+412,2023-06-15,H1-2023,3,1,2,5,5,Rate white meet high of.,100.0
+412,2023-12-15,H2-2023,1,1,1,5,5,Among too one suddenly we beat threat.,100.0
+412,2024-06-15,H1-2024,2,3,2,2,5,Eight natural treat ago political could sport.,40.0
+412,2024-12-15,H2-2024,1,3,2,5,5,Face each kid fast energy amount.,100.0
+412,2025-06-15,H1-2025,2,2,2,2,5,Dinner glass camera music determine.,40.0
+413,2023-06-15,H1-2023,2,4,3,4,5,Go popular him effect night role.,80.0
+413,2023-12-15,H2-2023,3,3,3,3,5,Short form authority growth.,60.0
+413,2024-06-15,H1-2024,2,4,3,4,5,Though call everybody.,80.0
+413,2024-12-15,H2-2024,2,4,3,2,5,Machine face drug wrong there response.,40.0
+413,2025-06-15,H1-2025,2,4,3,4,5,Wife station gun beyond another.,80.0
+414,2023-06-15,H1-2023,3,2,2,5,5,Style week wear couple adult.,100.0
+414,2023-12-15,H2-2023,3,4,4,5,5,Five low report happy price pick thing especially.,100.0
+414,2024-06-15,H1-2024,2,2,2,5,5,While sort poor future.,100.0
+414,2024-12-15,H2-2024,3,3,3,5,5,Maybe story natural senior wide stage.,100.0
+414,2025-06-15,H1-2025,3,2,2,3,5,Energy question bring certainly skill goal road.,60.0
+415,2023-06-15,H1-2023,2,3,2,4,5,Piece tough technology middle young.,80.0
+415,2023-12-15,H2-2023,2,2,2,5,5,Sell worker past another.,100.0
+415,2024-06-15,H1-2024,3,2,2,5,5,Follow style enough husband citizen.,100.0
+415,2024-12-15,H2-2024,2,3,2,5,5,Picture begin push.,100.0
+415,2025-06-15,H1-2025,2,2,2,2,5,Artist score less sure measure road.,40.0
+416,2023-06-15,H1-2023,4,3,4,5,5,Class follow quite memory kid across second action.,100.0
+416,2023-12-15,H2-2023,4,4,4,5,5,Hundred management almost.,100.0
+416,2024-06-15,H1-2024,2,3,2,4,5,Everybody somebody while mean among.,80.0
+416,2024-12-15,H2-2024,3,2,2,3,5,Trip impact under discover event stay space.,60.0
+416,2025-06-15,H1-2025,4,2,3,4,5,Develop exactly suffer.,80.0
+417,2023-06-15,H1-2023,4,3,4,4,5,Moment expert notice just what study anything.,80.0
+417,2023-12-15,H2-2023,4,4,4,4,5,South scientist describe just.,80.0
+417,2024-06-15,H1-2024,5,4,4,5,5,Raise course no practice responsibility.,100.0
+417,2024-12-15,H2-2024,4,5,4,5,5,Go purpose religious other tax small.,100.0
+417,2025-06-15,H1-2025,3,3,3,2,5,Life drop reach boy foreign office wrong.,40.0
+419,2023-06-15,H1-2023,1,1,1,3,5,Interview carry buy.,60.0
+419,2023-12-15,H2-2023,2,2,2,4,5,Wrong final letter subject throw especially eight.,80.0
+419,2024-06-15,H1-2024,3,1,2,5,5,True management wife family law.,100.0
+419,2024-12-15,H2-2024,1,3,2,4,5,Focus interview building care far cultural.,80.0
+419,2025-06-15,H1-2025,3,2,2,4,5,General how term yet.,80.0
+420,2023-06-15,H1-2023,5,5,5,5,5,Example cost at use speak usually return.,100.0
+420,2023-12-15,H2-2023,4,4,4,4,5,Cell it single necessary.,80.0
+420,2024-06-15,H1-2024,4,3,4,4,5,West of face partner question.,80.0
+420,2024-12-15,H2-2024,4,3,4,5,5,Smile performance maintain try.,100.0
+420,2025-06-15,H1-2025,5,3,4,2,5,Person lose find maintain.,40.0
+421,2023-06-15,H1-2023,5,3,4,4,5,Star represent computer piece.,80.0
+421,2023-12-15,H2-2023,3,4,4,3,5,Such major current son series fire.,60.0
+421,2024-06-15,H1-2024,4,3,4,4,5,Nice world trip lose.,80.0
+421,2024-12-15,H2-2024,3,5,4,2,5,Wish generation agree road.,40.0
+421,2025-06-15,H1-2025,5,3,4,3,5,Investment together allow.,60.0
+422,2023-06-15,H1-2023,4,5,4,4,5,Account perform forget phone professional bank exist smile.,80.0
+422,2023-12-15,H2-2023,5,5,5,4,5,Series last then clear exactly art.,80.0
+422,2024-06-15,H1-2024,5,5,5,3,5,Same have successful whole risk gun picture.,60.0
+422,2024-12-15,H2-2024,5,5,5,3,5,Senior suddenly let within use follow pass.,60.0
+422,2025-06-15,H1-2025,5,5,5,2,5,Lawyer everything girl particular lot view two.,40.0
+423,2023-06-15,H1-2023,2,3,2,3,5,Shake address world either.,60.0
+423,2023-12-15,H2-2023,4,2,3,3,5,Always window husband impact community.,60.0
+423,2024-06-15,H1-2024,4,2,3,5,5,Any onto idea any.,100.0
+423,2024-12-15,H2-2024,2,2,2,5,5,Someone key door pick level.,100.0
+423,2025-06-15,H1-2025,2,2,2,2,5,Market sound prevent suddenly force direction.,40.0
+424,2023-06-15,H1-2023,5,5,5,3,5,Peace attention several eat accept born.,60.0
+424,2023-12-15,H2-2023,5,5,5,4,5,Reduce ground necessary mention process near.,80.0
+425,2023-06-15,H1-2023,4,4,4,4,5,Never bring thing.,80.0
+426,2023-06-15,H1-2023,1,3,2,2,5,Eight continue interview too field big.,40.0
+426,2023-12-15,H2-2023,1,2,2,3,5,Police address trouble provide side possible.,60.0
+426,2024-06-15,H1-2024,1,3,2,5,5,Company sound suggest.,100.0
+426,2024-12-15,H2-2024,2,3,2,5,5,Offer answer very north cover.,100.0
+426,2025-06-15,H1-2025,3,1,2,3,5,Success room different support billion.,60.0
+427,2023-06-15,H1-2023,2,3,2,5,5,Financial be travel establish part play not.,100.0
+427,2023-12-15,H2-2023,3,2,2,5,5,Wife white last prepare.,100.0
+427,2024-06-15,H1-2024,2,1,2,5,5,For specific assume quite image possible.,100.0
+427,2024-12-15,H2-2024,3,3,3,3,5,Pretty a late foreign.,60.0
+427,2025-06-15,H1-2025,2,1,2,3,5,Position so direction modern consumer mention chance.,60.0
+428,2023-06-15,H1-2023,4,2,3,4,5,Local bad right north industry.,80.0
+428,2023-12-15,H2-2023,2,3,2,4,5,Buy case unit raise present.,80.0
+428,2024-06-15,H1-2024,2,2,2,5,5,Girl move expect very.,100.0
+428,2024-12-15,H2-2024,4,4,4,4,5,Audience happen campaign example.,80.0
+428,2025-06-15,H1-2025,3,4,4,5,5,Eat action simply million north stand despite.,100.0
+429,2023-06-15,H1-2023,2,2,2,4,5,Early authority require guess.,80.0
+429,2023-12-15,H2-2023,3,2,2,3,5,Difference bank across religious arrive chair.,60.0
+429,2024-06-15,H1-2024,3,4,4,4,5,Citizen find view edge.,80.0
+429,2024-12-15,H2-2024,3,2,2,2,5,Happen want from about.,40.0
+429,2025-06-15,H1-2025,4,3,4,2,5,Threat attack above car.,40.0
+430,2023-06-15,H1-2023,4,4,4,3,5,Population available law sort watch.,60.0
+430,2023-12-15,H2-2023,3,2,2,2,5,Peace make phone condition.,40.0
+430,2024-06-15,H1-2024,4,2,3,2,5,White body relate leg us I.,40.0
+430,2024-12-15,H2-2024,2,4,3,5,5,Officer partner identify author despite move.,100.0
+430,2025-06-15,H1-2025,3,4,4,5,5,Peace life reach question debate fear feeling three.,100.0
+431,2023-06-15,H1-2023,4,2,3,5,5,Smile to back next letter high understand data.,100.0
+431,2023-12-15,H2-2023,4,3,4,4,5,Place series different purpose.,80.0
+431,2024-06-15,H1-2024,3,4,4,4,5,Suddenly question sell thought organization statement since.,80.0
+431,2024-12-15,H2-2024,4,3,4,2,5,Protect arrive explain south three old.,40.0
+431,2025-06-15,H1-2025,2,2,2,4,5,Film issue may born.,80.0
+432,2023-06-15,H1-2023,5,3,4,3,5,Attention star including simple hot mission.,60.0
+432,2023-12-15,H2-2023,4,3,4,3,5,Environment section according doctor bed federal.,60.0
+432,2024-06-15,H1-2024,3,3,3,4,5,Job suffer wrong save apply top.,80.0
+432,2024-12-15,H2-2024,5,4,4,3,5,Usually ground trip sometimes matter.,60.0
+433,2023-06-15,H1-2023,4,4,4,3,5,The serious body education ground on.,60.0
+433,2023-12-15,H2-2023,3,4,4,3,5,Hair floor face.,60.0
+433,2024-06-15,H1-2024,4,2,3,2,5,Program important one exactly very field moment.,40.0
+433,2024-12-15,H2-2024,4,2,3,4,5,Argue visit draw play.,80.0
+433,2025-06-15,H1-2025,4,4,4,5,5,Success strong security bar table future fear bad.,100.0
+434,2023-06-15,H1-2023,2,2,2,3,5,Action also will appear.,60.0
+434,2023-12-15,H2-2023,4,2,3,4,5,Above real feeling customer.,80.0
+434,2024-06-15,H1-2024,2,2,2,5,5,True suffer test player.,100.0
+434,2024-12-15,H2-2024,2,4,3,2,5,Eight stage mind best establish.,40.0
+434,2025-06-15,H1-2025,3,3,3,4,5,But mouth method own measure pass.,80.0
+435,2023-06-15,H1-2023,2,2,2,3,5,Rate condition get attack compare technology.,60.0
+435,2023-12-15,H2-2023,2,3,2,4,5,Church ball off west song table material military.,80.0
+435,2024-06-15,H1-2024,3,3,3,2,5,Foot fine authority per off.,40.0
+435,2024-12-15,H2-2024,2,2,2,2,5,Democrat modern fire left lay not somebody.,40.0
+435,2025-06-15,H1-2025,2,2,2,5,5,Person population their.,100.0
+436,2023-06-15,H1-2023,3,3,3,2,5,Record available industry cultural beat.,40.0
+436,2023-12-15,H2-2023,3,3,3,4,5,Cup security oil after nation sell tonight style.,80.0
+436,2024-06-15,H1-2024,5,3,4,3,5,Sure education nice find eight wait.,60.0
+436,2024-12-15,H2-2024,4,4,4,4,5,Rule teach quality college.,80.0
+436,2025-06-15,H1-2025,5,3,4,3,5,Then develop executive before detail personal discuss watch.,60.0
+438,2023-06-15,H1-2023,4,2,3,2,5,Star down where popular cover camera hold.,40.0
+438,2023-12-15,H2-2023,2,3,2,2,5,Nothing door turn political degree bank.,40.0
+438,2024-06-15,H1-2024,4,2,3,5,5,That and hair side deep well.,100.0
+438,2024-12-15,H2-2024,4,3,4,3,5,To leg all.,60.0
+438,2025-06-15,H1-2025,3,3,3,5,5,Because range care year.,100.0
+439,2023-06-15,H1-2023,4,5,4,4,5,Fall store style person detail writer despite.,80.0
+439,2023-12-15,H2-2023,5,5,5,2,5,Drop by fine century development walk.,40.0
+439,2024-06-15,H1-2024,4,4,4,5,5,Rather only sense race well.,100.0
+439,2024-12-15,H2-2024,5,4,4,4,5,What our investment.,80.0
+439,2025-06-15,H1-2025,5,5,5,4,5,Write account color nation study effect.,80.0
+440,2023-06-15,H1-2023,4,5,4,3,5,During child pattern send memory ready campaign event.,60.0
+440,2023-12-15,H2-2023,5,5,5,4,5,Finish this value single education record.,80.0
+440,2024-06-15,H1-2024,5,4,4,4,5,Maybe floor than.,80.0
+440,2024-12-15,H2-2024,5,4,4,2,5,Safe top number official town bad.,40.0
+440,2025-06-15,H1-2025,4,4,4,4,5,Personal half contain food reality culture.,80.0
+441,2023-06-15,H1-2023,3,4,4,4,5,Hold pull two put blue able right.,80.0
+441,2023-12-15,H2-2023,4,3,4,4,5,Option debate teacher study economy resource glass voice.,80.0
+441,2024-06-15,H1-2024,3,2,2,5,5,She who couple area.,100.0
+441,2024-12-15,H2-2024,4,2,3,3,5,Stay however foreign benefit seek painting professional.,60.0
+441,2025-06-15,H1-2025,4,2,3,4,5,Local see together strong whom peace government.,80.0
+442,2023-06-15,H1-2023,3,3,3,3,5,Age month decision modern free particular light.,60.0
+442,2023-12-15,H2-2023,3,4,4,3,5,Me medical walk step.,60.0
+442,2024-06-15,H1-2024,4,3,4,5,5,Fine environmental similar create tell audience.,100.0
+442,2024-12-15,H2-2024,4,3,4,3,5,Everybody exist front minute court company prove budget.,60.0
+442,2025-06-15,H1-2025,2,4,3,4,5,Democrat across box glass still hit right piece.,80.0
+443,2023-06-15,H1-2023,2,4,3,4,5,Image information true us.,80.0
+444,2023-06-15,H1-2023,5,3,4,3,5,Boy company throughout.,60.0
+444,2023-12-15,H2-2023,4,4,4,5,5,No age that business.,100.0
+444,2024-06-15,H1-2024,4,4,4,2,5,Sit note age practice image history clearly.,40.0
+444,2024-12-15,H2-2024,4,5,4,4,5,Food weight course option usually environmental of.,80.0
+444,2025-06-15,H1-2025,4,5,4,3,5,Tv team could item traditional value certain.,60.0
+445,2023-06-15,H1-2023,4,5,4,4,5,Find like number where husband choose.,80.0
+445,2023-12-15,H2-2023,4,5,4,3,5,We attorney room tough prepare environmental building.,60.0
+445,2024-06-15,H1-2024,4,5,4,4,5,Sort off scene operation painting stuff action.,80.0
+445,2024-12-15,H2-2024,4,5,4,2,5,Fund cause bit effort street recognize another.,40.0
+445,2025-06-15,H1-2025,5,5,5,5,5,Make night imagine attorney budget.,100.0
+446,2023-06-15,H1-2023,3,3,3,3,5,Difference real less herself.,60.0
+446,2023-12-15,H2-2023,5,5,5,2,5,Response technology especially build.,40.0
+446,2024-06-15,H1-2024,5,4,4,4,5,Old analysis anyone three teach return service former.,80.0
+446,2024-12-15,H2-2024,4,5,4,5,5,Think agreement opportunity hospital feel understand send special.,100.0
+446,2025-06-15,H1-2025,4,4,4,3,5,Buy door wind industry beautiful least his.,60.0
+447,2023-06-15,H1-2023,2,4,3,2,5,Model take produce man.,40.0
+447,2023-12-15,H2-2023,4,4,4,3,5,Painting rule medical real measure television.,60.0
+447,2024-06-15,H1-2024,4,3,4,3,5,Herself drop risk opportunity.,60.0
+447,2024-12-15,H2-2024,3,3,3,3,5,On beautiful person behind design mother occur.,60.0
+447,2025-06-15,H1-2025,4,2,3,5,5,Follow possible cost.,100.0
+448,2023-06-15,H1-2023,4,3,4,5,5,Rule country send sometimes.,100.0
+448,2023-12-15,H2-2023,3,3,3,3,5,Those number community door Congress onto claim.,60.0
+448,2024-06-15,H1-2024,5,3,4,3,5,Ok seek such nation dinner threat.,60.0
+448,2024-12-15,H2-2024,4,5,4,5,5,Environmental decide forget any enjoy do compare.,100.0
+448,2025-06-15,H1-2025,4,4,4,3,5,Ahead today president owner same sing he.,60.0
+449,2023-06-15,H1-2023,4,3,4,4,5,Maintain painting rest.,80.0
+449,2023-12-15,H2-2023,4,4,4,3,5,Power nice customer name lawyer.,60.0
+449,2024-06-15,H1-2024,4,4,4,4,5,Society war certain order animal.,80.0
+449,2024-12-15,H2-2024,3,2,2,5,5,People seven into.,100.0
+449,2025-06-15,H1-2025,4,3,4,5,5,Foreign through hair first no opportunity offer.,100.0
+450,2023-06-15,H1-2023,5,5,5,5,5,Away very religious.,100.0
+450,2023-12-15,H2-2023,4,4,4,4,5,Boy land member room fish economic concern.,80.0
+450,2024-06-15,H1-2024,4,5,4,3,5,Analysis give for get little fear speak administration.,60.0
+450,2024-12-15,H2-2024,5,4,4,2,5,Hair small provide form check to today.,40.0
+450,2025-06-15,H1-2025,5,5,5,4,5,Cover really together gas rule gun.,80.0
+451,2023-06-15,H1-2023,3,2,2,2,5,Rule then cause two.,40.0
+451,2023-12-15,H2-2023,2,4,3,2,5,Body ready order chance imagine one.,40.0
+451,2024-06-15,H1-2024,2,2,2,4,5,Provide officer performance baby produce write.,80.0
+451,2024-12-15,H2-2024,2,4,3,5,5,Day away character my of leg.,100.0
+451,2025-06-15,H1-2025,2,4,3,4,5,Sea popular customer.,80.0
+452,2023-06-15,H1-2023,2,1,2,2,5,Space court accept every offer.,40.0
+452,2023-12-15,H2-2023,2,2,2,3,5,Relationship next history.,60.0
+452,2024-06-15,H1-2024,2,1,2,4,5,Leader per seat write report floor car.,80.0
+452,2024-12-15,H2-2024,3,1,2,5,5,Top final return practice after organization.,100.0
+452,2025-06-15,H1-2025,2,3,2,4,5,Pay region interest decade.,80.0
+453,2023-06-15,H1-2023,3,2,2,5,5,Ability reveal war help left team road.,100.0
+453,2023-12-15,H2-2023,3,3,3,3,5,Win stop maybe according.,60.0
+453,2024-06-15,H1-2024,2,1,2,4,5,Fear south new street government explain.,80.0
+453,2024-12-15,H2-2024,3,1,2,5,5,Discuss adult attack defense director may set.,100.0
+453,2025-06-15,H1-2025,3,2,2,2,5,Shake model drive opportunity must.,40.0
+454,2023-06-15,H1-2023,4,5,4,4,5,Lot main nothing detail pass policy eat.,80.0
+454,2023-12-15,H2-2023,3,3,3,4,5,Kitchen entire coach modern grow hour matter.,80.0
+454,2024-06-15,H1-2024,3,4,4,5,5,This her great three start.,100.0
+454,2024-12-15,H2-2024,4,5,4,4,5,Guy huge guess agree explain.,80.0
+454,2025-06-15,H1-2025,3,5,4,4,5,President policy agree.,80.0
+455,2023-06-15,H1-2023,3,2,2,5,5,Physical chair economic half.,100.0
+455,2023-12-15,H2-2023,2,3,2,5,5,Continue purpose pick develop.,100.0
+455,2024-06-15,H1-2024,2,3,2,2,5,Pretty size only.,40.0
+455,2024-12-15,H2-2024,1,3,2,3,5,Physical no song exist project likely fall.,60.0
+455,2025-06-15,H1-2025,1,3,2,4,5,Admit attack herself several short yeah from.,80.0
+456,2023-06-15,H1-2023,1,3,2,4,5,Care official bar lose window set.,80.0
+456,2023-12-15,H2-2023,3,1,2,2,5,Remain class human whether painting home space.,40.0
+456,2024-06-15,H1-2024,2,1,2,2,5,Machine agreement program about.,40.0
+456,2024-12-15,H2-2024,3,1,2,5,5,Fly none operation money.,100.0
+456,2025-06-15,H1-2025,1,2,2,2,5,Require staff change east world pattern be.,40.0
+457,2023-06-15,H1-2023,5,3,4,5,5,Catch vote last risk already certainly any.,100.0
+457,2023-12-15,H2-2023,4,5,4,3,5,Executive exactly field somebody there good draw.,60.0
+457,2024-06-15,H1-2024,5,3,4,3,5,Marriage design like just table measure.,60.0
+457,2024-12-15,H2-2024,4,3,4,3,5,Far management option.,60.0
+457,2025-06-15,H1-2025,4,4,4,5,5,Week own look visit doctor statement.,100.0
+458,2023-06-15,H1-2023,3,3,3,5,5,Daughter structure act me voice.,100.0
+458,2023-12-15,H2-2023,2,3,2,4,5,National reflect current feel.,80.0
+458,2024-06-15,H1-2024,3,4,4,3,5,Century difference manager research.,60.0
+458,2024-12-15,H2-2024,4,4,4,2,5,Before then someone design.,40.0
+458,2025-06-15,H1-2025,2,3,2,3,5,Identify idea debate official instead.,60.0
+459,2023-06-15,H1-2023,3,3,3,4,5,Figure federal prevent mind bad.,80.0
+459,2023-12-15,H2-2023,4,5,4,5,5,Experience question safe nation may.,100.0
+459,2024-06-15,H1-2024,4,4,4,4,5,Describe effort partner suddenly mean choose election.,80.0
+459,2024-12-15,H2-2024,3,3,3,2,5,Run national service add guess.,40.0
+459,2025-06-15,H1-2025,3,3,3,5,5,Wait himself amount trade agent hair agree.,100.0
+460,2023-06-15,H1-2023,3,2,2,4,5,Pay room change sport.,80.0
+460,2023-12-15,H2-2023,3,3,3,2,5,Social just eat wait.,40.0
+460,2024-06-15,H1-2024,2,3,2,2,5,Few report glass imagine argue.,40.0
+460,2024-12-15,H2-2024,4,2,3,5,5,Enjoy phone machine.,100.0
+460,2025-06-15,H1-2025,4,3,4,5,5,Man other now every.,100.0
+461,2023-06-15,H1-2023,2,4,3,3,5,Decade also culture expect know.,60.0
+461,2023-12-15,H2-2023,4,3,4,3,5,Single hour surface.,60.0
+461,2024-06-15,H1-2024,2,2,2,4,5,Difference data between here possible.,80.0
+461,2024-12-15,H2-2024,4,3,4,2,5,Vote candidate sell meet official.,40.0
+461,2025-06-15,H1-2025,3,2,2,5,5,Tell finish south collection notice like as.,100.0
+462,2023-06-15,H1-2023,2,4,3,5,5,Who send billion even require prove movement.,100.0
+462,2023-12-15,H2-2023,2,2,2,2,5,Sing bad which past hair street.,40.0
+462,2024-06-15,H1-2024,4,4,4,5,5,May those improve nor.,100.0
+462,2024-12-15,H2-2024,3,3,3,3,5,Benefit institution crime.,60.0
+462,2025-06-15,H1-2025,2,2,2,5,5,Walk see however again.,100.0
+463,2023-06-15,H1-2023,4,3,4,5,5,Action point hear hit song situation seem.,100.0
+463,2023-12-15,H2-2023,3,4,4,5,5,Summer coach issue key and everything woman.,100.0
+463,2024-06-15,H1-2024,4,3,4,2,5,During political star six.,40.0
+463,2024-12-15,H2-2024,3,4,4,4,5,At receive product.,80.0
+463,2025-06-15,H1-2025,2,2,2,5,5,Fly close national beautiful large.,100.0
+464,2023-06-15,H1-2023,4,3,4,2,5,Upon eye method civil operation suffer worker.,40.0
+464,2023-12-15,H2-2023,3,4,4,3,5,Strategy fast look treatment.,60.0
+464,2024-06-15,H1-2024,3,3,3,3,5,Produce to heart doctor house amount.,60.0
+464,2024-12-15,H2-2024,3,2,2,5,5,Still hundred such easy ever old play.,100.0
+464,2025-06-15,H1-2025,3,4,4,3,5,Simple actually include card amount.,60.0
+465,2023-06-15,H1-2023,3,4,4,3,5,Financial administration community build process.,60.0
+465,2023-12-15,H2-2023,4,5,4,2,5,Sport morning two citizen very action animal maintain.,40.0
+465,2024-06-15,H1-2024,5,5,5,5,5,Tonight bag ground last.,100.0
+465,2024-12-15,H2-2024,4,5,4,2,5,Town manager indicate trial both open lawyer budget.,40.0
+465,2025-06-15,H1-2025,4,5,4,3,5,Health much expect thousand story.,60.0
+466,2023-06-15,H1-2023,3,5,4,4,5,Media hear teach manage lot day.,80.0
+466,2023-12-15,H2-2023,3,4,4,4,5,Ball part huge attention easy let serve.,80.0
+466,2024-06-15,H1-2024,4,4,4,4,5,Chair machine some same attorney interesting city adult.,80.0
+466,2024-12-15,H2-2024,5,5,5,5,5,Present still reason buy campaign road evidence should.,100.0
+466,2025-06-15,H1-2025,3,4,4,2,5,About talk kid hour board bar meet.,40.0
+467,2023-06-15,H1-2023,1,3,2,2,5,Laugh size tell inside woman whatever.,40.0
+467,2023-12-15,H2-2023,1,1,1,2,5,Heavy admit morning compare summer.,40.0
+467,2024-06-15,H1-2024,2,2,2,3,5,Trade with here party.,60.0
+467,2024-12-15,H2-2024,1,3,2,4,5,Answer company nor himself black network material.,80.0
+467,2025-06-15,H1-2025,2,1,2,5,5,Product scientist her model.,100.0
+468,2023-06-15,H1-2023,5,5,5,5,5,Theory sea week dream single everybody process seat.,100.0
+468,2023-12-15,H2-2023,5,4,4,3,5,Husband month style work action doctor their.,60.0
+468,2024-06-15,H1-2024,3,4,4,4,5,Operation and final main.,80.0
+468,2024-12-15,H2-2024,5,5,5,2,5,Author can example who himself table ok.,40.0
+468,2025-06-15,H1-2025,5,3,4,5,5,Miss black adult concern rock.,100.0
+469,2023-06-15,H1-2023,3,4,4,2,5,Similar outside remember join.,40.0
+469,2023-12-15,H2-2023,3,4,4,5,5,Yes mission about.,100.0
+469,2024-06-15,H1-2024,3,5,4,4,5,East smile other media same station smile choice.,80.0
+469,2024-12-15,H2-2024,3,5,4,5,5,Difference always resource tend friend.,100.0
+469,2025-06-15,H1-2025,3,3,3,2,5,Size look human.,40.0
+470,2023-06-15,H1-2023,1,2,2,5,5,Production wife most yet.,100.0
+470,2023-12-15,H2-2023,3,3,3,3,5,Support money audience him allow body room.,60.0
+470,2024-06-15,H1-2024,1,1,1,4,5,Attorney hot safe blue.,80.0
+470,2024-12-15,H2-2024,2,1,2,3,5,Necessary music do sign traditional under behind.,60.0
+470,2025-06-15,H1-2025,3,3,3,5,5,Know soon scientist by myself.,100.0
+471,2023-06-15,H1-2023,3,3,3,4,5,Choose everyone especially case.,80.0
+471,2023-12-15,H2-2023,4,2,3,3,5,History himself hear family receive less network.,60.0
+471,2024-06-15,H1-2024,4,2,3,3,5,Article room finally someone woman decision.,60.0
+471,2024-12-15,H2-2024,4,2,3,5,5,Network role budget expect small which science.,100.0
+471,2025-06-15,H1-2025,3,3,3,5,5,Shoulder cover idea remember child article high conference.,100.0
+472,2023-06-15,H1-2023,2,3,2,4,5,Letter her here sound these our.,80.0
+472,2023-12-15,H2-2023,2,4,3,5,5,Crime deep measure central with himself.,100.0
+472,2024-06-15,H1-2024,4,2,3,5,5,Safe general end first.,100.0
+472,2024-12-15,H2-2024,2,2,2,5,5,Choice data world say me.,100.0
+472,2025-06-15,H1-2025,3,2,2,5,5,Network rate author sure buy.,100.0
+473,2023-06-15,H1-2023,1,1,1,5,5,Author so building evening foot relationship.,100.0
+473,2023-12-15,H2-2023,3,3,3,5,5,Former purpose kid it condition actually value.,100.0
+473,2024-06-15,H1-2024,3,2,2,5,5,Trial along understand key foreign too too.,100.0
+473,2024-12-15,H2-2024,1,1,1,3,5,Design win budget bad.,60.0
+473,2025-06-15,H1-2025,1,1,1,4,5,Police product light method during.,80.0
+474,2023-06-15,H1-2023,1,1,1,4,5,Agent Congress time behavior employee.,80.0
+474,2023-12-15,H2-2023,2,1,2,4,5,Moment deep simple south gas kid deal why.,80.0
+474,2024-06-15,H1-2024,1,2,2,2,5,Research security discussion these sport.,40.0
+474,2024-12-15,H2-2024,1,2,2,3,5,Station how question beyond order.,60.0
+474,2025-06-15,H1-2025,1,1,1,2,5,Partner she dog lot reflect enter such.,40.0
+475,2023-06-15,H1-2023,5,3,4,2,5,Listen still reflect wrong step many prepare.,40.0
+475,2023-12-15,H2-2023,5,4,4,5,5,Better rule without wait hospital.,100.0
+475,2024-06-15,H1-2024,3,5,4,5,5,Always son lose step sister huge capital.,100.0
+475,2024-12-15,H2-2024,3,4,4,4,5,Later might behind single treat here material sea.,80.0
+475,2025-06-15,H1-2025,5,4,4,5,5,Degree out today PM.,100.0
+476,2023-06-15,H1-2023,4,2,3,4,5,Research far scientist save woman part same.,80.0
+476,2023-12-15,H2-2023,2,3,2,3,5,Small music page sometimes line.,60.0
+476,2024-06-15,H1-2024,2,2,2,2,5,Despite line discover time.,40.0
+476,2024-12-15,H2-2024,4,2,3,4,5,World term size nature loss sell sea.,80.0
+476,2025-06-15,H1-2025,3,3,3,4,5,Prevent kitchen must city will.,80.0
+477,2023-06-15,H1-2023,4,4,4,5,5,Woman sing school send pay control although.,100.0
+477,2023-12-15,H2-2023,2,2,2,4,5,Central situation item so.,80.0
+477,2024-06-15,H1-2024,3,2,2,5,5,Approach concern answer future.,100.0
+477,2024-12-15,H2-2024,2,4,3,5,5,Instead get task lose simply similar expect.,100.0
+477,2025-06-15,H1-2025,3,3,3,5,5,Face not none ahead.,100.0
+478,2023-06-15,H1-2023,3,2,2,5,5,Television along fine cause money forward but kid.,100.0
+478,2023-12-15,H2-2023,3,3,3,3,5,Exactly push life sort off security reflect.,60.0
+478,2024-06-15,H1-2024,3,2,2,3,5,Public turn base.,60.0
+478,2024-12-15,H2-2024,2,2,2,2,5,Behavior benefit almost.,40.0
+478,2025-06-15,H1-2025,2,3,2,3,5,Adult trouble plan number somebody vote good.,60.0
+479,2023-06-15,H1-2023,4,5,4,3,5,Race hard charge who way.,60.0
+479,2023-12-15,H2-2023,5,5,5,3,5,Cover remember recognize.,60.0
+479,2024-06-15,H1-2024,5,3,4,3,5,Service story analysis.,60.0
+479,2024-12-15,H2-2024,5,4,4,2,5,Tv evening another avoid mouth want three seat.,40.0
+479,2025-06-15,H1-2025,5,4,4,3,5,Value rest risk or agency within fight.,60.0
+481,2023-06-15,H1-2023,3,3,3,3,5,Increase full wind it state.,60.0
+481,2023-12-15,H2-2023,4,2,3,4,5,Garden never table positive through.,80.0
+481,2024-06-15,H1-2024,3,3,3,3,5,Table air artist any include.,60.0
+481,2024-12-15,H2-2024,4,3,4,2,5,So drive place push.,40.0
+481,2025-06-15,H1-2025,2,3,2,3,5,Network meet herself sometimes person natural clearly.,60.0
+482,2023-06-15,H1-2023,4,3,4,5,5,Street song several record new.,100.0
+482,2023-12-15,H2-2023,4,4,4,3,5,Sell better least bring east picture.,60.0
+482,2024-06-15,H1-2024,3,5,4,2,5,Ability eight another hundred option time stay commercial.,40.0
+482,2024-12-15,H2-2024,4,5,4,2,5,Through nature song prevent common stock key.,40.0
+482,2025-06-15,H1-2025,3,3,3,5,5,Total trade daughter last court.,100.0
+483,2023-06-15,H1-2023,4,4,4,4,5,Four decade own final cost civil southern.,80.0
+483,2023-12-15,H2-2023,2,2,2,3,5,Image fine if believe oil then daughter.,60.0
+483,2024-06-15,H1-2024,3,4,4,2,5,Officer husband tough break become compare out believe.,40.0
+483,2024-12-15,H2-2024,3,4,4,5,5,Ok clear building air machine success scientist.,100.0
+483,2025-06-15,H1-2025,3,3,3,5,5,Ahead create grow cut stay until.,100.0
+484,2023-06-15,H1-2023,5,5,5,4,5,What hope pay someone player business.,80.0
+484,2023-12-15,H2-2023,4,4,4,3,5,Place do list contain show line somebody.,60.0
+484,2024-06-15,H1-2024,4,5,4,5,5,Heavy level meeting name.,100.0
+484,2024-12-15,H2-2024,5,4,4,5,5,Tonight check exactly.,100.0
+484,2025-06-15,H1-2025,5,5,5,5,5,Challenge worry talk create past agent.,100.0
+485,2023-06-15,H1-2023,5,5,5,3,5,Western newspaper cold lay process war seat.,60.0
+485,2023-12-15,H2-2023,4,5,4,2,5,Score dream agreement admit.,40.0
+485,2024-06-15,H1-2024,4,4,4,4,5,Direction financial few manage music all use.,80.0
+485,2024-12-15,H2-2024,5,5,5,4,5,Case keep citizen listen rest old customer.,80.0
+485,2025-06-15,H1-2025,4,5,4,4,5,Bed agree town throughout return.,80.0
+486,2023-06-15,H1-2023,1,1,1,3,5,Must bag for thousand suddenly note town.,60.0
+486,2023-12-15,H2-2023,1,1,1,3,5,She peace production skill name life write.,60.0
+486,2024-06-15,H1-2024,2,2,2,4,5,Idea word must since people service now.,80.0
+486,2024-12-15,H2-2024,2,1,2,3,5,People how notice notice.,60.0
+486,2025-06-15,H1-2025,1,1,1,2,5,True local second seem fill pressure ahead computer.,40.0
+487,2023-06-15,H1-2023,5,5,5,3,5,Lead strong worry dog child oil.,60.0
+487,2023-12-15,H2-2023,4,4,4,5,5,Already specific itself beyond step turn finally pattern.,100.0
+487,2024-06-15,H1-2024,5,5,5,2,5,Artist international board hope start nation arm.,40.0
+487,2024-12-15,H2-2024,5,4,4,2,5,Six style director everything new.,40.0
+487,2025-06-15,H1-2025,4,3,4,2,5,Similar training military radio born often.,40.0
+488,2023-06-15,H1-2023,2,2,2,2,5,Especially sit for too add new.,40.0
+488,2023-12-15,H2-2023,4,4,4,3,5,Approach coach something whether.,60.0
+488,2024-06-15,H1-2024,4,2,3,2,5,Many store general wrong knowledge.,40.0
+488,2024-12-15,H2-2024,4,4,4,4,5,Herself save century together sort board Congress our.,80.0
+488,2025-06-15,H1-2025,3,3,3,4,5,Land represent environment board TV them.,80.0
+489,2023-06-15,H1-2023,5,5,5,3,5,Kind break color record unit herself.,60.0
+489,2023-12-15,H2-2023,5,5,5,4,5,Need either edge law.,80.0
+489,2024-06-15,H1-2024,5,5,5,2,5,Identify prove standard body find drive.,40.0
+489,2024-12-15,H2-2024,5,4,4,5,5,Into data food see weight.,100.0
+489,2025-06-15,H1-2025,4,5,4,3,5,Third explain sound bring ahead listen.,60.0
+490,2023-06-15,H1-2023,4,4,4,2,5,History wrong final peace by.,40.0
+490,2023-12-15,H2-2023,3,2,2,4,5,Computer strategy factor identify himself increase.,80.0
+490,2024-06-15,H1-2024,2,2,2,3,5,Add position play since.,60.0
+490,2024-12-15,H2-2024,2,2,2,2,5,Fight become source and.,40.0
+490,2025-06-15,H1-2025,4,3,4,2,5,Blue authority agency example something whose.,40.0
+491,2023-06-15,H1-2023,2,2,2,3,5,Decision between if range.,60.0
+491,2023-12-15,H2-2023,2,4,3,5,5,Us them field maybe through property thank.,100.0
+491,2024-06-15,H1-2024,2,3,2,4,5,Challenge former east a pay simply him.,80.0
+491,2024-12-15,H2-2024,2,3,2,3,5,Expect walk role leader hard understand serve.,60.0
+491,2025-06-15,H1-2025,4,3,4,2,5,List allow street develop let brother so.,40.0
+492,2023-06-15,H1-2023,2,1,2,5,5,Study option successful law already.,100.0
+492,2023-12-15,H2-2023,1,3,2,2,5,Movie positive dog particularly fish similar you.,40.0
+492,2024-06-15,H1-2024,1,3,2,5,5,Happen walk loss join mind place.,100.0
+492,2024-12-15,H2-2024,1,3,2,4,5,Table although they alone hot.,80.0
+492,2025-06-15,H1-2025,1,1,1,4,5,Note debate question offer safe do.,80.0
+493,2023-06-15,H1-2023,5,3,4,3,5,Stuff another well operation security drop focus through.,60.0
+493,2023-12-15,H2-2023,5,4,4,5,5,Box performance matter black military.,100.0
+493,2024-06-15,H1-2024,5,3,4,3,5,Require news Congress may.,60.0
+493,2024-12-15,H2-2024,4,4,4,4,5,Learn movie concern part one.,80.0
+493,2025-06-15,H1-2025,5,4,4,5,5,Put participant individual.,100.0
+494,2023-06-15,H1-2023,4,3,4,5,5,Star population I skill star.,100.0
+494,2023-12-15,H2-2023,4,4,4,3,5,Character fight nearly shoulder area white close.,60.0
+494,2024-06-15,H1-2024,3,3,3,2,5,Across his quickly its age.,40.0
+494,2024-12-15,H2-2024,3,4,4,4,5,Member station kid history human.,80.0
+494,2025-06-15,H1-2025,2,3,2,3,5,Day fund nice usually provide.,60.0
+495,2023-06-15,H1-2023,3,4,4,5,5,Today page box interest vote plan prepare.,100.0
+495,2023-12-15,H2-2023,5,3,4,3,5,Question out industry truth material change.,60.0
+495,2024-06-15,H1-2024,5,4,4,2,5,Check research weight they outside movie.,40.0
+495,2024-12-15,H2-2024,4,5,4,3,5,Final free deal from plant commercial same.,60.0
+495,2025-06-15,H1-2025,4,5,4,3,5,Bill it arm fact stock particular.,60.0
+496,2023-06-15,H1-2023,3,3,3,5,5,Yes some according read.,100.0
+496,2023-12-15,H2-2023,4,4,4,2,5,Few media require that.,40.0
+496,2024-06-15,H1-2024,2,2,2,4,5,Would national this instead send follow security area.,80.0
+496,2024-12-15,H2-2024,2,3,2,4,5,Close hard season especially order meeting.,80.0
+496,2025-06-15,H1-2025,4,4,4,2,5,Clearly lose personal market accept apply.,40.0
+497,2023-06-15,H1-2023,3,3,3,3,5,Maybe about admit individual.,60.0
+497,2023-12-15,H2-2023,3,1,2,2,5,Style customer out admit support may game member.,40.0
+497,2024-06-15,H1-2024,2,3,2,2,5,Agency attorney action clearly president sure here.,40.0
+497,2024-12-15,H2-2024,1,1,1,5,5,Born enter last generation staff.,100.0
+497,2025-06-15,H1-2025,2,1,2,2,5,Book whole work there.,40.0
+498,2023-06-15,H1-2023,5,5,5,3,5,Floor pick list data now.,60.0
+498,2023-12-15,H2-2023,5,5,5,2,5,Market very face protect land.,40.0
+498,2024-06-15,H1-2024,4,4,4,3,5,Listen democratic money number able.,60.0
+498,2024-12-15,H2-2024,5,5,5,3,5,Most hand happy.,60.0
+498,2025-06-15,H1-2025,4,3,4,3,5,Consider receive among your away soldier nothing.,60.0
+499,2023-06-15,H1-2023,1,2,2,4,5,Blood break else onto.,80.0
+499,2023-12-15,H2-2023,2,2,2,3,5,Film pull I box part indeed.,60.0
+499,2024-06-15,H1-2024,2,1,2,2,5,Heavy outside day head both drug a final.,40.0
+499,2024-12-15,H2-2024,1,1,1,5,5,Western floor cover use participant ground conference.,100.0
+499,2025-06-15,H1-2025,1,1,1,3,5,Agree cover son end push bring.,60.0
+500,2023-06-15,H1-2023,3,4,4,4,5,Chance no within experience.,80.0
+500,2023-12-15,H2-2023,4,4,4,5,5,Ever simply upon artist hard him.,100.0
+500,2024-06-15,H1-2024,4,4,4,3,5,Source top not over what happy.,60.0
+500,2024-12-15,H2-2024,4,3,4,3,5,Thousand take movie table.,60.0
+500,2025-06-15,H1-2025,3,4,4,3,5,What reality consumer company network accept.,60.0

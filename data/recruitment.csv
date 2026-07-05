@@ -1,0 +1,201 @@
+candidate_id,first_name,last_name,applied_position,application_date,status,source,interview_score,offer_amount,joining_date,offer_accepted,days_to_offer,department
+1,Sarah,Torres,Account Executive,2026-07-05,Rejected,Indeed,64.79,,,False,9,Sales
+2,Steven,Adams,SEO Specialist,2026-07-05,In Process,Indeed,76.12,,,False,41,Marketing
+3,Luis,Walter,Software Engineer,2026-07-05,In Process,Job Fair,84.33,,,False,31,IT
+4,Stephanie,Harvey,Marketing Manager,2026-07-05,In Process,Job Fair,50.95,,,False,13,Marketing
+5,Grace,Fisher,Software Engineer,2026-07-05,On Hold,LinkedIn,41.85,,,False,8,IT
+6,Steven,Rice,Marketing Manager,2026-07-05,Rejected,LinkedIn,49.02,,,False,43,Marketing
+7,James,Singleton,HR Executive,2026-07-05,In Process,Job Fair,71.12,,,False,34,Human Resources
+8,Andrea,Salinas,Auditor,2026-07-05,Selected,LinkedIn,62.36,46420.89,,False,24,Finance
+9,Charles,Pruitt,SEO Specialist,2026-07-05,In Process,LinkedIn,41.2,,,False,11,Marketing
+10,Christine,Williams,IT Manager,2026-07-05,On Hold,Company Website,87.62,,,False,22,IT
+11,John,Gonzales,Marketing Manager,2026-07-05,Selected,Company Website,88.17,102313.97,,False,30,Marketing
+12,April,Hoffman,Operations Manager,2026-07-05,In Process,LinkedIn,93.29,,,False,25,Operations
+13,Juan,Villa,Recruiter,2026-07-05,On Hold,Referral,78.15,,,False,41,Human Resources
+14,Max,Williams,System Analyst,2026-07-05,Rejected,Company Website,78.94,,,False,27,IT
+15,Cassie,Miller,Marketing Associate,2026-07-05,Selected,Job Fair,75.62,100959.7,,False,16,Marketing
+16,Bryan,Hodges,Sales Executive,2026-07-05,Selected,Job Fair,53.92,44556.15,,False,23,Sales
+17,Justin,Scott,Financial Analyst,2026-07-05,In Process,Referral,75.64,,,False,10,Finance
+18,Andrea,Key,Content Writer,2026-07-05,In Process,Indeed,80.42,,,False,37,Marketing
+19,Cassandra,May,Logistics Executive,2026-07-05,Selected,LinkedIn,60.51,69011.84,2026-08-11,True,38,Operations
+20,Jasmin,Finley,Financial Analyst,2026-07-05,In Process,Campus Recruitment,57.21,,,False,14,Finance
+21,Mariah,Berry,Scientist,2026-07-05,In Process,Company Website,46.46,,,False,30,Research & Development
+22,Brenda,Thomas,Sales Manager,2026-07-05,Selected,LinkedIn,46.96,102589.84,,False,39,Sales
+23,Zachary,Wilkins,Recruiter,2026-07-05,Selected,Indeed,60.94,40226.78,,False,40,Human Resources
+24,Michael,Thompson,Logistics Executive,2026-07-05,Selected,LinkedIn,65.4,49463.61,2026-08-16,True,27,Operations
+25,Jennifer,Taylor,Auditor,2026-07-05,In Process,Company Website,76.13,,,False,43,Finance
+26,Ryan,Norris,Sales Manager,2026-07-05,On Hold,Indeed,53.35,,,False,35,Sales
+27,Michelle,Flowers,Recruiter,2026-07-05,On Hold,Job Fair,80.28,,,False,43,Human Resources
+28,Glenda,Rodriguez,Network Administrator,2026-07-05,On Hold,Campus Recruitment,99.73,,,False,22,IT
+29,Marvin,Wallace,Research Director,2026-07-05,Selected,LinkedIn,58.53,81813.07,2026-08-05,True,8,Research & Development
+30,Katherine,Peters,HR Coordinator,2026-07-05,Rejected,Referral,71.5,,,False,32,Human Resources
+31,Katherine,Murphy,Supply Chain Coordinator,2026-07-05,Rejected,Indeed,70.77,,,False,27,Operations
+32,Carlos,Benjamin,Finance Manager,2026-07-05,Selected,LinkedIn,82.33,70999.66,,False,34,Finance
+33,John,Hernandez,Sales Representative,2026-07-05,On Hold,Indeed,93.34,,,False,43,Sales
+34,Morgan,Hill,Marketing Manager,2026-07-05,Selected,Indeed,71.07,77287.08,2026-08-09,True,33,Marketing
+35,Eric,James,IT Manager,2026-07-05,In Process,LinkedIn,78.45,,,False,17,IT
+36,Jason,Owens,Financial Analyst,2026-07-05,Selected,Indeed,74.73,84474.24,,False,27,Finance
+37,Cory,Taylor,System Analyst,2026-07-05,On Hold,Job Fair,41.29,,,False,13,IT
+38,David,Joseph,IT Manager,2026-07-05,On Hold,Campus Recruitment,69.55,,,False,24,IT
+39,Michelle,Ponce,Network Administrator,2026-07-05,In Process,Indeed,45.04,,,False,34,IT
+40,Brett,Acosta,Sales Representative,2026-07-05,Selected,Indeed,84.16,104206.96,,False,13,Sales
+41,Paul,Lyons,Content Writer,2026-07-05,On Hold,Indeed,46.7,,,False,39,Marketing
+42,Laura,Daniel,Research Director,2026-07-05,Rejected,Company Website,67.97,,,False,13,Research & Development
+43,Jacqueline,Gonzales,Sales Manager,2026-07-05,On Hold,Job Fair,65.35,,,False,38,Sales
+44,Heather,Aguilar,Research Director,2026-07-05,Rejected,Job Fair,85.67,,,False,26,Research & Development
+45,Tiffany,Zuniga,R&D Manager,2026-07-05,On Hold,Referral,90.59,,,False,40,Research & Development
+46,April,Alvarado,SEO Specialist,2026-07-05,Selected,Company Website,80.74,102966.5,2026-08-19,True,28,Marketing
+47,Matthew,Hardin,Scientist,2026-07-05,Rejected,Referral,77.56,,,False,10,Research & Development
+48,James,Parker,Software Engineer,2026-07-05,Rejected,Campus Recruitment,60.34,,,False,17,IT
+49,Kyle,Carroll,HR Manager,2026-07-05,Rejected,LinkedIn,40.75,,,False,37,Human Resources
+50,Seth,Smith,Accountant,2026-07-05,In Process,Company Website,94.8,,,False,23,Finance
+51,Jacob,Jones,Financial Analyst,2026-07-05,On Hold,Company Website,49.88,,,False,26,Finance
+52,Joshua,Elliott,Recruiter,2026-07-05,In Process,Job Fair,44.79,,,False,37,Human Resources
+53,Alicia,Ali,Sales Manager,2026-07-05,Rejected,Campus Recruitment,41.51,,,False,45,Sales
+54,Kristina,Hunt,Accountant,2026-07-05,In Process,LinkedIn,71.85,,,False,42,Finance
+55,Wyatt,Gonzales,Supply Chain Coordinator,2026-07-05,Rejected,Company Website,77.06,,,False,11,Operations
+56,Carrie,Collins,Financial Analyst,2026-07-05,Selected,Campus Recruitment,66.57,86291.33,2026-08-29,True,37,Finance
+57,Jessica,Martin,Content Writer,2026-07-05,In Process,LinkedIn,89.86,,,False,31,Marketing
+58,Jimmy,Taylor,Account Executive,2026-07-05,Selected,Campus Recruitment,48.82,86217.31,2026-08-24,True,8,Sales
+59,Katherine,Thomas,Content Writer,2026-07-05,In Process,LinkedIn,63.7,,,False,16,Marketing
+60,John,Jenkins,SEO Specialist,2026-07-05,Selected,Indeed,71.5,67957.36,2026-08-31,True,31,Marketing
+61,Aaron,Ramirez,Sales Representative,2026-07-05,On Hold,Company Website,60.23,,,False,27,Sales
+62,James,Cuevas,Logistics Executive,2026-07-05,In Process,Job Fair,75.65,,,False,17,Operations
+63,James,Brooks,Sales Manager,2026-07-05,On Hold,Job Fair,63.41,,,False,16,Sales
+64,Christopher,Blair,Operations Analyst,2026-07-05,Rejected,Referral,43.46,,,False,32,Operations
+65,Michael,Riley,IT Manager,2026-07-05,Rejected,Indeed,92.59,,,False,37,IT
+66,Daniel,White,HR Coordinator,2026-07-05,In Process,Job Fair,85.76,,,False,9,Human Resources
+67,Christy,Diaz,Recruiter,2026-07-05,In Process,LinkedIn,98.97,,,False,21,Human Resources
+68,Raymond,Hall,HR Executive,2026-07-05,On Hold,Company Website,87.26,,,False,45,Human Resources
+69,Christina,Wilson,Operations Analyst,2026-07-05,Selected,Referral,66.99,79269.88,2026-08-11,True,40,Operations
+70,Heather,Barnes,Financial Analyst,2026-07-05,On Hold,Job Fair,81.17,,,False,43,Finance
+71,Michelle,Wilson,HR Executive,2026-07-05,Selected,Company Website,58.13,54056.77,2026-08-06,True,39,Human Resources
+72,Evelyn,Smith,Logistics Executive,2026-07-05,Selected,Indeed,44.4,35581.43,2026-08-13,True,42,Operations
+73,Melissa,Brandt,Logistics Executive,2026-07-05,Rejected,Referral,89.94,,,False,18,Operations
+74,Alison,Sweeney,Logistics Executive,2026-07-05,On Hold,Campus Recruitment,80.98,,,False,9,Operations
+75,Timothy,Shelton,System Analyst,2026-07-05,In Process,Company Website,55.88,,,False,41,IT
+76,Kathy,Williams,Sales Manager,2026-07-05,Rejected,Company Website,56.73,,,False,9,Sales
+77,Taylor,Thomas,Financial Analyst,2026-07-05,Rejected,Indeed,40.9,,,False,38,Finance
+78,Brian,Clark,Lab Technician,2026-07-05,Selected,Indeed,88.43,107687.73,2026-07-21,True,27,Research & Development
+79,Alison,Norton,IT Manager,2026-07-05,In Process,LinkedIn,49.69,,,False,39,IT
+80,Timothy,Jensen,Auditor,2026-07-05,Rejected,LinkedIn,70.8,,,False,20,Finance
+81,Matthew,Burns,Accountant,2026-07-05,On Hold,Job Fair,41.93,,,False,41,Finance
+82,Amy,Lewis,Network Administrator,2026-07-05,In Process,Indeed,83.96,,,False,42,IT
+83,Brian,Braun,Sales Manager,2026-07-05,In Process,Company Website,40.95,,,False,44,Sales
+84,Patrick,Chase,Software Engineer,2026-07-05,On Hold,Job Fair,55.79,,,False,29,IT
+85,Ashley,Roberts,Sales Representative,2026-07-05,In Process,Company Website,96.67,,,False,30,Sales
+86,Selena,Medina,HR Coordinator,2026-07-05,In Process,Campus Recruitment,70.73,,,False,45,Human Resources
+87,Ryan,Hodges,HR Executive,2026-07-05,Rejected,Company Website,55.81,,,False,31,Human Resources
+88,Michael,Burns,R&D Manager,2026-07-05,On Hold,Company Website,81.79,,,False,21,Research & Development
+89,Nicole,Rodriguez,SEO Specialist,2026-07-05,Selected,Indeed,61.89,101150.06,,False,44,Marketing
+90,Vincent,Peterson,Account Executive,2026-07-05,Rejected,Referral,75.86,,,False,45,Sales
+91,Victor,Cruz,Financial Analyst,2026-07-05,In Process,Campus Recruitment,75.58,,,False,15,Finance
+92,Donna,Sanchez,SEO Specialist,2026-07-05,Selected,Indeed,97.45,77492.58,2026-07-24,True,27,Marketing
+93,Peter,Murray,Operations Manager,2026-07-05,Selected,Job Fair,70.63,61312.06,,False,44,Operations
+94,Tamara,Pierce,HR Executive,2026-07-05,Rejected,LinkedIn,99.42,,,False,16,Human Resources
+95,Karen,Cantu,Network Administrator,2026-07-05,In Process,Referral,92.32,,,False,35,IT
+96,Natalie,Mccall,Finance Manager,2026-07-05,On Hold,Referral,45.16,,,False,32,Finance
+97,Adrienne,Morris,Network Administrator,2026-07-05,Selected,Company Website,61.21,46350.22,2026-08-15,True,9,IT
+98,Darrell,Bass,Recruiter,2026-07-05,Rejected,LinkedIn,84.24,,,False,29,Human Resources
+99,Douglas,Lewis,Financial Analyst,2026-07-05,On Hold,Referral,47.1,,,False,25,Finance
+100,Robert,Brown,Research Director,2026-07-05,Selected,Indeed,82.41,87289.19,2026-08-09,True,17,Research & Development
+101,Harry,Hoffman,Marketing Associate,2026-07-05,Rejected,Company Website,71.07,,,False,8,Marketing
+102,Luis,Cooper,Recruiter,2026-07-05,Rejected,Job Fair,74.32,,,False,37,Human Resources
+103,Stephanie,Hernandez,Financial Analyst,2026-07-05,Selected,LinkedIn,51.66,42544.06,,False,12,Finance
+104,Steven,Newton,Scientist,2026-07-05,Rejected,Indeed,77.24,,,False,36,Research & Development
+105,Derrick,Porter,HR Executive,2026-07-05,Selected,Company Website,99.54,44721.12,2026-08-18,True,36,Human Resources
+106,Devin,Anderson,Sales Manager,2026-07-05,On Hold,Campus Recruitment,71.91,,,False,30,Sales
+107,Jeffrey,Alexander,HR Manager,2026-07-05,On Hold,Job Fair,53.45,,,False,35,Human Resources
+108,Jorge,Waters,R&D Manager,2026-07-05,In Process,Indeed,96.84,,,False,37,Research & Development
+109,Mary,Adams,HR Executive,2026-07-05,Selected,Campus Recruitment,80.79,61289.26,2026-08-14,True,34,Human Resources
+110,Ashley,Jones,R&D Manager,2026-07-05,In Process,Job Fair,56.05,,,False,18,Research & Development
+111,Preston,Harris,HR Executive,2026-07-05,Selected,Company Website,77.87,100513.77,,False,30,Human Resources
+112,Tammy,Bowers,IT Manager,2026-07-05,On Hold,Job Fair,41.55,,,False,22,IT
+113,Hannah,Perez,Account Executive,2026-07-05,Selected,Job Fair,76.79,94261.13,2026-07-29,True,9,Sales
+114,Michael,Roberts,Auditor,2026-07-05,On Hold,Job Fair,78.09,,,False,7,Finance
+115,Cheyenne,Mcdonald,R&D Manager,2026-07-05,On Hold,Campus Recruitment,88.91,,,False,25,Research & Development
+116,Tony,Pitts,Finance Manager,2026-07-05,Selected,Campus Recruitment,64.54,96858.03,2026-08-24,True,16,Finance
+117,Diane,Cole,Marketing Manager,2026-07-05,On Hold,Job Fair,58.95,,,False,14,Marketing
+118,Shane,Stewart,Scientist,2026-07-05,In Process,Job Fair,57.94,,,False,36,Research & Development
+119,Katherine,Lewis,Recruiter,2026-07-05,In Process,Company Website,84.19,,,False,25,Human Resources
+120,Christopher,Hoffman,Operations Manager,2026-07-05,In Process,Campus Recruitment,59.23,,,False,21,Operations
+121,David,Cook,IT Manager,2026-07-05,In Process,LinkedIn,79.1,,,False,31,IT
+122,Dorothy,Anderson,Sales Executive,2026-07-05,In Process,LinkedIn,87.07,,,False,27,Sales
+123,Jennifer,Williams,Marketing Manager,2026-07-05,On Hold,Referral,68.55,,,False,41,Marketing
+124,Derek,Hernandez,Auditor,2026-07-05,Selected,Indeed,85.5,39787.85,2026-08-01,True,31,Finance
+125,Tyler,Sherman,System Analyst,2026-07-05,On Hold,Referral,96.33,,,False,12,IT
+126,John,Villarreal,Recruiter,2026-07-05,Selected,Company Website,52.87,90335.42,,False,36,Human Resources
+127,Brent,Gonzales,Lab Technician,2026-07-05,On Hold,Referral,66.32,,,False,13,Research & Development
+128,Justin,Cherry,Finance Manager,2026-07-05,On Hold,Job Fair,47.43,,,False,10,Finance
+129,Felicia,Cook,Marketing Associate,2026-07-05,Rejected,Company Website,53.8,,,False,27,Marketing
+130,Rebekah,Hamilton,HR Executive,2026-07-05,Rejected,Campus Recruitment,96.5,,,False,39,Human Resources
+131,Sheryl,Johnson,HR Manager,2026-07-05,Rejected,Job Fair,96.8,,,False,26,Human Resources
+132,Victor,Horn,Auditor,2026-07-05,In Process,Indeed,46.64,,,False,42,Finance
+133,Marc,Dudley,Accountant,2026-07-05,On Hold,Company Website,42.5,,,False,17,Finance
+134,Jason,Valentine,System Analyst,2026-07-05,On Hold,Company Website,65.49,,,False,39,IT
+135,Cheryl,Spencer,Recruiter,2026-07-05,On Hold,Campus Recruitment,90.22,,,False,10,Human Resources
+136,Christopher,Juarez,Scientist,2026-07-05,Selected,Indeed,66.79,99990.1,2026-08-31,True,37,Research & Development
+137,Ryan,Pearson,R&D Manager,2026-07-05,In Process,Company Website,99.25,,,False,14,Research & Development
+138,David,Barnes,Scientist,2026-07-05,Selected,Campus Recruitment,73.4,37226.8,2026-08-03,True,42,Research & Development
+139,Joseph,Hart,IT Manager,2026-07-05,In Process,Job Fair,87.86,,,False,19,IT
+140,Tina,Bolton,Auditor,2026-07-05,Selected,Company Website,42.42,83131.34,2026-08-04,True,12,Finance
+141,Dorothy,Wilson,IT Manager,2026-07-05,On Hold,Referral,87.04,,,False,31,IT
+142,Andre,Quinn,Lab Technician,2026-07-05,In Process,LinkedIn,93.02,,,False,20,Research & Development
+143,Mary,Gilbert,Finance Manager,2026-07-05,On Hold,Job Fair,71.82,,,False,40,Finance
+144,Dawn,Taylor,Marketing Associate,2026-07-05,On Hold,Campus Recruitment,62.57,,,False,30,Marketing
+145,Charles,Coleman,System Analyst,2026-07-05,Rejected,Company Website,81.45,,,False,22,IT
+146,Craig,Perkins,Financial Analyst,2026-07-05,Selected,Indeed,95.56,95432.13,2026-09-02,True,16,Finance
+147,Cindy,Brown,Accountant,2026-07-05,In Process,Company Website,67.73,,,False,27,Finance
+148,Richard,Valenzuela,Financial Analyst,2026-07-05,On Hold,Campus Recruitment,90.05,,,False,29,Finance
+149,Patricia,Gamble,Recruiter,2026-07-05,In Process,LinkedIn,65.4,,,False,42,Human Resources
+150,Larry,Carr,Lab Technician,2026-07-05,Rejected,Campus Recruitment,78.61,,,False,18,Research & Development
+151,Gina,Downs,Marketing Manager,2026-07-05,On Hold,Referral,80.38,,,False,41,Marketing
+152,Joshua,Reid,System Analyst,2026-07-05,Rejected,Company Website,98.55,,,False,38,IT
+153,Kelly,Wood,Finance Manager,2026-07-05,In Process,Company Website,95.71,,,False,33,Finance
+154,Krista,Bishop,HR Manager,2026-07-05,Rejected,Job Fair,40.42,,,False,29,Human Resources
+155,Jay,Jackson,Network Administrator,2026-07-05,In Process,Referral,74.92,,,False,45,IT
+156,Karen,Rogers,Operations Analyst,2026-07-05,On Hold,LinkedIn,84.04,,,False,33,Operations
+157,Mary,Schmidt,HR Coordinator,2026-07-05,In Process,LinkedIn,40.81,,,False,43,Human Resources
+158,Stephanie,Atkins,SEO Specialist,2026-07-05,On Hold,LinkedIn,63.99,,,False,35,Marketing
+159,Angela,Carter,Marketing Associate,2026-07-05,On Hold,LinkedIn,69.25,,,False,37,Marketing
+160,Travis,Miller,Account Executive,2026-07-05,In Process,Company Website,65.85,,,False,41,Sales
+161,Anita,Allen,Network Administrator,2026-07-05,Rejected,Company Website,67.83,,,False,31,IT
+162,Kristie,Fernandez,Software Engineer,2026-07-05,Selected,LinkedIn,54.05,100174.26,2026-08-22,True,11,IT
+163,Colleen,Thompson,HR Manager,2026-07-05,In Process,Referral,72.17,,,False,27,Human Resources
+164,Mary,Cruz,IT Manager,2026-07-05,In Process,LinkedIn,95.04,,,False,17,IT
+165,Kelly,Thompson,Research Director,2026-07-05,On Hold,Indeed,56.0,,,False,28,Research & Development
+166,William,Perkins,SEO Specialist,2026-07-05,In Process,Indeed,49.09,,,False,10,Marketing
+167,Kelly,Henderson,Scientist,2026-07-05,On Hold,LinkedIn,48.68,,,False,24,Research & Development
+168,Valerie,Chapman,HR Manager,2026-07-05,On Hold,Job Fair,55.37,,,False,23,Human Resources
+169,Alejandra,Colon,HR Coordinator,2026-07-05,On Hold,LinkedIn,86.5,,,False,42,Human Resources
+170,Brandon,Warren,Lab Technician,2026-07-05,Rejected,LinkedIn,64.87,,,False,31,Research & Development
+171,Randall,Wilson,Accountant,2026-07-05,Rejected,Company Website,79.86,,,False,14,Finance
+172,Michelle,Medina,Lab Technician,2026-07-05,Rejected,Referral,98.77,,,False,13,Research & Development
+173,Brenda,Horton,Sales Manager,2026-07-05,On Hold,Company Website,94.87,,,False,26,Sales
+174,Heather,Bruce,Software Engineer,2026-07-05,On Hold,Company Website,57.48,,,False,45,IT
+175,Nicholas,Jones,Sales Executive,2026-07-05,In Process,LinkedIn,68.86,,,False,39,Sales
+176,Jeffrey,Thomas,HR Executive,2026-07-05,In Process,Referral,96.01,,,False,9,Human Resources
+177,Destiny,Wiggins,Account Executive,2026-07-05,On Hold,Company Website,47.6,,,False,10,Sales
+178,Jeffrey,Price,Network Administrator,2026-07-05,On Hold,Campus Recruitment,96.19,,,False,9,IT
+179,Suzanne,Hamilton,System Analyst,2026-07-05,Rejected,Job Fair,97.77,,,False,24,IT
+180,Richard,Walsh,Account Executive,2026-07-05,Rejected,Campus Recruitment,85.73,,,False,10,Sales
+181,Raymond,Brown,HR Manager,2026-07-05,On Hold,Campus Recruitment,78.84,,,False,30,Human Resources
+182,Anthony,House,Scientist,2026-07-05,Selected,Referral,54.72,104402.76,,False,12,Research & Development
+183,Todd,Baker,Sales Manager,2026-07-05,Selected,Referral,64.42,59181.29,2026-07-29,True,44,Sales
+184,Ann,Johnson,SEO Specialist,2026-07-05,On Hold,Campus Recruitment,94.76,,,False,9,Marketing
+185,Roy,Phillips,Marketing Associate,2026-07-05,In Process,LinkedIn,73.46,,,False,18,Marketing
+186,Anthony,Schmidt,Marketing Manager,2026-07-05,On Hold,Job Fair,47.85,,,False,21,Marketing
+187,Tina,Drake,Recruiter,2026-07-05,Rejected,Campus Recruitment,68.17,,,False,26,Human Resources
+188,Paul,Hess,Network Administrator,2026-07-05,Rejected,Company Website,78.17,,,False,29,IT
+189,Justin,Wolfe,Account Executive,2026-07-05,Rejected,Indeed,66.21,,,False,11,Sales
+190,Dawn,Jones,Marketing Associate,2026-07-05,On Hold,Company Website,91.73,,,False,10,Marketing
+191,Rebekah,Brooks,Logistics Executive,2026-07-05,In Process,Indeed,47.45,,,False,36,Operations
+192,Tracie,Lane,HR Executive,2026-07-05,Rejected,Company Website,69.37,,,False,17,Human Resources
+193,Eric,Baker,Lab Technician,2026-07-05,Rejected,Referral,70.92,,,False,30,Research & Development
+194,Amanda,Sosa,Marketing Manager,2026-07-05,In Process,Campus Recruitment,50.48,,,False,31,Marketing
+195,Christine,Wall,Content Writer,2026-07-05,Rejected,Campus Recruitment,48.15,,,False,28,Marketing
+196,Lisa,Fitzpatrick,System Analyst,2026-07-05,On Hold,Job Fair,43.89,,,False,36,IT
+197,Sophia,Parker,IT Manager,2026-07-05,On Hold,Job Fair,67.77,,,False,21,IT
+198,Matthew,White,Financial Analyst,2026-07-05,On Hold,Referral,79.99,,,False,13,Finance
+199,Robert,Davis,Finance Manager,2026-07-05,Selected,LinkedIn,98.67,36413.26,2026-08-15,True,8,Finance
+200,Candice,Turner,HR Executive,2026-07-05,Rejected,Referral,51.7,,,False,42,Human Resources
